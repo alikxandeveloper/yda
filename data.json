@@ -1,0 +1,3298 @@
+[
+  {
+    "id": 0,
+    "ques": "LabVIEW da yuzadagi panel nima",
+    "a": "virtual uskunaning interfaol foydalanadigan interfeysi deb aytiladi",
+    "b": "grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi",
+    "c": "foydalanuvchi kiritadigan ma'lumotlar",
+    "d": "foydalanuvchiga chiqariladigadigan ma'lumotlar"
+  },
+  {
+    "id": 1,
+    "ques": "LabVIEW da diagrammalar-bloki nima",
+    "a": "LabVIEW grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi",
+    "b": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "c": "foydalanuvchi kiritadigan ma'lumotlar",
+    "d": "foydalanuvchiga chiqariladigadigan ma'lumotlar"
+  },
+  {
+    "id": 2,
+    "ques": "LabVIEW da \"boshqarish elementi\" nima",
+    "a": "foydalanuvchi tomonidan kiritadigan ma'lumotlar to'plami",
+    "b": "grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi",
+    "c": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "d": "foydalanuvchiga chiqariladigadigan ma'lumotlar"
+  },
+  {
+    "id": 3,
+    "ques": "LabVIEW da \"indikator\" nima",
+    "a": "foydalanuvchiga yoki ekranga chiqariladigadigan ma'lumotlar",
+    "b": "foydalanuvchi kiritadigan ma'lumotlar",
+    "c": "grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi",
+    "d": "virtual uskunaning interfaol foydalanadigan interfeysi"
+  },
+  {
+    "id": 4,
+    "ques": "Odatda diagrammalar-bloki nimalardan iborta bo'ladi",
+    "a": "terminallar, bog'lamlar, o'tkazgichlar",
+    "b": "yuzadagi panel, indikatorlar",
+    "c": "bosqarish elementlari, indikatorlar",
+    "d": "indikatorlar, terminallar"
+  },
+  {
+    "id": 5,
+    "ques": "LabVIEW da diagrammalar-blokida bir xil tipdagi boshqarish elementlari va indikatorlar nimasi bilan farqlanadi",
+    "a": "Terminallar ramkasi yog'on yoki maylinligi bilan",
+    "b": "Terminallar ramkasi rangi bilan",
+    "c": "Terminallar shakli bilan",
+    "d": "Terminallardagi yozuv bilan"
+  },
+  {
+    "id": 6,
+    "ques": "LabVIEW da ma'lumotlar bog'lami nima",
+    "a": "bu dasturning ixtiyoriy bajariluvchi elementining umumiy nomi",
+    "b": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "c": "foydalanuvchi kiritadigan ma'lumotlar",
+    "d": "foydalanuvchiga chiqariladigadigan ma'lumotlar"
+  },
+  {
+    "id": 7,
+    "ques": "LabVIEW da virtual uskunadagi diagrammalar blokida \"Qo'shish\" funktsiyasi joylashgan. Bu diagramma blokida qanday tipdagi ob'yekt turiga kiradi",
+    "a": "Bog'lam;",
+    "b": "Terminallar;",
+    "c": "O'tkazgichlar;",
+    "d": "O'zgaruvchilar;"
+  },
+  {
+    "id": 8,
+    "ques": "LabVIEW dasturini bajarilishini boshqarish tamoyili nima",
+    "a": "Ma'lumotlar oqimi",
+    "b": "Funktsiya",
+    "c": "O'tkazgichlar",
+    "d": "Bog'lamlar"
+  },
+  {
+    "id": 9,
+    "ques": "LabVIEW da VIU(virtual ichki uskuna) nima",
+    "a": "bu VU(virtual uskuna) bo'lib, uni siz boshqa VU dan chaqirasiz",
+    "b": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "c": "grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi",
+    "d": "foydalanuvchi kiritadigan ma'lumotlar"
+  },
+  {
+    "id": 10,
+    "ques": "LabVIEW da \"Belgi (Label)\" nima",
+    "a": "yuzadagi panel va diagrammalar blokidagi komponentlarni nomlovchi matn bloke",
+    "b": "bu VU(virtual uskuna) bo'lib, uni siz boshqa VU dan chaqirasiz",
+    "c": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "d": "LabVIEW grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi"
+  },
+  {
+    "id": 11,
+    "ques": "LabVIEW da necha xil belgi turi mavjud",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6"
+  },
+  {
+    "id": 12,
+    "ques": "LabVIEW da belgilarning birinchi turi qanday nomlanadi",
+    "a": "Shaxsiy;",
+    "b": "O'tkazgichlar;",
+    "c": "Erkin joylashgan;",
+    "d": "VIU(virtual ichki uskuna) belgilari;"
+  },
+  {
+    "id": 13,
+    "ques": "LabVIEW da belgilarning ikkinchi turi qanday nomlanadi",
+    "a": "O'tkazgichlar;",
+    "b": "Shaxsiy belgilar;",
+    "c": "Erkin hoylashgan belgilar;",
+    "d": "VIU(virtual ichki uskuna) belgilari;"
+  },
+  {
+    "id": 14,
+    "ques": "LabVIEW da belgilarning uchinchi turi qanday nomlanadi",
+    "a": "Erkin;",
+    "b": "Shaxsiy;",
+    "c": "O'tkazgichlar;",
+    "d": "VIU(virtual ichki uskuna) belgilari;"
+  },
+  {
+    "id": 15,
+    "ques": "LabVIEW da \"Sarlavha\" nima",
+    "a": "matn hisoblanib, u boshqaruvchi element yoki indikatorni izohlaydi",
+    "b": "komponentlarni nomlovchi matn bloki",
+    "c": "virtual uskunaning interfaol foydalanadigan interfeysi",
+    "d": "grafik dasturlash tilida yaratilgan dastur kodi deb aytiladi"
+  },
+  {
+    "id": 16,
+    "ques": "LabVIEW da \"O'tkazuvchilar belgisi\" nima",
+    "a": "diagrammalar blokini izohlash uchun juda qulay vositadir",
+    "b": "indikatorni izohlaydi",
+    "c": "komponentlarni nomlovchi matn bloki",
+    "d": "uskunaning interfaol foydalanadigan interfeysi"
+  },
+  {
+    "id": 17,
+    "ques": "LabVIEW tuzilishlarda faqatgina o'tkazgich va tuzilish chegarasi kesishgan nuqtada .. yaratiladi. U nima",
+    "a": "\"tunnel\";",
+    "b": "\"bog'lam\";",
+    "c": "\"hodisalar\";",
+    "d": "\"avtoindekslash\";"
+  },
+  {
+    "id": 18,
+    "ques": "LabVIEW da yaratilgan virtual uskunani qaysi manzilda(kompyuter xotirasi papkasida) saqlash maslahat berilmaydi",
+    "a": "vi.lib;",
+    "b": "library.vi;",
+    "c": "Project.lib;",
+    "d": "Lib.project;"
+  },
+  {
+    "id": 19,
+    "ques": "LabVIEW da \"Qadamba-qadam\" bajarilish nima uchun kerak",
+    "a": "Xatolarni topish uchun;",
+    "b": "Natijalarni ko'rish uchun;",
+    "c": "Virtual uskunani bajartirish uchun;",
+    "d": "VIU(virtual ichki uskunani) chaqirish uchun;"
+  },
+  {
+    "id": 20,
+    "ques": "LabVIEW da \"To'xtatish nuqtasi\" nima uchun kerak",
+    "a": "Xatolarni topish uchun;",
+    "b": "Natijalarni ko'rish uchun;",
+    "c": "Virtual uskunani bajartirish uchun;",
+    "d": "VIU(virtual ichki uskunani) chaqirish uchun;"
+  },
+  {
+    "id": 21,
+    "ques": "LabVIEW da asosiy necha xildagi tsikllar mavjud",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5"
+  },
+  {
+    "id": 22,
+    "ques": "LabVIEW da tuzilishlar nima",
+    "a": "Oddiy dasturlash tillari operatorlariga o'xshab virtual uskuna bajarilishini boshqaradi",
+    "b": "diagrammalar blokini izohlash uchun juda qulay vositadir",
+    "c": "matn hisoblanib, u boshqaruvchi element yoki indikatorni izohlaydi",
+    "d": "komponentlarni nomlovchi matn bloki"
+  },
+  {
+    "id": 23,
+    "ques": "LabVIEW da tsiklarning birinchi turi(iteratsiyalar sonini qayd etish) tuzilishi nomini to'g'ri belgilang",
+    "a": "For Loop;",
+    "b": "While Loop;",
+    "c": "Case Structures;",
+    "d": "Event Structures;"
+  },
+  {
+    "id": 24,
+    "ques": "LabVIEW da tsiklarning ikkinchi turi(shart bo'yicha tsikl) tuzilishi nomini to'g'ri belgilang",
+    "a": "While Loop;",
+    "b": "Events For Loop;",
+    "c": "Case Structures;",
+    "d": "Event Structures;"
+  },
+  {
+    "id": 25,
+    "ques": "LabVIEW da For Loop tsiklini takroran bajarilishi tsikl tarkibiga kirgan massivga bog'liqmi",
+    "a": "Avtoindekslashga bog'liq;",
+    "b": "For Loop tsikliga ishlatishga bog'liq;",
+    "c": "While Loop tsikliga ishlatishga bog'liq;",
+    "d": "Terminalga berilgan iteratsiyalar soni qiymatiga bog'liq;"
+  },
+  {
+    "id": 26,
+    "ques": "LabVIEW da For Loop tsiklini muddatdan oldin to'xtatish mumkin",
+    "a": "Maxsus terminal yordamida;",
+    "b": "While Loop tsiklini qo'llashga bo'gliq;",
+    "c": "Terminalga berilgan iteratsiyalar soni qiymatiga bog'liq;",
+    "d": "Avtoindekslashni qo'llashga bog'liq;"
+  },
+  {
+    "id": 27,
+    "ques": "LabVIEW da While Loop tsikli standart holatda qaysi mantiqiy qiymatda takrorlash to'xtatiladi",
+    "a": "True",
+    "b": "False",
+    "c": "And",
+    "d": "Or"
+  },
+  {
+    "id": 28,
+    "ques": "LabVIEW da While Loop tsiklini \"yo'q\" mantiqiy qiymatda takrorlash to'xtatilishini ta'minlash maqsadida yordamchi menyuning qaysi optsiyasidan foydalanish zarur",
+    "a": "Continue if True",
+    "b": "if False",
+    "c": "Stop if True",
+    "d": "Stop if False"
+  },
+  {
+    "id": 29,
+    "ques": "LabVIEW da iteratsiyalar sonini qayd etish tsiklini muddatdan oldin shart bo'yicha to'xtatish imkoniyatini ta'minlash uchun yordamchi menyuning qaysi optsiyasidan foydalanish zarur",
+    "a": "conditional terminal",
+    "b": "Continue if True",
+    "c": "Continue if False",
+    "d": "Stop if True"
+  },
+  {
+    "id": 30,
+    "ques": "\"Shart bo'yicha tsikl doimo bir marotaba bo'lsa hamki bajariladi, iteratsiyalar sonini qayd etish tsikli esa bir marotaba ham bajarilmasligi mumkin\" degan fikr to'grimi",
+    "a": "While Loop va For Loop tsiklida",
+    "b": "Faqat while loop tsiklida",
+    "c": "Faqat 1-qism tog'ri",
+    "d": "Faqat 2-qism to'g'ri"
+  },
+  {
+    "id": 31,
+    "ques": "LabVIEW da siljuvchan registrlarni tsikl tuzilishlarining yordamchi menyuning qaysi optsiyasi yordamida paydo qilish mumkin",
+    "a": "Add shift register terminali",
+    "b": "conditional terminal",
+    "c": "Continue if True",
+    "d": "Stop if True"
+  },
+  {
+    "id": 32,
+    "ques": "Variant tuzilmasini ishlatganda standart qanday variantlar avtomatik mavjud bo'ladi",
+    "a": "True va False",
+    "b": "Sonli",
+    "c": "0,1",
+    "d": "0-9"
+  },
+  {
+    "id": 33,
+    "ques": "Formula bog'lamiga qiymat kiritish uchun yordamchi menyuning qaysi optsiyasidan foydalanish kerak",
+    "a": "Add Input;",
+    "b": "Add Output;",
+    "c": "Add Input Value;",
+    "d": "Add Output Value;"
+  },
+  {
+    "id": 34,
+    "ques": "Formula bog'lamida har bir formula ifodasi oxirida qaysi belgi bilan yakunlanishi zarur",
+    "a": ";",
+    "b": ":",
+    "c": ",",
+    "d": "."
+  },
+  {
+    "id": 35,
+    "ques": "Formula bog'lami tarkibida shart bo'yicha hisoblashlarni amalga oshirish imkoniyati mavjudmi",
+    "a": "Maxsus ifoda yordamida;",
+    "b": "Maxsus terminal yordamida;",
+    "c": "Variant tuzilmasini ishlatish orqali;",
+    "d": "Tsikllarni qo'llagan holatda ishlatilganda;"
+  },
+  {
+    "id": 36,
+    "ques": "LabVIEW da massiv elementlari tartibi doim nechadan boshlanadi",
+    "a": "0;",
+    "b": "1;",
+    "c": "Siz ko'rsatgan qiymatdan;",
+    "d": "LabVIEW tomonidan o'zi belgilanadi;"
+  },
+  {
+    "id": 37,
+    "ques": "LabVIEW da massivlarni yuzadagi panelda yaratish uchun qaysi paneldan foydalanish kerak",
+    "a": "Modern >> Array Matrix&Cluster",
+    "b": "Modern >> Numberic",
+    "c": "Modern >> Boolean",
+    "d": "Modern >> String & Path"
+  },
+  {
+    "id": 38,
+    "ques": "massiv tipini aniqlang",
+    "a": "Aniqlanmagan",
+    "b": "Sonli",
+    "c": "Matnli",
+    "d": "Boolean"
+  },
+  {
+    "id": 39,
+    "ques": "LabVIEW da massiv shablonini yuzadagi panelda joylashtirilganda va uning tipi aniq bo'lmaganda diagramma blokida uning terminali qaysi rangda bo'ladi",
+    "a": "Qora",
+    "b": "Oq",
+    "c": "Qizil",
+    "d": "Ko'k"
+  },
+  {
+    "id": 40,
+    "ques": "LabVIEW da massiv terminalini oddiy terminallardan nimasi bilan farqlash mumkin",
+    "a": "Kvadrat qavslar mavjudligi",
+    "b": "Qora rangda bo'lishi",
+    "c": "O'tkazgich qalinligi",
+    "d": "O'tkazgich mayinligi"
+  },
+  {
+    "id": 41,
+    "ques": "LabVIEW da diagramma blokida massiv o'tkazgichlari oddiy o'tkazgichlaridan nimasi bilan farqlanadi",
+    "a": "Qalinligi;",
+    "b": "Mayinroqligi;",
+    "c": "Rangi bo'lgani;",
+    "d": "O'tkagcihdagi uchlarida tunelalrning mavjudligi;"
+  },
+  {
+    "id": 42,
+    "ques": "LabVIEW da avtoindekslash nima uchun zarur",
+    "a": "Massiv elementlariga tsikl ichida avtomatik tartib raqami bo'yicha murojaatlash uchun",
+    "b": "Massiv elementlarini qayta raqamlash uchun",
+    "c": "Massiv lementlarini o'chirish uchun",
+    "d": "Massiv elementlarini birlashtirish uchun"
+  },
+  {
+    "id": 43,
+    "ques": "LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 37 elementdan iborat bir o'lchamli massiv avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi",
+    "a": "37",
+    "b": "100",
+    "c": "63",
+    "d": "137"
+  },
+  {
+    "id": 44,
+    "ques": "LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 137 elementdan iborat bir o'lchamli massiv avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi",
+    "a": "100",
+    "b": "237",
+    "c": "200",
+    "d": "137"
+  },
+  {
+    "id": 45,
+    "ques": "LabVIEW da tsiklda 100 marotaba takrorlashlar soni ko'rsatilgan va unda 37 va 45 elementlardan iborat bir o'lchamli massivlar avtoindekslash yoqilgan holatda ulangan. Tsikl necha marotaba takrorlanadi",
+    "a": "37",
+    "b": "100",
+    "c": "200",
+    "d": "137"
+  },
+  {
+    "id": 46,
+    "ques": "LabVIEW da klasterning massivdan farqi nimada",
+    "a": "Elementlar har xilligi;",
+    "b": "Elementlar sonining ko'pligi;",
+    "c": "Elementlar turining bir xilligi;",
+    "d": "Elementlarni tartiblash 1 dan boshlanadi;"
+  },
+  {
+    "id": 47,
+    "ques": "Otsillogrammada nurlarni aks etish ob'yekti necha yangilash rejimiga ega",
+    "a": "3",
+    "b": "4",
+    "c": "5",
+    "d": "6"
+  },
+  {
+    "id": 48,
+    "ques": "Otsillogrammada nurlarni aks etish ob'yekti birinchi yangilash rejimi qanday nomalanadi",
+    "a": "Panoramali;",
+    "b": "vaqtli (scope chart mode);",
+    "c": "markerli vaqt (sweep chart mode);",
+    "d": "Xomaki rejim turi;"
+  },
+  {
+    "id": 49,
+    "ques": "Otsillogrammada nurlarni aks etish ob'yekti ikkinchi yangilash rejimi qanday nomalanadi",
+    "a": "vaqtli (scope chart mode);",
+    "b": "Panoramali(stript chart mode);",
+    "c": "markerli vaqt (sweep chart mode);",
+    "d": "Elementlarni tartiblash 1 dan boshlanadi;"
+  },
+  {
+    "id": 50,
+    "ques": "Otsillogrammada nurlarni aks etish ob'yekti uchinchi yangilash rejimi qanday nomalanadi",
+    "a": "markerli vaqt (sweep chart mode)",
+    "b": "Panoramali(stript chart mode)",
+    "c": "vaqtli (scope chart mode)",
+    "d": "Xomaki"
+  },
+  {
+    "id": 51,
+    "ques": "LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning necha xil rejimi mavjud",
+    "a": "4",
+    "b": "5",
+    "c": "6",
+    "d": "7"
+  },
+  {
+    "id": 52,
+    "ques": "LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning birinchi rejimi qasi rejim",
+    "a": "Norm Display;",
+    "b": "Codes Display;",
+    "c": "Password Display;",
+    "d": "HEX Code Display;"
+  },
+  {
+    "id": 53,
+    "ques": "LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning ikkinchi rejimi qasi rejim",
+    "a": "Codes Display;",
+    "b": "Normal Display;",
+    "c": "Password Display;",
+    "d": "HEX Code Display;"
+  },
+  {
+    "id": 54,
+    "ques": "LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning uchinchi rejimi qasi rejim",
+    "a": "Password Display",
+    "b": "Normal Display",
+    "c": "Codes Display",
+    "d": "HEX Display"
+  },
+  {
+    "id": 55,
+    "ques": "LabVIEW da matnli qatorlarni yuzadagi panelda aks etishning to'rtinchi rejimi qasi rejim",
+    "a": "HEX Display;",
+    "b": "Normal Display;",
+    "c": "Codes Mode Display;",
+    "d": "Password Display;"
+  },
+  {
+    "id": 56,
+    "ques": "Yuzadagi panelda matnli boshqarish elementi joylashtirilgan va unda \"Dasturlash tillari bazasida texnik ilovalar\" yozuvi kiritilgan. Bundan tashqari yuzadagi panelda sonli indikator ham joylashtirilgan. Diagrammalar blokida terminallar orasida String Length funktsiyasini qo'llash natijasida sonli indikatorda nima akslanadi",
+    "a": "43;",
+    "b": "Dasturlash tillari bazasida texnik ilovalar;",
+    "c": "Dasturlash tillari;",
+    "d": "100;"
+  },
+  {
+    "id": 57,
+    "ques": "LabVIEW fayllardan ma'lumotlarni tezkor o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi",
+    "a": "Write to Measurement File va Read From Measurement File",
+    "b": "Write to Spreadsheet File va Read From Spreadsheet File",
+    "c": "Write to Text File va Read from Text File",
+    "d": "Read from Binary File va Write to Binary"
+  },
+  {
+    "id": 58,
+    "ques": "File LabVIEW fayllardan jadval ko'rinishidagi(formati) ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi",
+    "a": "Write to Spreadsheet File va Read From Spreadsheet File",
+    "b": "File va Read From Measurement File",
+    "c": "Write to Text File va Read from Text File",
+    "d": "Read from Binary File va Write to Binary File"
+  },
+  {
+    "id": 59,
+    "ques": "LabVIEW fayllardan matnli ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi",
+    "a": "Write to Text File va Read from Text File",
+    "b": "Read From Measurement File",
+    "c": "Read From Spreadsheet File",
+    "d": "Write to Binary File"
+  },
+  {
+    "id": 60,
+    "ques": "LabVIEW fayllardan ikkilik sanoq tizimidagi ma'lumotlarni o'qish yoki yozish uchun qaysi funktsiyalardan foydalanishni maslahat beradi",
+    "a": "Read from Binary File va Write to Binary File",
+    "b": "Read From Measurement File",
+    "c": "Read From Spreadsheet File",
+    "d": "Read from Text File"
+  },
+  {
+    "id": 61,
+    "ques": "LabVIEW da necha xil o'zgaruvchilar va turlari mavjud",
+    "a": "3 xil: mahalluy, global va tarmoqli",
+    "b": "2 xil: mahalliy va global",
+    "c": "3 xil: mahalliy, global va shartli",
+    "d": "1 xil: mahalliy"
+  },
+  {
+    "id": 62,
+    "ques": "Mahalliy o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang",
+    "a": "diagrammalar blokining turli nuqtalaridan o'tkazuvchi ma'lumotlarini ob'yekt terminaliga ulash imkoniyatingiz bo'lmagan holatda yuzadagi panel ob'yektiga murojaat etish imkonini beradi",
+    "b": "ixtiyoriy tipdagi qiymatlarga bir necha VU orasida bir vaqtning o'zida bir nechta VU baravar ishlaganda yoki VIU lar orasida signlallarni uzatish imkoniyatingiz bo'lmaganda ularga murojaat etish imkonini beradi",
+    "c": "xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi",
+    "d": "Mahalliy tarmoqda ishlaydi"
+  },
+  {
+    "id": 63,
+    "ques": "Global o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang",
+    "a": "ixtiyoriy tipdagi qiymatlarga bir necha VU orasida bir vaqtnign o'zida bir nechta VU baravar ishlaganda yoki VIU lar orasida signlallarni uzatish imkoniyatingiz bo'lmaganda ularga murojaat etish imkonini beradi",
+    "b": "diagrammalar blokining turli nuqtalaridan o'tkazuvchi ma'lumotlarini ob'yekt terminaliga ulash imkoniyatingiz bo'lmagan holatda yuzadagi panel ob'yektiga murojaat etish imkonini beradi",
+    "c": "xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi",
+    "d": "Internet tarmog'ida ishlaydi"
+  },
+  {
+    "id": 64,
+    "ques": "Tarmoq o'zgaruvchilariga to'g'ri ta'rif berilgan variantni tanlang",
+    "a": "xuddi global o'zgaruvchilarga o'xshaydi, lekin ular turli mahalliy va tarmoq dasturlarida ishlaydi",
+    "b": "Internet tarmog'ida ishlaydi",
+    "c": "Mahalliy tarmoqda ishlaydi",
+    "d": "Korporativ tarmoqda ishlaydi"
+  },
+  {
+    "id": 65,
+    "ques": "Bir o'zgaruvchi yordamida parallel tsikllarni nazorat etish uchun qanday o'zgaruvchilardan foydalanish mumkin",
+    "a": "Mahalliy;",
+    "b": "Global (World);",
+    "c": "Tarmoq(umumiy);",
+    "d": "Tsikl o'zgaruvchisi;"
+  },
+  {
+    "id": 66,
+    "ques": "Ixtiyoriy boshqarish elementi indikator va aksincha boshqarish elementi sifatida ishaltilishi uchun qanday o'zgaruvchilardan foydalanish mumkin",
+    "a": "Mahalliy;",
+    "b": "Global (World);",
+    "c": "Tarmoq(umumiy);",
+    "d": "Tsikl o'zgaruvchisi;"
+  },
+  {
+    "id": 67,
+    "ques": "O'QISH rejimidagi mahalliy o'zgaruvchi bu - .",
+    "a": "Boshqarish elementi",
+    "b": "Indikator",
+    "c": "Variant tuzilmasin",
+    "d": "Tsikl"
+  },
+  {
+    "id": 68,
+    "ques": "YOZISH rejimidagi mahalliy o'zgaruvchi bu - .",
+    "a": "Indikator;",
+    "b": "Boshqarish elementi;",
+    "c": "Variant tuzilmasin;",
+    "d": "Formul bog'lami;"
+  },
+  {
+    "id": 69,
+    "ques": "Xususiyatlar paneli nima uchun ishlatiladi",
+    "a": "Yuzadagi panel ob'yektlarini(boshqarish elementi va indikatorlar) xususiyatlari (masalan rangi, yozuvi, jolashuvi, ko'rinish/ko'rinmasligi va hokazo) dasturiy-dinamik(dastur ishlayotganda) o'zgartirish uchun",
+    "b": "Yuzadagi panel ob'yektlarini(boshqarish elementi va indikatorlar) xususiyatlari(masalan rangi, yozuvi, jolashuvi, ko'rinish/ko'rinmasligi va hokazo) o'zgartirish uchun",
+    "c": "Diagramma blokidagi terminallarni xususiyatlari(masalan rangi, yozuvi, jolashuvi, ko'rinish/ko'rinmasligi va hokazo) o'zgartirish uchun",
+    "d": "Diagramma blokidagi terminallarni xususiyatlari (masalan rangi, yozuvi, jolashuvi, ko'rinish/ko'rinmasligi va hokazo) dasturiy (dastur ishlayotganda) o'zgartirish uchun"
+  },
+  {
+    "id": 70,
+    "ques": "Xususiyatlar bog'lamini qanday chiqarish kerak",
+    "a": "Yordamchi menyudan Create >> Property Node",
+    "b": "Yordamchi menyudan Property Node",
+    "c": "Yordamchi menyudan Invoke node",
+    "d": "Yordamchi menyudan Create >> Node"
+  },
+  {
+    "id": 71,
+    "ques": "Hodisa tuzilmasini diagramma blokida qayerdan toppish mumkin",
+    "a": "Programming >> Structures bo'limidan Event Structure",
+    "b": "Modern >> Structures bo'limidan Event Structure",
+    "c": "Programming bo'limidan Event Structure",
+    "d": "Modern bo'limidan Event Structure"
+  },
+  {
+    "id": 72,
+    "ques": "\"Sonli o'zgaruvchi qiymatini o'zgartirdingiz\" bu qanday hodisa bo'ladimi",
+    "a": "Faol hodisa;",
+    "b": "Passiv hodisa;",
+    "c": "Yo'q bu harakat;",
+    "d": "Yo'q bu vaziyat;"
+  },
+  {
+    "id": 73,
+    "ques": "Hodisa tuzilmasini diagramma blokida joylashtirganizda avtomatik qanday hodisaga moslangan bo'ladi",
+    "a": "Vaqt o'tishi hodisasiga;",
+    "b": "Tugma bosilishi hodisasiga;",
+    "c": "Dasturni ishga tushurish hodisasiga;",
+    "d": "Hech qanday hodisaga moslanmagan;"
+  },
+  {
+    "id": 74,
+    "ques": "Vaqt o'tishi hodisasiga moslangan hodisa tuzilmasida vaqtga qanday qiymat avtomatik berilgan bo'ladi",
+    "a": "-1",
+    "b": "1",
+    "c": "0",
+    "d": "1000"
+  },
+  {
+    "id": 75,
+    "ques": "Vaqt o'tishi hodisasiga moslangan hodisa tuzilmasida \"-1\" qiymati belgilangan bo'lsa hodisa tuzilmasi qanhca vaqt kutadi yoki qachon bajariladi",
+    "a": "Cheksiz kutadi;",
+    "b": "0 millisekund kutadi;",
+    "c": "Umuman kutmaydi;",
+    "d": "1000 millsekund kutadi;"
+  },
+  {
+    "id": 76,
+    "ques": "Hodisa tuzilmasiga yangi hodisani qayd etish uchun nima qilish kerak",
+    "a": "Yordamchi menyudan Add Event Case. ni tanlash zarur;",
+    "b": "Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur;",
+    "c": "Yordamchi menyudan Duplicate Event Case ni tanlash zarur;",
+    "d": "Yordamchi menyudan Delete Event Case ni tanlash zarur bo'ladi;"
+  },
+  {
+    "id": 77,
+    "ques": "Hodisa tuzilmasiga joriy hodisani o'zgartirish uchun nima qilish kerak",
+    "a": "Yordamchi menyudan Edit Events Handled by this Case ni tanlash zarur",
+    "b": "Yordamchi menyudan Add Event Case. ni tanlash zarur",
+    "c": "Yordamchi menyudan Duplicate Event Case ni tanlash zarur",
+    "d": "Yordamchi menyudan Delete Event Case ni tanlash zarur"
+  },
+  {
+    "id": 78,
+    "ques": "Hodisa tuzilmasiga joriy hodisadan nusxa olish uchun nima qilish kerak",
+    "a": "Yordamchi menyudan Duplicate Event Case ni tanlash zarur",
+    "b": "Yordamchi menyudan Add Event Case. ni tanlash zarur",
+    "c": "Yordamchi menyudan Edit by this Case ni tanlash zarur",
+    "d": "Yordamchi menyudan Delete Event Case ni tanlash zarur"
+  },
+  {
+    "id": 79,
+    "ques": "Hodisa tuzilmasiga joriy hodisani o'chirish uchun nima qilish kerak",
+    "a": "Yordamchi menyudan Delete Event Case ni tanlash zarur",
+    "b": "Yordamchi menyudan Add Event Case ni tanlash zarur",
+    "c": "Yordamchi menyudan Edit this Case ni tanlash zarur",
+    "d": "Yordamchi menyudan Duplicate Case ni tanlash zarur"
+  },
+  {
+    "id": 80,
+    "ques": "Hodisa tuzilmasida qanday qo'shimcha terminallar mavjud va qaysilar",
+    "a": "2 ta: ma'lumotlari bog'lami(Event Data Node) va hodisa filtrlari bog'lami(Event Filter Node)",
+    "b": "1 ta: hodisa qidiruvi bog'lami(Event Find Node)",
+    "c": "1 ta: ma'lumotlari bog'lami(Event Data Node)",
+    "d": "1 ta: hodisa filtrlari bog'lami(Event Filter Node)"
+  },
+  {
+    "id": 81,
+    "ques": "LabVIEW da necha turdagi hodisalar mavjud va qaysilar",
+    "a": "2 turdagi: Xabar-hodisalar va filtr hodisalar",
+    "b": "1 turdagi: Qidiruv hodisalar",
+    "c": "1 turdagi: Xabar-hodisalar",
+    "d": "1 turdagi: Filtr hodisalar"
+  },
+  {
+    "id": 82,
+    "ques": "Filtr hodisalarni xabar hodisalardan qanday ajratib olish mumkin",
+    "a": "Xabar-hodisalar oldida yashil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida qizil yo'naltrigichlar bo'ladi",
+    "b": "Xabar-hodisalar oldida qizil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida yashil yo'naltrigichlar bo'ladi",
+    "c": "Xabar-hodisalar oldida yashil rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida ko'k yo'naltrigichlar bo'ladi",
+    "d": "Xabar-hodisalar oldida ko'k rangdagi yo'naltirgich bo'lsa, filtr-hodisalar oldida qizil yo'naltrigichlar bo'ladi"
+  },
+  {
+    "id": 83,
+    "ques": "LabVIEW da kodlarni olib olib tashlash tuzilmalari an'anaviy dasturashdagi qaysi konstruktsiya bilan mos keladi",
+    "a": "Izoh;",
+    "b": "Shart operatori;",
+    "c": "Tsikl operatori;",
+    "d": "O'chirish operatori;"
+  },
+  {
+    "id": 84,
+    "ques": "LabVIEW da kodlarni olib olib tashlash tuzilmalari turi nechta va qaysilar",
+    "a": "2 ta: Diagram Disable va Conditional Disable",
+    "b": "2 ta: Diagram Disable va Case Disable",
+    "c": "1 ta: Diagram Disable",
+    "d": "1 ta: Conditional Disable"
+  },
+  {
+    "id": 85,
+    "ques": "LabVIEW da kodlarni olib olib tashlash tuzilmalari qayerda joylashgan",
+    "a": "Programming >> Structures",
+    "b": "Tools >> Modern",
+    "c": "Programming",
+    "d": "Modern"
+  },
+  {
+    "id": 86,
+    "ques": "LabVIEW da kodlarni olib tashlash tuzilmalarida 2 ta variantni faollashtirish mumkinmi",
+    "a": "Faqat birta tuzilmani faollashtirish mumkin",
+    "b": "Birorta variantni faollashtirmaslik mumkin",
+    "c": "3 tani faollashtirish mumkin",
+    "d": "2 tadan ko'p bo'lmaydi"
+  },
+  {
+    "id": 87,
+    "ques": "LabVIEW da kodlarni olib tashlash tuzilmalarida faol variantni qanday bilish mumkin",
+    "a": "* belgisini mavjudligi",
+    "b": "? belgisi mavjudligi",
+    "c": "+ belgisi mavjudligi",
+    "d": "- belgisi mavjudligi"
+  },
+  {
+    "id": 88,
+    "ques": "Siz boshqa an'anaviy dasturlash tillarida yozilgan dasturlar yoki kodlarni LabVIEW da foydalanishingiz mukinmi va necha usul orqali mumkin",
+    "a": "3 usul orqali",
+    "b": "4 usul orqali",
+    "c": "5 usul orqali",
+    "d": "6 usul orqali"
+  },
+  {
+    "id": 89,
+    "ques": "LabvIEW da tezkor VIU larni yaratish uchun qaysi buyruqdan foydalanish kerak",
+    "a": "Edit - Create Sub VI",
+    "b": "Create Sub VI",
+    "c": "Edit Sub VI",
+    "d": "Make Sub VI"
+  },
+  {
+    "id": 90,
+    "ques": "LabvIEW da tezkor VIU larni yaratish uchun birinchi navbatda qanday ishni bajarish zarur",
+    "a": "Diagramma blokidan kerakli sxema qismini tanlash kerak",
+    "b": "elementlari va indikatorlarni tanlash kerak",
+    "c": "Diagramma blokidan tsiklni tanlash kerak",
+    "d": "Diagramma blokidan variant tuzilmasini tanlash kerak"
+  },
+  {
+    "id": 91,
+    "ques": "LabVIEW da tezkor VIU larni yaratish uchun birinchi shart qanday",
+    "a": "28 ta dan kirish va chiqishga ega bo'lmasligi kerak",
+    "b": "36 ta dan kirish va chiqishga ega bo'lmasligi kerak",
+    "c": "34 ta dan kirish va chiqishga ega bo'lmasligi kerak",
+    "d": "44 ta dan kirish va chiqishga ega bo'lmasligi kerak"
+  },
+  {
+    "id": 92,
+    "ques": "LabVIEW da tezkor VIU larni yaratish uchun ikkinchi shart qanday",
+    "a": "Tuzilma ichida va tashqarisida elementlarni tanlamaslik kerak;",
+    "b": "Foor Loop tsikli ichida va tashqarisida elementlarni tanlamaslik kerak;",
+    "c": "Variant tuzilmasi ichida va tashqarisida elementlarni tanlamaslik kerak;",
+    "d": "While Loop tsikli ichida va tashqarisida elementlarni tanlamaslik kerak;"
+  },
+  {
+    "id": 93,
+    "ques": "Yuzadagi panel an'naviy dasturiy ta'minotda qanday tushuncha bilan mos keladi",
+    "a": "Interfeys;",
+    "b": "dastur kodi;",
+    "c": "Terminallar;",
+    "d": "Indikatorlar;"
+  },
+  {
+    "id": 94,
+    "ques": "Yuzadagi panel asosan qanday elementlardan iborat bo'ladi",
+    "a": "boshqarish elementlari va indikatorlar",
+    "b": "faqat boshqarish elementlari",
+    "c": "faqat indikatorlar",
+    "d": "dastur kodi"
+  },
+  {
+    "id": 95,
+    "ques": "Virtual uskunalarda boshqarish elementi nima",
+    "a": "ma'lumotlar manbaasi;",
+    "b": "ma'lumotlarni qabul qiluvchilar;",
+    "c": "dastur kodi (source code);",
+    "d": "plastik deformtsiyalash sinfi;"
+  },
+  {
+    "id": 96,
+    "ques": "Virtual uskunalarda indikator elementi nima",
+    "a": "ma'lumotlarni qabul qiluvchilar",
+    "b": "ma'lumotlar manbaasi",
+    "c": "dastur kodi",
+    "d": "deformtsiyalash sinfi"
+  },
+  {
+    "id": 97,
+    "ques": "Diagrammalar bloki oynasi (an'anaviy dasturiy ta'minotdagi kod bilan taqqoslaganda) o'zida nimani saqlaydi",
+    "a": "grafik kodi;",
+    "b": "boshqarish elementlarini;",
+    "c": "Indikatorlarni;",
+    "d": "Terminallarni;"
+  },
+  {
+    "id": 98,
+    "ques": "LabVIEW da dasturni bajarilishini boshqarish tamoyili nima hisoblanadi",
+    "a": "ma'lumotlar oqimi (dataflow)",
+    "b": "G kod",
+    "c": "boshqarish elementlari",
+    "d": "Indikatorlar"
+  },
+  {
+    "id": 99,
+    "ques": "Virtual uskuna nima",
+    "a": "LabVIEW dasturi bo'lib, fizik o'lchash asbobi yoki instrumentini tashqi kshrinishi va funktsiяsini modellashtiradi",
+    "b": "Ishlab chiquvchi xayolidagi mavjud uskuna",
+    "c": "Tekis aylanuvchan uskuna",
+    "d": "Sonlarni qayta ishlovchi uskuna"
+  },
+  {
+    "id": 100,
+    "ques": "Virtual uskunaning asosiy to'rt komponentini toping",
+    "a": "Yuzadagi panel, diagramma-bloki, ikonka, bog'lash paneli;",
+    "b": "Yuzadagi panel, diagramma-bloki, elementlar palitrasi, funktsiyalar palitrasi;",
+    "c": "Instrumentlar palitrasi, elementlar palitrasi, funktsiyalar palitrasi, ikonka;",
+    "d": "Yuzadagi panel, diagramma-bloki, ikonka, Virtual ichki uskunalar;"
+  },
+  {
+    "id": 101,
+    "ques": "Ma'lumotlar bazasi  nima",
+    "a": "Bir-biri bilan bog'langan ma'lumotlarning strukturalangan to'plami.",
+    "b": "Bir-biri bilan bog'lanmagan ma'lumotlarning strukturalangan to'plami.",
+    "c": "Ixtiyoriy ma'lumotlarning strukturalangan to'plami.",
+    "d": "Bir-biri bilan bog'langan ma'lumotlarning ixtiyoriy to'plami."
+  },
+  {
+    "id": 102,
+    "ques": "Strukturalash-bu...",
+    "a": "ob'ektlar va ma'lumotlarning o'zaro bog'lanishini tasvirlash usullari haqidagi kelishuvni kiritish.",
+    "b": "ob'ektlar va ma'lumotlarning o'zaro bog'lab bo'lmasligi haqidagi kelishuvni kiritish.",
+    "c": "ob'ektlar va ma'lumotlarning o'zaro bog'lanishini tasvirlash usuli.",
+    "d": "ob'ektlar va ma'lumotlarning bog'likmasligini tasvirlash usullari haqidagi kelishuvni kiritish."
+  },
+  {
+    "id": 103,
+    "ques": "Ma'lumotlar bazasini yaratish nimadan boshlanadi",
+    "a": "Uning loyihasini tuzishdan.",
+    "b": "Imkoniyatlarni chamalab ko'rishdan.",
+    "c": "Haridor qidirishdan.",
+    "d": "Yaratish ketma-ketligini o'rganishdan."
+  },
+  {
+    "id": 104,
+    "ques": "SQLda AVG agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin",
+    "a": "Faqat sonli.",
+    "b": "Ixtiyoriy.",
+    "c": "Faqat simvolli.",
+    "d": "Sonli yoki simvolli."
+  },
+  {
+    "id": 105,
+    "ques": "Ma'lumotlar bazasini boshqarish tizimi nima",
+    "a": "Ma'lumotlar bazalari bilan ishlashga mo'ljallangan dasturiy vosita.",
+    "b": "Ma'lumotlar bazalari bilan ishlashga mo'ljallangan apparat vosita.",
+    "c": "Ma'lumotlar bazalari bilan ishlashga o'rgatilgan mutaxassis.",
+    "d": "Ma'lumotlar bazalariga kiritilayotgan ma'lumotlarni boshqarib boruvchi administrativ dastur."
+  },
+  {
+    "id": 106,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan",
+    "a": "Oracle",
+    "b": "Excel",
+    "c": "MoodBus",
+    "d": "DataBase"
+  },
+  {
+    "id": 107,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan",
+    "a": "Access",
+    "b": "Word",
+    "c": "MoodBus",
+    "d": "DataBase"
+  },
+  {
+    "id": 108,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan",
+    "a": "Paradox",
+    "b": "Excel",
+    "c": "MoodBus",
+    "d": "DataBase"
+  },
+  {
+    "id": 109,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan",
+    "a": "SQL Server",
+    "b": "Power Point",
+    "c": "MoodBus",
+    "d": "DataBase"
+  },
+  {
+    "id": 110,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan",
+    "a": "MySQL",
+    "b": "Point",
+    "c": "MoodBus",
+    "d": "DataBase"
+  },
+  {
+    "id": 111,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Bazaning butunligi.",
+    "b": "Bazaning kompaktligi.",
+    "c": "Bazaning yagonaligi.",
+    "d": "Bazaning qonuniyligi."
+  },
+  {
+    "id": 112,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Ma'lumotlarning ko'p marta ishlatila olinishi.",
+    "b": "Baza ma'lumotlarining kompaktligi.",
+    "c": "Baza ma'lumotlarining yagonaligi.",
+    "d": "Baza ma'lumotlarining qonuniyligi."
+  },
+  {
+    "id": 113,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Tez qidiruv va javob olinishi.",
+    "b": "Baza ma'lumotlarining kompaktligi.",
+    "c": "Baza ma'lumotlarining yagonaligi.",
+    "d": "Baza ma'lumotlarining qonuniyligi."
+  },
+  {
+    "id": 114,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Ma'lumotlarning oson yangilanishi.",
+    "b": "Baza ma'lumotlarining kompaktligi.",
+    "c": "Baza ma'lumotlarining yagonaligi.",
+    "d": "Baza ma'lumotlarining qonuniyligi."
+  },
+  {
+    "id": 115,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Ma'lumotlar ortiqchaligi darajasining pastligi.",
+    "b": "Baza ma'lumotlarining kompaktligi.",
+    "c": "Baza ma'lumotlarining yagonaligi.",
+    "d": "Baza ma'lumotlarining qonuniyligi."
+  },
+  {
+    "id": 116,
+    "ques": "Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan",
+    "a": "Baza ma'lumotlarining himoyalanganligi.",
+    "b": "Baza ma'lumotlarining kompaktligi.",
+    "c": "Baza ma'lumotlarining yagonaligi.",
+    "d": "Baza ma'lumotlarining qonuniyligi."
+  },
+  {
+    "id": 117,
+    "ques": "Ma'lumotlar bazasi tizimi arxitekturasining 3 bosqichi:",
+    "a": "Tashqi bosqich, konseptual bosqich, fizik bosqich.",
+    "b": "Ichki bosqich, konseptual bosqich, fizik bosqich.",
+    "c": "Tashqi bosqich, konseptual bosqich, axborot bosqichi.",
+    "d": "Tashqi bosqich, konseptual bosqich, informatika bosqichi."
+  },
+  {
+    "id": 118,
+    "ques": "Ma'lumotlar bazasi tizimi arxitekturasining tashqi bosqichi nima",
+    "a": "Ma'lumotlarni foydalanuvchi nuqtai-nazaridan tasvirlash.",
+    "b": "Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.",
+    "c": "Ma'lumotlarni administrator nuqtai-nazaridan tasvirlash.",
+    "d": "Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash."
+  },
+  {
+    "id": 119,
+    "ques": "Ma'lumotlar bazasi tizimi arxitekturasining konseptual bosqichi nima",
+    "a": "Ma'lumotlarni administrator nuqtai-nazaridan tasvirlash.",
+    "b": "Ma'lumotlarni foydalanuvchi nuqtai-nazaridan tasvirlash.",
+    "c": "Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.",
+    "d": "Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash."
+  },
+  {
+    "id": 120,
+    "ques": "Ma'lumotlar bazasi tizimi arxitekturasining fizik (ichki) bosqichi nima",
+    "a": "Ma'lumotlarni kompyuter xotirasida tasvirlash.",
+    "b": "Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.",
+    "c": "Ma'lumotlarni adminstrator nuqtai-nazaridan tasvirlash.",
+    "d": "Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash."
+  },
+  {
+    "id": 121,
+    "ques": "Ma'lumotlar bazalari modellari:",
+    "a": "Ierarxik, relyatsion, tarmoqli.",
+    "b": "Jadvalli, so'rovli, formali.",
+    "c": "Tabiiy, sun?iy.",
+    "d": "Ierarxik,  relyatsion, tarmoqli, kompyuterli."
+  },
+  {
+    "id": 122,
+    "ques": "MBning ierarxik modelida yozuvlar...",
+    "a": "daraxtsimon ko'rinishga ega bo'ladi.",
+    "b": "panjara ko'rinishga ega bo'ladi.",
+    "c": "bog'langan jadvallar ko'rinishiga ega bo'ladi.",
+    "d": "bog'lanmagan jadvallar ko'rinishiga ega bo'ladi."
+  },
+  {
+    "id": 123,
+    "ques": "MBning relyatsion modelida yozuvlar...",
+    "a": "Bog'langan jadvallar ko'rinishiga ega bo'ladi.",
+    "b": "daraxtsimon ko'rinishga ega bo'ladi.",
+    "c": "panjara ko'rinishga ega bo'ladi.",
+    "d": "bog'lanmagan jadvallar ko'rinishiga ega bo'ladi."
+  },
+  {
+    "id": 124,
+    "ques": "MBning tarmoqli modelida qaysi modelga o'xshaydi",
+    "a": "Relyatsion modelga.",
+    "b": "Ierarxik modelga.",
+    "c": "ob'ektli modelga.",
+    "d": "Xech qaysisiga o'xshamaydi."
+  },
+  {
+    "id": 125,
+    "ques": "SQLda MAX agregat funksiyasi qanday vazifa bajaradi",
+    "a": "Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari ichidan eng kattasini topadi.",
+    "b": "Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari ichidan eng kattasini topadi.",
+    "c": "Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari ichidan eng kattasini topadi.",
+    "d": "Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari ichidan eng kattasini topadi."
+  },
+  {
+    "id": 126,
+    "ques": "MBning mohiyat-aloqa modelida yozuvlar...",
+    "a": "mantiqiy ko'rinishda bo'ladi.",
+    "b": "matematik ko'rinishda bo'ladi.",
+    "c": "matn ko'rinishda bo'ladi.",
+    "d": "Mohiyatiga ko'ra doim aloqada  bo'ladi."
+  },
+  {
+    "id": 127,
+    "ques": "MBning mohiyat-aloqa modelida ob'ektlar...",
+    "a": "bir-biridan farqlanadi.",
+    "b": "bir-biridan farqlanmaydi.",
+    "c": "bir-biriga qaram bo'ladi.",
+    "d": "umuman bo'lmaydi."
+  },
+  {
+    "id": 128,
+    "ques": "MBning mohiyat-aloqa modelida mohiyat  bu...",
+    "a": "ob'ekt.",
+    "b": "jadval.",
+    "c": "daraxt.",
+    "d": "so'rov."
+  },
+  {
+    "id": 129,
+    "ques": "SQLda MAX agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin",
+    "a": "Sonli yoki simvolli.",
+    "b": "Ixtiyoriy.",
+    "c": "Faqat sonli.",
+    "d": "Faqat simvolli."
+  },
+  {
+    "id": 130,
+    "ques": "Relyatsion ma'lumotlar bazasi...",
+    "a": "bir-biri bilan bog'langan jadvallardan iborat.",
+    "b": "bir-biri bilan bog'lanmagan jadvallardan iborat.",
+    "c": "bir-biri bilan bog'langan daraxtlardan iborat.",
+    "d": "bir-biri bilan bog'langan bazalardan iborat."
+  },
+  {
+    "id": 131,
+    "ques": "SQLda MIN agregat funksiyasi qanday vazifa bajaradi",
+    "a": "Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari ichidan eng kichigini topadi.",
+    "b": "Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari ichidan eng kichigini topadi.",
+    "c": "Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari ichidan eng kichigini topadi.",
+    "d": "Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari ichidan eng kichigini topadi."
+  },
+  {
+    "id": 132,
+    "ques": "Relyatsion ma'lumotlar bazasida jadval ustunlari nima deb ataladi",
+    "a": "Maydon.",
+    "b": "Yozuv.",
+    "c": "Ma'lumot.",
+    "d": "Ustun."
+  },
+  {
+    "id": 133,
+    "ques": "Relyatsion ma'lumotlar bazasida jadval satrlari nima deb ataladi",
+    "a": "Yozuv.",
+    "b": "Maydon.",
+    "c": "Ma'lumot.",
+    "d": "Satr."
+  },
+  {
+    "id": 134,
+    "ques": "Relyatsion ma'lumotlar bazasida har bir yozuvni boshqasidan ajratib turadigan maydon nima deb ataladi",
+    "a": "Kalit.",
+    "b": "Sanovchi (schyotchik).",
+    "c": "YOzuv.",
+    "d": "Maydon."
+  },
+  {
+    "id": 135,
+    "ques": "SQLda MIN agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin",
+    "a": "Sonli yoki simvolli.",
+    "b": "Ixtiyoriy.",
+    "c": "Faqat sonli.",
+    "d": "Faqat simvolli."
+  },
+  {
+    "id": 136,
+    "ques": "Relyatsion algeba nima bilan shug'ullanadi",
+    "a": "Baza ma'lumotlari ustida amallar bajarish bilan.",
+    "b": "Ierarxik MB elementlari bilan.",
+    "c": "Ob'ektlar ustida algebraik amallar bajarish bilan.",
+    "d": "Ma'lumotlarni himoyalashni"
+  },
+  {
+    "id": 137,
+    "ques": "Relyatsion algebada munosabatlar ustida qanday asosiy operatsiyalar bajarish mumkin",
+    "a": "Tanlash, proeksiyalash, birlashtirish, farqini topish.",
+    "b": "Qo'shish, ayirish, ko'paytirish, bo'lish.",
+    "c": "Proeksiya, birlashtirish, ayirish, ko'paytirish, bo'lish, Dekart ko'paytirishi, chamalash.",
+    "d": "Birlashtirish, ayirish, ko'paytirish, bo'lish, Dekart ko'paytirishi."
+  },
+  {
+    "id": 138,
+    "ques": "Relyatsion algebra nimaga asoslangan",
+    "a": "To'plamlar nazariyasiga.",
+    "b": "Matematik mantiqqa.",
+    "c": "Matritsalar nazariyasiga.",
+    "d": "Sonlar nazariyasiga."
+  },
+  {
+    "id": 139,
+    "ques": "Relyatsion hisob nimaga asoslangan",
+    "a": "Matematik mantiqqa.",
+    "b": "To'plamlar nazariyasiga.",
+    "c": "Matritsalar nazariyasiga.",
+    "d": "Sonlar nazariyasiga."
+  },
+  {
+    "id": 140,
+    "ques": "ODBC nima'",
+    "a": "MBlar bilan muloqotning ochiq interfeysi.",
+    "b": "Foydalanish uchun ochiq bo'lgan M",
+    "c": "Barcha ma'lumotlar bazalari to'plami.",
+    "d": "Operatsion tizim."
+  },
+  {
+    "id": 141,
+    "ques": "Tranzaksiyalarni amalga oshirishda ROLLBACK operatori qayday vazifa bajaradi",
+    "a": "Amalga oshirilgan o'zgarishlarni bekor qiladi.",
+    "b": "Amalga oshirilgan o'zgarishlarni saqlaydi.",
+    "c": "Amalga oshirilgan o'zgarishlarni saqlamaydi.",
+    "d": "Amalga oshiriladigan o'zgarishlarni belgilaydi."
+  },
+  {
+    "id": 142,
+    "ques": "SQLda AVG agregat funksiyasi qanday vazifa bajaradi",
+    "a": "Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari o'rta arifmetigini hisoblaydi.",
+    "b": "Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari o'rta arifmetigini hisoblaydi.",
+    "c": "Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari o'rta arifmetigini hisoblaydi.",
+    "d": "Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari o'rta arifmetigini hisoblaydi."
+  },
+  {
+    "id": 143,
+    "ques": "SQLda SUM agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin",
+    "a": "Faqat sonli.",
+    "b": "Ixtiyoriy.",
+    "c": "Faqat simvolli.",
+    "d": "Sonli yoki simvolli."
+  },
+  {
+    "id": 144,
+    "ques": "SQLda SUM agregat funksiyasi qanday vazifa bajaradi",
+    "a": "Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari yig'indisini hisoblaydi.",
+    "b": "Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari yig'indisini hisoblaydi.",
+    "c": "Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari yig'indisini hisoblaydi.",
+    "d": "Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari yig'indisini hisoblaydi."
+  },
+  {
+    "id": 145,
+    "ques": "SQLda COUNT agregat funksiyasi qanday vazifa bajaradi",
+    "a": "Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari sonini hisoblaydi.",
+    "b": "Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari sonini hisoblaydi.",
+    "c": "Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari sonini hisoblaydi.",
+    "d": "Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari sonini hisoblaydi."
+  },
+  {
+    "id": 146,
+    "ques": "Tranzaksiya qachon amalga oshirilgan hisoblanadi",
+    "a": "Barcha operatsiyalar to'liq amalga oshirilib, o'zgarishlar saqlab bo'lingandan keyin.",
+    "b": "Har bir operatsiya to'liq amalga oshirilib, o'zgarishlar saqlab bo'lingandan keyin.",
+    "c": "Barcha operatsiyalar to'liq amalga oshirilib, o'zgarishlar saqlanishidan oldin.",
+    "d": "Barcha operatsiyalar to'liq amalga oshirilgandan keyin."
+  },
+  {
+    "id": 147,
+    "ques": "Tranzaksiyalarni amalga oshirishda COMMIT operatori qayday vazifa bajaradi",
+    "a": "Amalga oshirilgan o'zgarishlarni saqlaydi.",
+    "b": "Amalga oshirilgan o'zgarishlarni saqlamaydi.",
+    "c": "Amalga oshiriladigan o'zgarishlarni belgilaydi.",
+    "d": "Amalga oshirilgan o'zgarishlarni bekor qiladi."
+  },
+  {
+    "id": 148,
+    "ques": "SQLda so'rovlar ichma-ich joylashishi mumkinmi",
+    "a": "Mumkin.",
+    "b": "Mumkin emas.",
+    "c": "Bu ma'lumotlar soniga bog'liq.",
+    "d": "Har doim ishlatish shart."
+  },
+  {
+    "id": 149,
+    "ques": "SQL tilida INSERT INTO",
+    "a": "Jadvalga yangi satr qo'shadi.",
+    "b": "Jadvalga yangi ustun qo'shadi.",
+    "c": "Bazaga yangi jadval qo'shadi.",
+    "d": "YAngi baza yaratadi."
+  },
+  {
+    "id": 150,
+    "ques": "SQL tilida ALTER TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalga o'zgartirish kiritadi.",
+    "b": "Bazaga yangi jadval qo'shadi.",
+    "c": "Jadvalga yangi satr qo'shadi.",
+    "d": "Jadvalga yangi ustun qo'shadi."
+  },
+  {
+    "id": 151,
+    "ques": "SQL tilida DROP TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalni batamom yo'qotadi.",
+    "b": "Jadvalning barcha ma'lumotlarini o'chiradi.",
+    "c": "Jadvalni qirqib tashlaydi.",
+    "d": "Jadvalning bir qismini qirqib oladi."
+  },
+  {
+    "id": 152,
+    "ques": "SQL tilida DELETE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalning bir satrini o'chiradi.",
+    "b": "Jadvalni batamom yo'qotadi.",
+    "c": "Jadvalning barcha ma'lumotlarini o'chiradi.",
+    "d": "Jadvalni qirqib tashlaydi."
+  },
+  {
+    "id": 153,
+    "ques": "SQL tilida ANALIZE TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalni tahlil qiladi.",
+    "b": "Jadvalni batamom yo'qotadi.",
+    "c": "Jadvalning barcha ma'lumotlarini o'chiradi.",
+    "d": "Jadvalni qirqib tashlaydi."
+  },
+  {
+    "id": 154,
+    "ques": "SQL tilida CHECK TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalning tekshiradi.",
+    "b": "Jadvalni batamom yo'qotadi.",
+    "c": "Jadvalning barcha ma'lumotlarini o'chiradi.",
+    "d": "Jadvalni qirqib tashlaydi."
+  },
+  {
+    "id": 155,
+    "ques": "SQL tilida CHECKSUM TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalning nazorat yig'indisini hisoblaydi.",
+    "b": "Jadvalning nazoratini tekshiradi.",
+    "c": "Jadvalning barcha ma'lumotlarini o'chiradi.",
+    "d": "Jadvalni qirqib tashlaydi."
+  },
+  {
+    "id": 156,
+    "ques": "SQL tilida OPTIMIZE TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Jadvalni optimallashtiradi.",
+    "b": "Jadvalni ulgurjilashtiradi.",
+    "c": "Jadvalni chakanalashtiradi.",
+    "d": "Jadvalni qirqib tashlaydi."
+  },
+  {
+    "id": 157,
+    "ques": "SQL tilida REPAIR TABLE buyrug'i nima vazifa bajaradi",
+    "a": "Buzilgan jadvalni qayta tiklaydi (tuzatadi).",
+    "b": "Buzilgan bazani qayta tiklaydi (tuzatadi).",
+    "c": "O'chirilgan jadvalni qayta tiklaydi.",
+    "d": "O'chirilgan bazani qayta tiklaydi."
+  },
+  {
+    "id": 158,
+    "ques": "ADO nima'",
+    "a": "ActiveX ma'lumotlar ob'ektlari.",
+    "b": "ActiveX ma'lumotlar bazalari.",
+    "c": "Faol ma'lumotlar ob'ektlari.",
+    "d": "Faol ma'lumotlar bazalari."
+  },
+  {
+    "id": 159,
+    "ques": "Ma'lumotlar bazasini administratsiyalash deganda nimani tushunasiz",
+    "a": "Ma'lumotlar bazasidan foydalanish xuquqini tartibga solish va ta'minlashni.",
+    "b": "Ma'lumotlar bazasiga egalik qilishni.",
+    "c": "Ma'lumotlar bazasini boshqarish tizimini.",
+    "d": "Ma'lumotlar bazasiga ma'lumot kiritish va undan ma'lumot olish jarayonini."
+  },
+  {
+    "id": 160,
+    "ques": "Ma'lumotlar bazasini normallashtirish deganda nimani tushunasiz",
+    "a": "Jadvallardagi ortiqchalikni minimallashtirish jarayonini.",
+    "b": "So'rovlardagi ortiqchalikni minimallashtirish jarayonini.",
+    "c": "Formalardagi ortiqchalikni minimallashtirish jarayonini.",
+    "d": "Hisobotlardagi ortiqchalikni minimallashtirish jarayonini."
+  },
+  {
+    "id": 161,
+    "ques": "1NF normal forma nima'",
+    "a": "Takrorlanuvchi atributlarni yo'qotish.",
+    "b": "Jadvaldagi o'xshash atributlarni yo'qotish.",
+    "c": "Takrorlanuvchi munosabatlarnii yo'qotish.",
+    "d": "Jadvaldagi o'xshash munosabatlarni yo'qotish."
+  },
+  {
+    "id": 162,
+    "ques": "2NF normal forma nima'",
+    "a": "Faqat unikal identifikator qismiga bog'liq bo'lgan atributlarni yo'qotish.",
+    "b": "Faqat unikal identifikator qismiga bog'liq bo'lmagan atributlarni yo'qotish.",
+    "c": "Faqat unikal identifikator qismiga bog'liq bo'lgan munosabatlarni yo'qotish.",
+    "d": "Faqat unikal identifikator qismiga bog'liq bo'lgmaan munosabatlarni yo'qotish."
+  },
+  {
+    "id": 163,
+    "ques": "3NF normal forma nima",
+    "a": "Unikal identifikator bo'lmagan atributlarga bog'liq bo'lgan atributlarni yo'qotish.",
+    "b": "Unikal identifikator bo'lgan atributlarga bog'liq bo'lgan atributlarni yo'qotish.",
+    "c": "Unikal identifikator bo'lmagan atributlarga bog'liq bo'lgan munosabatlarni yo'qotish.",
+    "d": "Unikal identifikator bo'lgan atributlarga bog'liq bo'lgan munosabatlarni yo'qotish."
+  },
+  {
+    "id": 164,
+    "ques": "ADO texnologiyasi nima",
+    "a": "Ma'lumotlar bazalariga ulanish texnologiyasi.",
+    "b": "Ma'lumotlar bazalarini faollashtirish texnologiyasi.",
+    "c": "Ma'lumotlar bazalarida ishlash texnologiyasi.",
+    "d": "Ma'lumotlar bazalarini boshqarish texnologiyasi."
+  },
+  {
+    "id": 165,
+    "ques": "Normal formalar qanday ma'lumotlar bazasida ishlatiladi",
+    "a": "Relyatsion ma'lumotlar bazasida.",
+    "b": "Ierarxik ma'lumotlar bazasida.",
+    "c": "Tarmoqli ma'lumotlar bazasida.",
+    "d": "Ob'ektga yo'naltirilgan ma'lumotlar bazasida."
+  },
+  {
+    "id": 166,
+    "ques": "SQL nima",
+    "a": "MB bilan ishlashga mo'ljallangan til.",
+    "b": "MB bilan ishlashga mo'ljallangan tizim.",
+    "c": "MBBT bilan ishlashga mo'ljallangan til.",
+    "d": "MBBT bilan ishlashga mo'ljallangan tizim."
+  },
+  {
+    "id": 167,
+    "ques": "HTML nima",
+    "a": "Giper matnlarni belgilash tili.",
+    "b": "Kengaytiriluvchi belgilash tili.",
+    "c": "Kengaytmasi .html bo'lgan fayl.",
+    "d": "Formati ?html? bo'lgan fayl."
+  },
+  {
+    "id": 168,
+    "ques": "XML nima",
+    "a": "Kengaytiriluvchi belgilash tili.",
+    "b": "Giper matnlarni belgilash tili.",
+    "c": "Kengaytmasi .xml bo'lgan fayl.",
+    "d": "Formati ?xml? bo'lgan fayl."
+  },
+  {
+    "id": 169,
+    "ques": "SQL qanday ma'lumotlar bazasida ishlatiladi",
+    "a": "Relyatsion ma'lumotlar bazasida.",
+    "b": "Ierarxik ma'lumotlar bazasida.",
+    "c": "Tarmoqli ma'lumotlar bazasida.",
+    "d": "Ob'ektga yo'naltirilgan ma'lumotlar bazasida."
+  },
+  {
+    "id": 170,
+    "ques": "Insert operatorining konstruksiyasi",
+    "a": "Insert into  values",
+    "b": "Insert to table  values",
+    "c": "Insert to  values",
+    "d": "Insert inside  values"
+  },
+  {
+    "id": 171,
+    "ques": "SQL ning DML guruhi operatorlari nimaga mo'ljallangan",
+    "a": "MBning ma'lumotlarini qayta ishlashga.",
+    "b": "MBning ob'ektlari bilan ishlashga.",
+    "c": "MBning so'rovlari bilan ishlashga.",
+    "d": "MBning hisobotlari bilan ishlashga."
+  },
+  {
+    "id": 172,
+    "ques": "Insert operatorida into so'zidan keyin nima keltiriladi",
+    "a": "Jadval va maydonlar nomlari",
+    "b": "Jadval va satrlar nomlari",
+    "c": "Jadval va ma'lumotlar nomlari",
+    "d": "Jadval va yozuvlar nomlari"
+  },
+  {
+    "id": 173,
+    "ques": "SQL ning TCL guruhi operatorlari nimaga mo'ljallangan",
+    "a": "MBning tranzaksiyalari bilan ishlashga.",
+    "b": "MBning ob'ektlari bilan ishlashga.",
+    "c": "Mbning so'rovlari bilan ishlashga.",
+    "d": "Mbning hisobotlari bilan ishlashga."
+  },
+  {
+    "id": 174,
+    "ques": "Insert operatorida values so'zidan keyin nima keltiriladi",
+    "a": "Tegishli ma'lumotlar",
+    "b": "Tegishli maydonlar",
+    "c": "Tegishli jadvalar",
+    "d": "Jadval va yozuvlar nomlari"
+  },
+  {
+    "id": 175,
+    "ques": "SQL ning DSL guruhi operatorlari nimaga mo'ljallangan",
+    "a": "MBni himoya qilishga.",
+    "b": "MBning ob'ektlari bilan ishlashga.",
+    "c": "Mbning so'rovlari bilan ishlashga.",
+    "d": "Mbning hisobotlari bilan ishlashga."
+  },
+  {
+    "id": 176,
+    "ques": "SQL da DDL- ma'lum®tlarni aniqlash tili tarkibiga kiruvchi buyruqlarni aniqlang",
+    "a": "CREATE, ALTER, DROP",
+    "b": "SELECT, INSERT",
+    "c": "UPDATE, DELETE",
+    "d": "HAVING, IN"
+  },
+  {
+    "id": 177,
+    "ques": "SQL da DML - ma'lum®tlarni qayta ishlash  tili tarkibiga kiruvchi buyruqlarni aniqlang",
+    "a": "SELECT, INSERT, DELETE",
+    "b": "CREATE, ALTER, DROP",
+    "c": "HAVING, IN",
+    "d": "DROP, ALTER"
+  },
+  {
+    "id": 178,
+    "ques": "Quyidagilarning qaysi biri MB yaratish bosqichiga kiradi",
+    "a": "Maqsad va vazifalarni aniqlab olish.",
+    "b": "Anketa yordamida so'rov o'tkazish.",
+    "c": "Konstruktor yordamida strukturani kiritish.",
+    "d": "Ma'lumotlarni kuzatish"
+  },
+  {
+    "id": 179,
+    "ques": "SQLning kalit so'zlarini MB nomi sifatida ishlatish mumkinmi",
+    "a": "Mumkin emas.",
+    "b": "Mumkin.",
+    "c": "Ehtiyot bo'lib ishlatish mumkin.",
+    "d": "Ikki marta ishlatish mumkin emas."
+  },
+  {
+    "id": 180,
+    "ques": "SQLning SELECT operatori nimaga mo'ljallangan",
+    "a": "MB jadvalidan ma'lumotlarni tanlab olishga.",
+    "b": "MB jadvalidan yozuvlarni tanlab olishga.",
+    "c": "MB jadvallarini tanlab olishga.",
+    "d": "MB bazalarini tanlab olishga."
+  },
+  {
+    "id": 181,
+    "ques": "SQLning SELECT operatoridan keyin nima ko'rsatiladi",
+    "a": "Tanlanadigan maydonlar nomlari.",
+    "b": "Tanlanadigan maydonlar turlari.",
+    "c": "Tanlanadigan maydonlar formatlari.",
+    "d": "Tanlanadigan maydonlar mazmuni."
+  },
+  {
+    "id": 182,
+    "ques": "SQLning SELECT operatoridan keyingi * belgisi nimani bildiradi",
+    "a": "Barcha maydonlarni tanlashni.",
+    "b": "Tanlanadigan maydonlar ixtiyoriyligini.",
+    "c": "Tanlanadigan maydonlar majburiyligini",
+    "d": "Barcha yozuvlarni tanlashni."
+  },
+  {
+    "id": 183,
+    "ques": "SQLning SELECT operatorida FROM so'zidan keyin nima ko'rsatiladi",
+    "a": "Aniq jadval nomi.",
+    "b": "Birinchi jadval nomi.",
+    "c": "Tanlanadigan maydonlar nomi.",
+    "d": "Tanlanadigan yozuv nomi."
+  },
+  {
+    "id": 184,
+    "ques": "SQLning SELECT operatorida WHERE so'zidan keyin * qo'yilsa nima bo'ladi",
+    "a": "* dan iborat ma'lumot tanlanadi.",
+    "b": "Barcha yozuvlar tanlanmaydi.",
+    "c": "Bitta yozuv tanlanadi.",
+    "d": "Barcha yozuvlar tanlanadi."
+  },
+  {
+    "id": 185,
+    "ques": "SQLning SELECT operatorining WHERE qismi bo'lmasa nima bo'ladi",
+    "a": "Barcha yozuvlar tanlanadi.",
+    "b": "Bunday bo'lishi mumkin emas.",
+    "c": "Hech qanday yozuv tanlanmaydi.",
+    "d": "Bitta yozuv tanlanadi."
+  },
+  {
+    "id": 186,
+    "ques": "SQLning SELECT operatorida WHERE so'zidan keyin nima yoziladi",
+    "a": "Mantiqiy ifoda.",
+    "b": "Arifmetik ifoda.",
+    "c": "Ixtiyoriy operator.",
+    "d": "Ixtiyoriy ifoda."
+  },
+  {
+    "id": 187,
+    "ques": "SQLning SELECT operatorida ORDER BY so'zidan keyin nima ko'rsatiladi",
+    "a": "So'rov javobida ma'lumotlarni yozish tartibi.",
+    "b": "So'rov javobida ustunlarni yozish tartibi.",
+    "c": "So'rov javobida jadvallarni yozish tartibi.",
+    "d": "So'rov javobida bazalarni yozish tartibi."
+  },
+  {
+    "id": 188,
+    "ques": "SQLning SELECT operatorida ALL so'zi nimani anglatadi",
+    "a": "SHartni qanoatlantiruvchi barcha yozuvlarni keltirishni.",
+    "b": "SHartni qanoatlantiruvchi barcha jadvallarni keltirishni.",
+    "c": "SHartni qanoatlantirmaydigan barcha yozuvlarni keltirishni.",
+    "d": "SHartni qanoatlantiruvchi barcha MBlarni keltirishni."
+  },
+  {
+    "id": 189,
+    "ques": "SQLning SELECT operatorida DISTINCT so'zi nimani anglatadi",
+    "a": "SHartni qanoatlantiruvchi bir xil ma'lumotlardan faqat bittasini keltirishni.",
+    "b": "SHartni qanoatlantiruvchi bitta yozuvlarni keltirishni.",
+    "c": "SHartni qanoatlantiruvchi bitta jadvalni keltirishni.",
+    "d": "SHartni qanoatlantirmaydigan barcha yozuvlarni keltirishni."
+  },
+  {
+    "id": 190,
+    "ques": "SQLning SELECT operatorida TOP so'zi nima uchun ishlatiladi",
+    "a": "SHartni qanoatlantiruvchi yozuvlarning dastlabki qismini keltirishni.",
+    "b": "SHartni qanoatlantiruvchi yozuvlarning eng yaxshilarini keltirishni.",
+    "c": "SHartni qanoatlantiruvchi yozuvlarning eng ishonchlilarini keltirishni.",
+    "d": "SHartni qanoatlantiruvchi yozuvlarning eng kattasini keltirishni."
+  },
+  {
+    "id": 191,
+    "ques": "SQLning UPDATE operatori nima uchun ishlatiladi",
+    "a": "MB ma'lumotlarini o'zgartirish uchun.",
+    "b": "MB ma'lumotlarini qaytadan kiritish uchun.",
+    "c": "MB ma'lumotlarini batamom yangilash uchun.",
+    "d": "MB ma'lumotlarini bugungisi bilan almashtirish uchun."
+  },
+  {
+    "id": 192,
+    "ques": "SQLning UPDATE operatorida SET so'zi nima uchun ishlatiladi",
+    "a": "O'zgartirish parametrlarini berish uchun.",
+    "b": "O'zgarishlarni saqlash uchun.",
+    "c": "Tarmoqdagi MBni o'zgartirish uchun.",
+    "d": "O'zgarishlarni tarmoqda saqlash uchun."
+  },
+  {
+    "id": 193,
+    "ques": "SQLning DELETE operatori nima uchun ishlatiladi",
+    "a": "MB yozuvlarini o'chirish uchun.",
+    "b": "MB maydonlarini o'chirish uchun.",
+    "c": "MB jadvallarini o'chirish uchun.",
+    "d": "MB ni o'chirish uchun."
+  },
+  {
+    "id": 194,
+    "ques": "SQLning DELETE operatorida WHERE so'zi nima uchun ishlatiladi",
+    "a": "Satrlarni tanlab o'chirish uchun.",
+    "b": "Operatorda bunday so'z ishlatib bo'lmaydi.",
+    "c": "O'chirilgan ma'lumotlarni qaergadir qo'yish uchun.",
+    "d": "Maydonlarni tanlab o'chirish uchun."
+  },
+  {
+    "id": 195,
+    "ques": "SQLning INSERT operatori nima uchun ishlatiladi",
+    "a": "MB jadvaliga yozuv qo'shish uchun.",
+    "b": "MB maydonlarini ko'paytirish uchun.",
+    "c": "MB jadvalida yangi joy ochish uchun.",
+    "d": "Orasiga qo'shish rejimini o'rnatish uchun uchun."
+  },
+  {
+    "id": 196,
+    "ques": "SQLning CREATE TABLE operatori nima uchun ishlatiladi",
+    "a": "MB ga yangi jadval yaratish uchun.",
+    "b": "MB yangi ma'lumot qo'shish uchun.",
+    "c": "MB jadvallariga ijodiy yondashish uchun.",
+    "d": "Jadvalni kengaytirish yoki toraytirish uchun."
+  },
+  {
+    "id": 197,
+    "ques": "SQLda mavjud jadval strukturasini o'zgartirish uchun qaysi operatordan foydalaniladi",
+    "a": "ALTER TABLE",
+    "b": "ALTER STRUCTURE",
+    "c": "CHANGE TABLE",
+    "d": "CHANGE STRUCTURE"
+  },
+  {
+    "id": 198,
+    "ques": "MB jadvalining satrlari bilan ustunlari kesishmalari nima deb ataladi",
+    "a": "Ma'lumot birliklari.",
+    "b": "Yozuvlar.",
+    "c": "Maydonlar.",
+    "d": "Yacheykalar"
+  },
+  {
+    "id": 199,
+    "ques": "Kalit maydon",
+    "a": "Har bir yozuvning unikal ma'lumotlaridan iborat.",
+    "b": "Har bir yozuv uchun unikal satrlar va ustunlardan iborat.",
+    "c": "Boshqa unikal maydonlarga bo'ysinmaydi.",
+    "d": "Boshqa unikal maydonlarga o'xshamaydi"
+  },
+  {
+    "id": 200,
+    "ques": "Quyidagilarning qaysi biri MB maydonlari turiga kirmaydi",
+    "a": "Eksponentsial.",
+    "b": "Matnli.",
+    "c": "Sonli.",
+    "d": "Sana/vaqt"
+  },
+  {
+    "id": 201,
+    "ques": "Hamma kompyuterlar bir aloqa liniyasiga parallel ulanadi va har bir kompyuterdan axborot bir vaqtda hamma qolgan kompyuterlarga uzatiladi",
+    "a": "shina (bus)",
+    "b": "yulduz (zvezda, star)",
+    "c": "xalqa (koltso, zing)",
+    "d": "oy (luna, moon)"
+  },
+  {
+    "id": 202,
+    "ques": "Bitta markaziy kompyuterga chetda qolgan kompyuterlar ulanadi, shu bilan birga har biri o‘zining alohida aloqa liniyalaridan foydalanadi",
+    "a": "yulduz (zvezda, star)",
+    "b": "shina (bus)",
+    "c": "xalqa (koltso, zing)",
+    "d": "oy (luna, moon)"
+  },
+  {
+    "id": 203,
+    "ques": "Har bir kompyuter axborotni har doim faqat bitta zanjirda kelayotgan kompyuterga uzatadi, axborotni esa faqat zanjirdagi oldinda kelayotgan kompyuterdan oladi",
+    "a": "xalqa (koltso, zing)",
+    "b": "yulduz (zvezda, star)",
+    "c": "shina (bus)",
+    "d": "oy (luna, moon)"
+  },
+  {
+    "id": 204,
+    "ques": "IP (Internet Protocol) – deb nimaga aytiladi",
+    "a": "axborot uzatish uchun TCP/IP - protokoli",
+    "b": "paketlarni uzatish va yo‘naltirish uchun mo‘ljallangan Net Ware firma protokoli",
+    "c": "Internet global tarmoq protokoli, u uzoqdagi xostlarni qayd qilish va ularda axborotga ishlov berish vazifasini bajaradi",
+    "d": "bir necha sistemada fayl va katalog xizmati CCITT protokoli"
+  },
+  {
+    "id": 205,
+    "ques": "“Yulduz” turidagi barcha topologiyalarning umumiy kamchiligi boshqa topologiyalarga qaraganda ...",
+    "a": "juda katta kabel sariflanishidir",
+    "b": "juda katta vaqt sariflanishidir",
+    "c": "juda katta suyuqlik sariflanishidir",
+    "d": "juda katta kuch sariflanishidir"
+  },
+  {
+    "id": 206,
+    "ques": "Kompyutеrlarning o'zaro axborot almashinish imkoniyatlarini bеruvchi qurilmalar majmuiga nima dеyiladi",
+    "a": "kompyutеr tarmoqlari",
+    "b": "kompyutеr tizimlari",
+    "c": "kompyutеr qurilmalari",
+    "d": "kompyutеr drayverlari"
+  },
+  {
+    "id": 207,
+    "ques": "... - bir korxona yoki muassasalardagi bir nеcha yaqin binolardagi abonеntlarni (kompyutеrlarni) maxsus kabеllar bilan bog‘laydi",
+    "a": "Mahalliy (Lokal) tarmoqlar",
+    "b": "Mintaqaviy tarmoqlar",
+    "c": "Global tarmoqlar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 208,
+    "ques": "... - uncha katta bo‘lmagan mamlakat shaharlari va viloyatlari foydalanuvchi kompyutеrlarini va lokal tarmoqlarni maxsus aloqa yoki tеlеfon aloqa kanallari orqali birlashtiradi",
+    "a": "Mintaqaviy tarmoqlar",
+    "b": "Mahalliy (Lokal) tarmoqlar",
+    "c": "Global tarmoqlar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 209,
+    "ques": "... - o‘ziga butun dunyo bo‘yicha hamma abonеntlarni, lokal va mintaqaviy tarmoqlarni o‘ziga tеlеfon yoki sputnik aloqa tarmog‘i orqali birlashtiradi",
+    "a": "Global tarmoqlar",
+    "b": "Mintaqaviy tarmoqlar",
+    "c": "Mahalliy (Lokal) tarmoqlar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 210,
+    "ques": "LAN (Local Area Network)",
+    "a": "Mahalliy (lokal) tarmoq",
+    "b": "Mintaqaviy tarmoq",
+    "c": "Global tarmoq",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 211,
+    "ques": "MAN (Metropolitan Area Network)",
+    "a": "Mintaqaviy tarmoq",
+    "b": "Mahalliy (lokal) tarmoq",
+    "c": "Global tarmoq",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 212,
+    "ques": "WAN (Wide Area Network)",
+    "a": "Global tarmoq",
+    "b": "Mintaqaviy tarmoq",
+    "c": "Mahalliy (lokal) tarmoq",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 213,
+    "ques": "... - tarmoq ishini ta'minlovchi maxsus kompyutеr.",
+    "a": "Sеrvеr",
+    "b": "Kontsеntrator (HUB)",
+    "c": "Axborotni uzatish kabеllari",
+    "d": "Modеm"
+  },
+  {
+    "id": 214,
+    "ques": "... - tarmoqda kompyutеrlarni o‘zaro axborot almashuvini ta'minlovchi maxsus qurilma. U o‘ziga 12, 16, 24 ta kompyutеrlarni o‘zaro bog‘lash mumkin.",
+    "a": "Kontsеntrator (HUB)",
+    "b": "Monitor",
+    "c": "Printer",
+    "d": "Skaner"
+  },
+  {
+    "id": 215,
+    "ques": "... - tarmoqda axborotni bir kompyutеrdan boshqasiga uzatish uchun xizmat qiladi.",
+    "a": "Axborotni uzatish kabеllari",
+    "b": "Monitor",
+    "c": "Printer",
+    "d": "Skaner"
+  },
+  {
+    "id": 216,
+    "ques": "... - axborotni kompyutеrdan uzatish kabеliga va kabeldan kompyuterga tushunarli ko'rinishga (yoki tеlеfon aloqa tarmog‘iga) o‘tkazuvchi maxsus elеktron qurilma",
+    "a": "Modem",
+    "b": "Monitor",
+    "c": "Printer",
+    "d": "Skaner"
+  },
+  {
+    "id": 217,
+    "ques": "... - “modulyator” va “dеmodulyator” so‘zlari birikmasidan kеlib chiqqan bo‘lib, uning yordamida axborot uzatuvchi kompyu-tеrda raqamli ko‘rinishdan anolog ko‘rinishiga aylantiriladi, shuningdеk qabul qiluvchi kompyutеrda anolog ko‘rinishdan raqamli ko‘rinishga aylantiriladi",
+    "a": "Modem",
+    "b": "Monitor",
+    "c": "Printer",
+    "d": "Skaner"
+  },
+  {
+    "id": 218,
+    "ques": "Kompyutеrlarni bir-biri bilan bog'lashda necha xil usuldan foydalaniladi",
+    "a": "Ikki",
+    "b": "Uch",
+    "c": "To'rt",
+    "d": "Besh"
+  },
+  {
+    "id": 219,
+    "ques": "Bunda kompyutеrlar bir-biri bilan koaksial, o'ralgan juftlik kabеli (UTP) yoki shisha tolali kabеllar orqali maxsus tarmoq plata yordamida bog'lanadi",
+    "a": "Kabеl yordamida bog'lash",
+    "b": "Simsiz bog'lanish",
+    "c": "Printer",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 220,
+    "ques": "Bunda kompyutеrlar bir-biri bilan simsiz aloqa vositalar yordamida, ya'ni radio to'lqinlar, infraqizil nurlar, WiFi va Bluetooth tеxnologiyalari yordamida bog'lanadi",
+    "a": "Simsiz bog'lanish",
+    "b": "Kabеl yordamida bog'lash",
+    "c": "Printer",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 221,
+    "ques": "Lokal tarmoq tashkil qilish uchun eng zaruriy qurilmalar:...",
+    "a": "tarmoq kartasi, kabеllar HUB (yoki Switch) va dasturiiy ta'minotdir",
+    "b": "Skaner va printer",
+    "c": "Printer va web kamera",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 222,
+    "ques": "... ning mavjudligi bilan biz tarmoqni tashkil etishimiz mumkin bo'ladi. Chunki ... ning vazifasi asosiy plata bilan tashqi qurilma (kabеl, HUB yoki Switch) o'rtasidagi vositachi. Ya'ni kelayotgan signalni qabul qilib asosiy plataga o'tkazish yoki aksincha asosiy platadan chiqayotgan  signalni tashqariga uzatish uchun xizmat qiladi",
+    "a": "Tarmoq platasi",
+    "b": "Skaner platasi",
+    "c": "Printer platasi",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 223,
+    "ques": "Tarmoqlarning o'zaro aloqasida kommutatsiya vositalari. Mahalliy tarmoqni kabеllarning istalgan tipi bilan yaratish mumkin. Kabеllar asosan nechtaga bo'linadi",
+    "a": "Uchta",
+    "b": "To'rtta",
+    "c": "Ikkita",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 224,
+    "ques": "Eng arzon kabеl tеlеfoniyada foydalaniladigan eshilgan sim juftidan iborat bo'lgan ... kabеlidir",
+    "a": "O'rama juft",
+    "b": "Koaksial kabеl",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 225,
+    "ques": "... (tvisted pair – vitaya para) tеlеfon simini eslatadi. O'tkazish tеzligi: 100 Mbit/sеk",
+    "a": "O'rama juft kabеllari",
+    "b": "Koaksial kabеlllari",
+    "c": "Optik tolali kabеllari",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 226,
+    "ques": "Qanday kabellar asosan bino ichidagi tarmoqni hosil qilishda foydalaniladi",
+    "a": "O'rama juft kabеllar",
+    "b": "Koaksial kabеlllar",
+    "c": "Optik tolali kabеllar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 227,
+    "ques": "Qanday kabellar ekranlangan va ekranlanmagan bo'lishi mumkin",
+    "a": "O'rama juft kabеllar",
+    "b": "Koaksial kabеlllar",
+    "c": "Optik tolali kabеllar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 228,
+    "ques": "Qaysi kabelning kamchiliklari signallarning so'nish koeffitsienti yuqoriligi va elektr magnit halaqitlariga yuqori darajada sezgirligi, shuning uchun mahalliy tarmoqda ... dan foydalanishda faol qurilmalar o'rtasidagi eng yuqori masofa 100 metrgacha bo'ladi",
+    "a": "O'rama juft kabеllar",
+    "b": "Koaksial kabеlllar",
+    "c": "Optik tolali kabеllar",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 229,
+    "ques": "Bu kabеldan ma'lumotlar uzatishning ikita turli tizimida foydalanish mumkin: signalni modulyatsiyalab modulyatsiyalamasdan uzatish",
+    "a": "Koaksial kabеl",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 230,
+    "ques": "Qaysi kabelning uzunligi 50 km gacha еtishi mumkin",
+    "a": "Koaksial kabеl",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 231,
+    "ques": "Qaysi kabelda yirik korxonalar o'rtasida ma'lumotlarni uzatishda undan foydalanish ancha samarali bo'ladi",
+    "a": "Koaksial kabеl",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 232,
+    "ques": "Qaysi kabellar tеlеvizion antеnnaga juda o'xshash",
+    "a": "Koaksial kabеl(coaxial cable)",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 233,
+    "ques": "Qanday sim to'rt qatlamdan tashkil topgan bo'ladi: uning eng ichki qatlami mеtall simdan iborat",
+    "a": "Koaksial kabеl",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 234,
+    "ques": "Qanday kabel ekran egiluvchan o'qi, ichki sim egiluvchanlik o'qi bilan kеtma-kеt tushadi",
+    "a": "Koaksial kabеl",
+    "b": "O'rama juft",
+    "c": "Optik tolali kabеl",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 235,
+    "ques": "Kеyingi paytda kеng rivojlangan kabеl tеlеvidеniеsida ishlatiladigan sim qanaqa simdir",
+    "a": "Koaksial",
+    "b": "O'rama juft",
+    "c": "Optik tolali",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 236,
+    "ques": "Qanday simning asosiy afzalligi, uning katta kеnglikda ishchi chastotalariga ega bo'lganligi tufayli katta xajmdagi ma'lumotlar oqimini yuqori tеzlikda uzatishi mumkinligidadir",
+    "a": "Koaksial",
+    "b": "O'rama juft",
+    "c": "Optik tolali",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 237,
+    "ques": "Qanday simlarning ikkinchi afzalligi ularning turli tashqi qarshiliklarga chidamliligi va nisbatan uzoq masofalarga ma'lumotlarni (signal shaklidagi) uzatishi mumkinligidadir",
+    "a": "Koaksial",
+    "b": "O'rama juft",
+    "c": "Optik tolali",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 238,
+    "ques": "Qanday mahalliy tarmoqda foydalaniladigan eng yangi tеxnologiya hisoblanadi",
+    "a": "Optik tolali kabеl",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 239,
+    "ques": "... - eng ishonchli va tеz, shu bilan birga juda qimmat kabеl turi. Oralig'i 100 km masofadagi tarmoq uchun qo'llaniladi. O'tkazish tеzligi: 2 Gbit/sеk",
+    "a": "Optik tolali kabеl(fiber-optic cable)",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 240,
+    "ques": "... dеyilishiga sabab, bunda axborot eltuvchi yorug'lik nuri bo'ladi, u tarmoq tomonidan o'zgartiriladi va signal shaklini oladi ya'ni yorug'lik quvvatidan tolalar orqali boshqa enеrgiya turiga aylantirilishidir",
+    "a": "Optik tolali kabеl(fiber-optic cable)",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 241,
+    "ques": "Bunday tizim tashqi elеktr halaqitlariga bardoshli va shuning uchun ma'lumotlarni tеz (2 Gbit/sek) va xatosiz uzatish mumkin bo'ladi hamda uzatilayotgan axborotning maxfiyligini ta'minlaydi",
+    "a": "Optik tolali kabеl(fiber-optic cable)",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 242,
+    "ques": "Ular qattiq qatlam bilan, tashqaridan esa himoyaviy qoplam bilan qoplangan ko'rinishda bo'ladi",
+    "a": "Optik tolali kabеl(fiber-optic cable)",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 243,
+    "ques": "Qaysi simlarning afzalliklari: har qanday tashqi qarshiliklarga chidamliligi, ma'lumotlarni uzoq masofalarga o'zgartirishsiz va tеz uzatilishi (avvalgilariga nisbatan hatto 10 barobar tеz)",
+    "a": "Optik tolali",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 244,
+    "ques": "Uning kamchiligi mahalliy hisoblash tarmog'i (MHT)ni hosil qilishda simlarni ulashning nisbatan qiyinligi, ularga xizmat ko'rsatishning qimmatligi va qiyinligidadir",
+    "a": "Optik tolali",
+    "b": "Koaksial kabеl",
+    "c": "O'rama juft",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 245,
+    "ques": "IP-adres nima",
+    "a": "Nuqtalar bilan ajratilgan to'rtta sondan (oktet)iborat noyob son. Har bir son 0-255 oralig'ida bo'lishi lozim.",
+    "b": "real vaqt rejimida ma'lumot almashish. Misol uchun tarmoq orqali so'zlashish. Bularga chat serverlari xizmatlari kiradi",
+    "c": "bunga axborotlardan foydalanishga ruxsat beruvchi xizmatlar kiradi",
+    "d": "Tarmoq"
+  },
+  {
+    "id": 246,
+    "ques": "A sinf IP-adreslari qanday oraliqda bo'ladi",
+    "a": "0 dan 127 gacha",
+    "b": "128 dan 191 gacha",
+    "c": "192 dan 223 gacha",
+    "d": "224dan 239 gacha"
+  },
+  {
+    "id": 247,
+    "ques": "B sinf IP-adreslari qanday oraliqda bo'ladi",
+    "a": "128 dan 191 gacha",
+    "b": "0 dan 127 gacha",
+    "c": "192 dan 223 gacha",
+    "d": "224dan 239 gacha"
+  },
+  {
+    "id": 248,
+    "ques": "C sinf IP-adreslari qanday oraliqda bo'ladi",
+    "a": "192 dan 223 gacha",
+    "b": "128 dan 191 gacha",
+    "c": "0 dan 127 gacha",
+    "d": "224dan 239 gacha"
+  },
+  {
+    "id": 249,
+    "ques": "D sinf IP-adreslari qanday oraliqda bo'ladi",
+    "a": "224dan 239 gacha",
+    "b": "192 dan 223 gacha",
+    "c": "128 dan 191 gacha",
+    "d": "0 dan 127 gacha"
+  },
+  {
+    "id": 250,
+    "ques": "WEB-texnologiyasining hozirgi kunda axborotni ko'rish uchun turli vositalar mavjud, ular qanday nomlanadi",
+    "a": "Brauzer",
+    "b": "Tarmoq",
+    "c": "Ma'lumot",
+    "d": "Axborot"
+  },
+  {
+    "id": 251,
+    "ques": "Lokal hisoblash tarmog'idagi kompyuterlarning joylashishini ifodalovchi termin qanday nomlanadi",
+    "a": "Topologiya",
+    "b": "Ma'lumot",
+    "c": "Qurilma",
+    "d": "Tarmoq"
+  },
+  {
+    "id": 252,
+    "ques": "Ma'lumotlarni kompyuter tarmog'ida bitta kompyuterdan boshqasiga uzatish paytida kompyuter va aloqa kanali ishini muvofiqlashtiruvchi plata shaklida yaratilgan moslashtirgich qanday nomlanadi",
+    "a": "Tarmoq adapteri (kartasi)",
+    "b": "HUB qurilmasi",
+    "c": "SWITCH qurilmalai",
+    "d": "Telefon"
+  },
+  {
+    "id": 253,
+    "ques": "Simsiz aloqa kanali qanda turlarga bo'linadi",
+    "a": "Infraqizil to'lqinlar, lazer to'lqinlar, radioaloqa",
+    "b": "Ikkita simni bir-bir atrofida o'rash natijasida xosil qilingan kabel",
+    "c": "(Vitaya para) C) Koaksial va optik tolali kabellar",
+    "d": "Uyali aloqa"
+  },
+  {
+    "id": 254,
+    "ques": "Lokal xisoblash tarmoqlarining ma'lumotlar almashinish muxiti qanday turlarga bo'linadi",
+    "a": "Ikkita simni bir-bir atrofida o'rash natijasida xosil qilingan kabel",
+    "b": "Infraqizil to'lqinlar, lazer to'lqinlar, radioaloqa",
+    "c": "(Vitaya para) C) Koaksial va optik tolali kabellar",
+    "d": "Uyali aloqa"
+  },
+  {
+    "id": 255,
+    "ques": "Dunyoning ixtiyoriy davlatidagi kompyuterlarni o'zida birlashtirish imkoniga ega bo'lgan tarmoq nima deb ataladi",
+    "a": "Global tarmoq",
+    "b": "Lokal tarmoq",
+    "c": "Mintaqaviy tarmoq",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 256,
+    "ques": "Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o'zida mujassamlashtirgan tarmoq qanday nomlanadi",
+    "a": "Lokal tarmoq",
+    "b": "Global tarmoq",
+    "c": "Mintaqaviy tarmoq",
+    "d": "To'g'ri javob yo'q"
+  },
+  {
+    "id": 257,
+    "ques": "IP – adres – bu ...",
+    "a": "32 bitli son bo'lib 4 ta qismga bo'linadi",
+    "b": "24 bitli son bo'lib 3 ta qismga bo'linadi",
+    "c": "16 bitli son bo'lib 2 ta qismga bo'linadi",
+    "d": "1 baytli son bo'lib 2 ta qismga bo'linadi"
+  },
+  {
+    "id": 258,
+    "ques": "IP – adreslarning soni ...",
+    "a": "Chegaralangan",
+    "b": "Chegaralanmagan",
+    "c": "Chegaralanmagan, ammo aniqlash mumkin",
+    "d": "Chegaralangan, ammo ixtiyoriy foydalanuvchi kengaytirishi mumkin"
+  },
+  {
+    "id": 259,
+    "ques": "Modemning ma'lumotlarni uzatish tezligi ...",
+    "a": "Bit/sek bilan o'lchanadi",
+    "b": "Megabayt va gigabayt bilan o'lchanadi",
+    "c": "Operatsiya/sekund bilan o'lchanadi",
+    "d": "Sekund/bit bilan o'lchanadi"
+  },
+  {
+    "id": 260,
+    "ques": "Kabelning qaysi turi yorug'lik oqimini uzatishga mo'ljallangandir",
+    "a": "Optiktolali kabellar",
+    "b": "Koaksial kabellar",
+    "c": "Koaksial va optiktolali kabellar",
+    "d": "Kabelli kanallar va optiktolali kabellar"
+  },
+  {
+    "id": 261,
+    "ques": "Bod (bit/sek) nima uchun ishltiladi",
+    "a": "Tarmoqda ma'lumotlarni uzatish tezligini aniqlash uchun",
+    "b": "Kompyuter tezkorligini aniqlash uchun",
+    "c": "Xotira hajmini aniqlash uchun",
+    "d": "Takt chastotasini o'lchash uchun"
+  },
+  {
+    "id": 262,
+    "ques": "Asosiy tarmoq topologiyalari:",
+    "a": "Yulduz, halqa va shina",
+    "b": "Shina, yulduz va ketma-ket",
+    "c": "Halqa, aylana va shina",
+    "d": "Yulduz, halqa va aylana"
+  },
+  {
+    "id": 263,
+    "ques": "Tarmoq topologiyasi nima",
+    "a": "Tarmoqdagi kompyuterlarning joylashishi va bog'lanishi sxemasi",
+    "b": "Tarmoqdagi kompyuterlarning joylashishi",
+    "c": "Tarmoqdagi kompyuterlarning to'plami",
+    "d": "Shaxsiy kompyuterlarning o'zaro bog'lanishi"
+  },
+  {
+    "id": 264,
+    "ques": "LAN va WAN nima",
+    "a": "LAN­– bu lokal va WAN – global tarmoqlardir",
+    "b": "LAN – bu global va WAN – lokal tarmoqlardir",
+    "c": "LAN – apparatura va WAN – programma ta'minotidir",
+    "d": "LAN – tarmoqning programma va WAN – tarmoqning apparatura ta'minotidir"
+  },
+  {
+    "id": 265,
+    "ques": "Internet nima",
+    "a": "Xalqaro (butun dunyo) tarmog'i",
+    "b": "Yevropa va Osiyo orasidagi tarmoq",
+    "c": "AQSH va Yevropa orasida tashkil qilingan tarmoq",
+    "d": "Kompyuterlarning lokal tarmog'i"
+  },
+  {
+    "id": 266,
+    "ques": "Kompyuter tarmog'i nima",
+    "a": "Kompyuter tarmog'i deb ikkita va undan ko'p kompyuterlarning fizik bog'lanishiga aytiladi.",
+    "b": "Kompyuter tarmog'i deb faqat uchta kompyutrlarning bog'lanishiga aytiladi.",
+    "c": "Kompyuter tarmog'i deb faqat ikkita kompyuterning bog'lanishiga aytiladi.",
+    "d": "Kompyuter tarmog'i deb ikkita va undan ko'p kompyuterlarning majmuiga aytiladi."
+  },
+  {
+    "id": 267,
+    "ques": "Domen",
+    "a": "Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir",
+    "b": "Bu boshqa xujjatlarga o'tish uchun aloqa bog'lovchi murojaatni o'zida saqlaydigan xujjat",
+    "c": "Web – xujjatlarni ko'rib chiqish dasturi",
+    "d": "Bu serverning bo'lagi, ya'ni biror bir mavzuga oid bo'lim hisoblanadi"
+  },
+  {
+    "id": 268,
+    "ques": "Tarmoq uzeli",
+    "a": "Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter",
+    "b": "Brouzerga xujjat html tilida yozilganligi to'g'risida xabar beradi",
+    "c": "Web – xujjatlarni ko'rib chiqish dasturi",
+    "d": "Bu boshqa xujjatlarga o'tish uchun aloqa bog'lovchi murojaatni o'zida saqlaydigan xujjat"
+  },
+  {
+    "id": 269,
+    "ques": "IP (Internet Protocol) tarmoqlararo bayonnomasi",
+    "a": "Har xil operatsion tizimlarda ishlovchi turli xildagi hisoblash mashinalarini bir tarmoqda birlashtiruvchi universal standart",
+    "b": "Istalgan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi",
+    "c": "Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahi-fasi tomonidan bosh-qariladigan tarmoq re-surslarining guru-hidir",
+    "d": "Brouzerga xujjat html tilida yozilganligi to'g'risida xabar beradi"
+  },
+  {
+    "id": 270,
+    "ques": "Tarmoq bayonnomasi",
+    "a": "Kompyuterlar o'rta-sida ma'lumotlarni qabul qilish va uza-tish, hamda tarmoq-dagi bir qancha hisob-lash mashinalarining ishini sinxronlash-tirish uchun mo'l-jallangan qoidalar bayonining kelishil-gan va tasdiqlangan standartiga",
+    "b": "Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir",
+    "c": "Amaliy dasturlar o'rtasida ma'lumotlarni qabul qilish va uzatish",
+    "d": "Istalgan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi"
+  },
+  {
+    "id": 271,
+    "ques": "Download –",
+    "a": "Masofaviy tarmoq kompyuteri (udalen-nыy setevoy komp-yuter – server)dan mu-rojaat qilayotgan kompyuter (kliyent)ga fayllar nusxasini ko'cherish jarayonidir",
+    "b": "Masofaviy tarmoq kompyuteri(server)ga fayllarni yuklash jarayoni.",
+    "c": "Istagan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi",
+    "d": "Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter"
+  },
+  {
+    "id": 272,
+    "ques": "Fayllar uzatish bayonnomasi – FTP (File Transfer Protocol)",
+    "a": "Abonentga tarmoqdagi istagan kompyuterda o'zaro muloqot qilishga sha-roit yaratib beruvchi fayllar uzatish pro-tokoli",
+    "b": "Uzoqda turib tarmoqdagi istagan kompyuterni boshqarish rejimi",
+    "c": "Tarmoq yangiliklari va tarmoqdagi elektron elonlar doskasini olish",
+    "d": "Istagan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi"
+  },
+  {
+    "id": 273,
+    "ques": "Qaysi javobda veb resurslarning URL manzili to'g'ri ko'rsatilgan",
+    "a": "http://www.mk.uz",
+    "b": "1http://www.mk.uz",
+    "c": "ht://tp//www.mk.uz",
+    "d": "google.http://www.mk.uz"
+  },
+  {
+    "id": 274,
+    "ques": "WEB-texnologiyasining hozirgi kunda axborotni ko'rish uchun turli vositalar mavjud, ular qanday nomlanadi",
+    "a": "Brauzer",
+    "b": "Tarmoq",
+    "c": "Ma'lumot",
+    "d": "Axborot"
+  },
+  {
+    "id": 275,
+    "ques": "Internet tarmog'iga oddiy modem yordamida, telefon liniyasi orqali telefon raqamini terish yo'li bilan ulanish usulini ko'rsating:",
+    "a": "Dial-up",
+    "b": "ADSL",
+    "c": "Wi-Fi",
+    "d": "Wi-MAX"
+  },
+  {
+    "id": 276,
+    "ques": "Internet tarmog'ida real vaqtda axborotlar (xabarlar) almashish xizmati qanday ataladi",
+    "a": "Chat",
+    "b": "Elektronpochta",
+    "c": "Elektron murojaat",
+    "d": "Proksi"
+  },
+  {
+    "id": 277,
+    "ques": "Ko'pgina kompyuter tarmoqlaridan iborat global kompyuter tarmog'i qanday ataladi",
+    "a": "Internet",
+    "b": "Intranet",
+    "c": "Mintaqaviy tarmoq",
+    "d": "Korporativtarmoq"
+  },
+  {
+    "id": 278,
+    "ques": "Tarmoq orqali fayllarni uzatish uchun protokol ... ishlatiladi",
+    "a": "FTP",
+    "b": "POP3",
+    "c": "HTTP",
+    "d": "CMPT"
+  },
+  {
+    "id": 279,
+    "ques": "Tarmoqdagi kompyuterning to'g'ri IP manzilini tanlang",
+    "a": "108.214.198.112",
+    "b": "18.274.198.0",
+    "c": "1278.214.198",
+    "d": "10,0,0,1225"
+  },
+  {
+    "id": 280,
+    "ques": "Tarmoqdagi barcha kompyuterlar markaziy tugunga ulangan kompyuter tarmog'ining topologiyasi deyiladi",
+    "a": "Yulduz",
+    "b": "Avtobus",
+    "c": "Ring",
+    "d": "To'g'ri javob yo'q."
+  },
+  {
+    "id": 281,
+    "ques": "IP 215.128.255.106 bo'yicha tarmoqdagi kompyuter raqamini aniqlang",
+    "a": "106",
+    "b": "215.128.255.106",
+    "c": "128.255.106",
+    "d": "255.106"
+  },
+  {
+    "id": 282,
+    "ques": "Protokol ...",
+    "a": "Kompyuter tarmog'i orqali ma'lumotlarni uzatish standarti",
+    "b": "Kompyuterning axborot kanallari orqali fayllarni yuborish qobiliyati",
+    "c": "mahalliy tarmoq bilan ishlash uchun qurilma",
+    "d": "Elektron pochta orqali xabarlarni yuborish standarti"
+  },
+  {
+    "id": 283,
+    "ques": "\"Ta'lim sayti\" qaysi yuqori darajadagi domenni anglatadi",
+    "a": "mil",
+    "b": "gov",
+    "c": "com",
+    "d": "edu"
+  },
+  {
+    "id": 284,
+    "ques": "Internetga ulangan kompyuterda nima bo'lishi kerak",
+    "a": "IP manzil",
+    "b": "URL;",
+    "c": "WEB-sahifa;",
+    "d": "domen nomi;"
+  },
+  {
+    "id": 285,
+    "ques": "Аxborotning eng kichik oʼlchov birligi nima",
+    "a": "Bit",
+    "b": "Bayt",
+    "c": "Kilobayt",
+    "d": "Megabayt"
+  },
+  {
+    "id": 286,
+    "ques": "Tarmoq platasi (adapteri) nima uchun ishlatiladi",
+    "a": "Kompyuterni lokal tarmoqqa ulash",
+    "b": "Kompyuterni printerga ulash",
+    "c": "Kompyuterni monitorga ulash",
+    "d": "Kompyuterni skayner ulash"
+  },
+  {
+    "id": 287,
+    "ques": "Quyida keltirilgan yozuvlarning qaysi biri pochta manzili hisoblanadi",
+    "a": "halikov@aci.uz",
+    "b": "halikov.aci@uz",
+    "c": "halikov.aci.uz",
+    "d": "@halikov.aci.uz"
+  },
+  {
+    "id": 288,
+    "ques": "Bir bayt necha bitga teng",
+    "a": "8",
+    "b": "16",
+    "c": "32",
+    "d": "64"
+  },
+  {
+    "id": 289,
+    "ques": "Idoralar resurslari va/yoki axborot tizimlari orqali yuridik va jismoniy shaxslarga xizmat koʼrsatish turi qanday nomlanadi",
+    "a": "Interaktiv davlat xizmatlari",
+    "b": "davlat xizmatlari",
+    "c": "Internet davlat xizmatlari",
+    "d": "Interanet davlat xizmatlari"
+  },
+  {
+    "id": 290,
+    "ques": "«Elektron hukumat» nima",
+    "a": "Аxborotlarga elektron ishlov berish, uzatish va tarqatish vositalari asosida davlatni boshqarish tizimi",
+    "b": "Elektron xujjat aylanish sohasidagi munosabatlarni tartibga solish",
+    "c": "Elektron tijorat sohasidagi munosabatlarni tartibga solish",
+    "d": "Elektron pochta sohasidagi munosabatlarni tartibga solish"
+  },
+  {
+    "id": 291,
+    "ques": "Quyidagi qurilmalarning qaysi biri yordamida Internetga ulanish mumkin",
+    "a": "Modem",
+    "b": "Printer",
+    "c": "Skaner",
+    "d": "Kalonka"
+  },
+  {
+    "id": 292,
+    "ques": "Quyida keltirilan saxifalarning qaysi biri Oʼzbekiston Respublikasi xukumat portali hisoblanadi",
+    "a": "www.gov.uz",
+    "b": "www.edu.uz",
+    "c": "www.prezident.uz",
+    "d": "www.hukumat.uz"
+  },
+  {
+    "id": 293,
+    "ques": "Bir kilobayt necha baytga teng",
+    "a": "1024",
+    "b": "512",
+    "c": "256",
+    "d": "128"
+  },
+  {
+    "id": 294,
+    "ques": "Qaysi kabel 10 Mbit / s gacha ma'lumotlarni uzatish tezligini ta'minlaydi",
+    "a": "koaksiyal",
+    "b": "buralgan juftlik",
+    "c": "Optik tolali",
+    "d": "to'g'ri javob yo'q"
+  },
+  {
+    "id": 295,
+    "ques": "HTTP protokoli quyidagilarga xizmat qiladi:",
+    "a": "Gipermatnni uzatish",
+    "b": "fayl uzatish",
+    "c": "xabarlarni boshqarish",
+    "d": "Dasturni masofaviy kompyuterdan ishga tushiring"
+  },
+  {
+    "id": 296,
+    "ques": "Lokal tarmoq uchun zarur qurilmalar:",
+    "a": "Barchasi",
+    "b": "Server, ishchi stansiyalar",
+    "c": "Tarmoq platasi",
+    "d": "Maxsus kabel"
+  },
+  {
+    "id": 297,
+    "ques": "... – bu Intеrnеtga ulanganda axborot almashish qurilmasi",
+    "a": "Monitor",
+    "b": "Skaner",
+    "c": "Modem",
+    "d": "Printer"
+  },
+  {
+    "id": 298,
+    "ques": "Tarmoqlar necha xil bo' ladi",
+    "a": "3 xil: local, global, mintaqaviy;",
+    "b": "2 xil: local va mintaqaviy;",
+    "c": "2 xil: local va global;",
+    "d": "2 xil global va mintaqaviy"
+  },
+  {
+    "id": 299,
+    "ques": "WiMax tizimi nechta ta asosiy qismdan tashkil topgan",
+    "a": "2",
+    "b": "3",
+    "c": "4",
+    "d": "5"
+  },
+  {
+    "id": 300,
+    "ques": "... — ingliz tili so'zlaridan tashkil topgan bo'lib, «simsiz vafolik» ma'nosini anglatadi",
+    "a": "Wi-Fi (Wireless Fidelity)",
+    "b": "LAN",
+    "c": "WAN",
+    "d": "MAN"
+  },
+  {
+    "id": 301,
+    "ques": "Inson ishtirokisiz ma'lum maqsadli operasiyalar ketma-ketligi nima deb...aytiladi",
+    "a": "avtomatik",
+    "b": "yarim avtomatli",
+    "c": "mexanizasiyalashgan",
+    "d": "avtomatlashtirilgan"
+  },
+  {
+    "id": 302,
+    "ques": "Hamma texnologik operasiyalarni o'zaro bog'liqlikda boshqarishni ko'zlovchi avtomatlashtirishning turi qanday nomlanadi",
+    "a": "kompleksli avtomatlashtirish",
+    "b": "qisman avtomatlashtirish",
+    "c": "kompleksli mexanizasiyalash",
+    "d": "lokal avtomatlashtirish"
+  },
+  {
+    "id": 303,
+    "ques": "Avtomatlashtirishning qanday turlari bitta bosqichda jam bo'lgan",
+    "a": "lokal avtomatlashtirish, avtomatik stabillash, dasturli boshqarish, kuzatuvchi tizim",
+    "b": "nazorat va boshqarishning markazlashuvi",
+    "c": "kuzatuvchi tizim",
+    "d": "lokal avtomatlashtirish"
+  },
+  {
+    "id": 304,
+    "ques": "TJABS qanday fnuksiyalarni amalga oshiradi",
+    "a": "hamma ko'rsatilgan funksiyalar",
+    "b": "axborotni avtomatik to'plash",
+    "c": "axborotni avtomatik qayta ishlash",
+    "d": "parametrlarni lokal bshqarish"
+  },
+  {
+    "id": 305,
+    "ques": "To'qimachilik sanoatida avtomatlashtirishning qanday turlaridan keng foydalaniladi",
+    "a": "hamma ko'rsatilgan turlar",
+    "b": "alohida olingan texnologik parametrlarni rostlash",
+    "c": "eski mashinalarga avtomatlashtirishni kiritish",
+    "d": "alohida olingan mashinalarni boshqarish"
+  },
+  {
+    "id": 306,
+    "ques": "To'qimachilik sanoatini avtomatlashtirishning qanday yo'li porloq hisoblanadi",
+    "a": "hamma ko'rsatilgan tadbirlar",
+    "b": "yangi texnologik jarayonlarni ishlab chiqish",
+    "c": "yordamchi operasiyalarni kompleksli mexaizasiyalash",
+    "d": "avtomatlashtirishning rasional hajmini aniqlash"
+  },
+  {
+    "id": 307,
+    "ques": "Yigirishni avtomatlashtirishning asosiy vazifalari qanday",
+    "a": "hamma ko'rsatilgan vazifalar",
+    "b": "xom-ashyoni tezlik bo'yicha yetkazib beruvchi mashinalarni avtomatlashtirish",
+    "c": "yigiruv tezlgini rostlash",
+    "d": "chiziqli zichlik rostlagichlarini tarash va piltalash mashinalarida qo'llash"
+  },
+  {
+    "id": 308,
+    "ques": "To'qimachilik sanoatining qaysi obyekti avtomatlashtirish nuqtai nazaridan muhim va qiziqarli hisoblanadi",
+    "a": "oxorlash mashinasi",
+    "b": "o'rash mashinasi",
+    "c": "to'quv stanogi",
+    "d": "tandalash mashinasi"
+  },
+  {
+    "id": 309,
+    "ques": "Zamonaviy oxorlash mashinalaridagi qanday texnologik parametrlar avtomatik rostlanadi",
+    "a": "namlikni, sathni rostlash, ohorning temperaturasini rostlash",
+    "b": "sathni rostlash",
+    "c": "ohorning temperaturasini rostlash",
+    "d": "rostlash yopishqoqligini rostlash"
+  },
+  {
+    "id": 310,
+    "ques": "Uzluksiz ishlaydigan bo'yoq mashinalarida avtomatlashtirishning qanday turlari ishlatiladi",
+    "a": "texnologik parametrlarni rostlashni elektr yuritmani boshqarish bilan bog'liqlikda olib borish",
+    "b": "texnologik parametrlarni rostlashni avtomatlashtirish",
+    "c": "faqat lokal avtomatlashtirish",
+    "d": "faqat lokal avtomatlashtirish"
+  },
+  {
+    "id": 311,
+    "ques": "Avtomatlashtirishning qanday turini trikotaj to'quv mashinalarida qo'llashga loyiq",
+    "a": "dastlabki dasturlash orqali kompyuterlashtirilgan",
+    "b": "dastlabki dasturlash orqali",
+    "c": "dastlabki dasturlashsiz",
+    "d": "programmali boshqarishsiz"
+  },
+  {
+    "id": 312,
+    "ques": "To'quv mashinalaridagi elektr yuritma asinxron motorlarining aylanish tezligi qanday rostlanadi",
+    "a": "rotor cho'lg'ami zanjiriga qarshilik kiritish, stator cho'lg'ami qutblar sonini almashlab ulash, tarmoq chastotasini o'zgartirish orqali",
+    "b": "stator cho'lg'ami qutblar sonini almashlab ulash",
+    "c": "tarmoq chastotasini o'zgartirish orqali",
+    "d": "tiristorli yuritma orqali"
+  },
+  {
+    "id": 313,
+    "ques": "Zamonaviy to'qimachilik sanoatida yassi to'quv mashinasini mikroprosessorli boshqarishni qanday tizimi dolzarb",
+    "a": "ma'lumotlarni simsiz aloqa vositasidan uzatish orqali",
+    "b": "sirpanuvchi kontaktlarni ishlatish orqali",
+    "c": "signallarni kabel liniyasi orqali uzatish bilan",
+    "d": "perfokartalar orqali"
+  },
+  {
+    "id": 314,
+    "ques": "To'qimachilik va yengil sanoatning qaysi jarayonlarida avtomatlashtirilgan me'yorlash qo'llaniladi",
+    "a": "pardozlash mashinasi, to'quv stanogi, teri ishlab chiqarishdagi oshlash vannasi",
+    "b": "bo'yash mashinasi",
+    "c": "to'quv stanogi",
+    "d": "teri ishlab chiqarishdagi oshlash vannasi"
+  },
+  {
+    "id": 315,
+    "ques": "Tikuv mashinasida to'g'ri burchali chokni bajarish uchun qanday avtomat qurilmalar ishlatiladi",
+    "a": "fotodiodlar",
+    "b": "induktiv datchiklar",
+    "c": "gerkonlar",
+    "d": "selsinlar"
+  },
+  {
+    "id": 316,
+    "ques": "To'qimachilik va yengil sanoatida eritmaning quyuqlanishini rostlash obyektlarini ko'rsating",
+    "a": "hamma yuqorida ko'rsatilgan javoblar",
+    "b": "terini ho'llash vannasi",
+    "c": "oqlash vannasi",
+    "d": "bo'yash vannasi"
+  },
+  {
+    "id": 317,
+    "ques": "Tarash mashinalarida momiqning qalinligini avtomatik tarzda rostlash ajraladigan barabanning tezligini o'zgartirish orqali amalga oshiriladi. Bunday holda qanday datchikni qo'llash mumkin",
+    "a": "fotoelektrik, rolikli, optoelektron",
+    "b": "mexanik",
+    "c": "rolikli",
+    "d": "induktiv"
+  },
+  {
+    "id": 318,
+    "ques": "Tasmali mashinada tasmaning tekisligini o'lchash va rostlash uchun qanday datchikni ishlatsa bo'ladi",
+    "a": "paz silindrli datchiklar",
+    "b": "sig'im shaklidagi datchiklar",
+    "c": "fotoelementlar",
+    "d": "radioaktiv datchiklar"
+  },
+  {
+    "id": 319,
+    "ques": "To'qimachilik sanoatidagi qaysi mashinada namlik rostlagichi ishlatiladi",
+    "a": "oxorlash mashinasi",
+    "b": "yigiruv",
+    "c": "o'rash",
+    "d": "to'quv"
+  },
+  {
+    "id": 320,
+    "ques": "Zamonaviy ishlab chiqarishda konveyerlarni avtomatlashtirishning qanday usullari mavjud",
+    "a": "belgilangan holatda to'xtatish, avtomatik adreslash, avtomatik to'xtatish va revers qilish",
+    "b": "avtomatik  adreslash",
+    "c": "avtomatik to'xtatish va revers qilish",
+    "d": "konveyerni mikroprosessorli boshqarish"
+  },
+  {
+    "id": 321,
+    "ques": "Tikuv sanoatida avtomatlashtirilgan uzliksiz liniyalarni hosil qilishni ishlab chiqishga ipsiz tikuv mashinalarini joriy qilish bilan  tezlashtirish mumkin. Bichish detallarini ulashning qanday usullari ushbu mashinalarda ishlatiladi",
+    "a": "ultratovushli payvandlash, yuqori chastotali toklarni qo'llash",
+    "b": "yamash usuli",
+    "c": "yuqori chastotali toklarni qo'llash",
+    "d": "termoplastik kleylardan foydalanish"
+  },
+  {
+    "id": 322,
+    "ques": "O'rash mashinalari va avtomatlarini avtomatlashtirishdan maqsad nima",
+    "a": "ko'rsatilgan hamma punktlar",
+    "b": "ip uzilishini avtomatik bartaraf etish",
+    "c": "nogotokning avtomatik almashuvi",
+    "d": "o'ta yuklamalardan himoya qilishni ta'minlash"
+  },
+  {
+    "id": 323,
+    "ques": "Pardozlash  mashinalarida qo'llaniladigan elektr motorlarining tezligini sinxronizasiyalash uchun  qanday qurilmalar ishlatiladi",
+    "a": "ko'rsatilgan hamma kompensatorlar",
+    "b": "novli kompensatorlar",
+    "c": "sirtmoqli kompensatorla",
+    "d": "rolikli kompensatorlar"
+  },
+  {
+    "id": 324,
+    "ques": "Pardozlash mashinasidagi generator-motor tizimi va rolikli kompensatorlarning kamchiliklarini ko'rsatin",
+    "a": "ko'rsatilgan hamma kamchiliklar",
+    "b": "katta o'lchamlar",
+    "c": "tezkorligining kamligi",
+    "d": "motor FIKining pastligi"
+  },
+  {
+    "id": 325,
+    "ques": "Qanday  elektr yuritma bo'yash-pardozlash ishlab chiqarishdagi uskunalar uchun istiqbolli hisoblanadi",
+    "a": "chastotaviy boshqariluvchi elektr yuritma",
+    "b": "asinxron motorli",
+    "c": "tiristorli o'zgarmas tok elektr yuritmasi",
+    "d": "qadamli dvigatel"
+  },
+  {
+    "id": 326,
+    "ques": "Yigirish tezligini rostlashning qanday tizimlari istiqbolii sanaladi",
+    "a": "tiristorli rostlanadiga",
+    "b": "dasturli tizimlar",
+    "c": "dasturli boshqaraladigan pnevmatik tizimlar",
+    "d": "ipning uzilishini va uskunaning samarodorligini nazorat qiladigan"
+  },
+  {
+    "id": 327,
+    "ques": "Inson mehnatidan foydalangan holda xom-ashyoni qayta ishlashda ma'lum bir kema-ketlikka ega ijro mexanizmlari yoki sistema komponentlarining o'zaro bog'lanishi nima deb aytiladi",
+    "a": "avtomatlashtirilgan",
+    "b": "mexanizasiyalashgan",
+    "c": "yarim avtomatik",
+    "d": "avtomatik"
+  },
+  {
+    "id": 328,
+    "ques": "Inson-mashina tizimi qanday avtomatlashtirilgan funksiyalarni ta'minlaydi",
+    "a": "hamma funksiyalar",
+    "b": "xom-ashyozahiralarini qayd etish",
+    "c": "avariya holatlari haqida signal berish",
+    "d": "ishlab chiqarilgan mahsulotni qayd etish"
+  },
+  {
+    "id": 329,
+    "ques": "Harakatlanayotgan mahsulot tarangligni rostlash obyektlarini ko'rsating",
+    "a": "keltirilgan hamma obyektlar",
+    "b": "to'quv stanogidagi ip asosi",
+    "c": "tasmali mashinadagi tasma",
+    "d": "pardozlash mashinasidagi gazlama"
+  },
+  {
+    "id": 330,
+    "ques": "Bichish mashinasida gazlamani to'shash jarayonida gazlama chetlarini tekislash zarur. Buning uchun quyidagi datchiklar ishlatiladi",
+    "a": "fotoelektrik datchiklar",
+    "b": "elektromagnit datchiklari",
+    "c": "elektromagnit datchiklari",
+    "d": "selsinlar"
+  },
+  {
+    "id": 331,
+    "ques": "To'quv sanoatidagi qaysi mashinalarda elektr yuritmani avtomatlashtirish uchun oddiy sensor kontaktli datchiklardan foydalanish mumkin",
+    "a": "hamma ko'rsatilgan mashinalarda",
+    "b": "kesuvchi presslarda",
+    "c": "konveyerlarda",
+    "d": "hamma to'quv"
+  },
+  {
+    "id": 332,
+    "ques": "Dastur tashuvchi sifatida trikotaj to'quv mashinalarida nima ishlatiladi",
+    "a": "ko'rsatilgan hamma dastur tashuvchilar",
+    "b": "mexanik tanlash",
+    "c": "magnit lenta",
+    "d": "perfokartalar"
+  },
+  {
+    "id": 333,
+    "ques": "Texnologik jarayonlarni avtomatlashtirilgan boshqarish sistemasi (TJABS)  nima uchun mo'ljallangan",
+    "a": "texnologik boshqarish obyektiga boshqaruvchi ta'sirlarni ishlab chiqish va amalga oshirish.",
+    "b": "tashqi ta'sirlarni boshqarish",
+    "c": "axborotlar  oqimini boshqarish",
+    "d": "axborotni to'plash va uzatish"
+  },
+  {
+    "id": 334,
+    "ques": "Texnologik boshqarish obyekti (TBO) nima",
+    "a": "texnologik uskunalar majmuasi bo'lib, ularda tegishli yo'riqnomalar yoki reglamentlar bo'yicha ishlab chiqarishning texnologik jarayonini amalga oshirilishidir",
+    "b": "texnologik jarayonlar sodir bo'ladigan obyekt",
+    "c": "ishlab chiqarish jarayonlari majmui",
+    "d": "texnologik qurilmalar majmui"
+  },
+  {
+    "id": 335,
+    "ques": "Texnologik boshqarish obyekti va uni boshqaradigan TJABS nimani tashkil qilishadi",
+    "a": "avtomatlashtirilgan texnologik kompleksni",
+    "b": "avtomatlashtirilgan texnologik jarayonni",
+    "c": "avtomatlashtirilgan dispetcher punktini",
+    "d": "A va S punkt javoblari"
+  },
+  {
+    "id": 336,
+    "ques": "TJABS tarkibiga nimalar kiradi:",
+    "a": "texnik, matematik, axborotli va tashkiliy ta'minot",
+    "b": "texnik va matematik ta'minot",
+    "c": "texnik va axborotli ta'minot",
+    "d": "moddiy, matematik va axborotli ta'minot"
+  },
+  {
+    "id": 337,
+    "ques": "Oxorlash mashinasida nima rostlanuvchi obyektni ko'rsating",
+    "a": "oxorlash tog'orasi to'ldiruvchi oxor",
+    "b": "elektr motori",
+    "c": "qayta ishlanuvchi asos",
+    "d": "oxorlash tog'orasi"
+  },
+  {
+    "id": 338,
+    "ques": "Sanoat roboti nima",
+    "a": "insonni ishlab chiqarishda almashtiradigan manipulyator va dasturlanadigan boshqarish qurilmasi majmuasi",
+    "b": "aniq opersiyalarni bajarishga mo'ljallangan elektrmexanik qurilma",
+    "c": "avtomatik regulyator",
+    "d": "avtomatlashtirilgan texnologik mashina"
+  },
+  {
+    "id": 339,
+    "ques": "Avtomatlashtirilgan boshqarish sistemasining asosiy ishonchlilik ko'rsatkichlari",
+    "a": "buzilishlar jadalligi, buzilishlarsiz ishlash ehtimoli, buzilishlar ehtimoli, tayyorgarlik koeffisiyenti",
+    "b": "buzilmasdan ishlash ehtimoli",
+    "c": "buzilishlar jadalligi",
+    "d": "ikkita qo'shni buzilishlar orasidagi o'rta vaqt"
+  },
+  {
+    "id": 340,
+    "ques": "O'lchash asboblariga nimalar kiradi",
+    "a": "operator bevosita qabul qilishiga qulay bo'lgan formaga o'lchovchi axborotni aylantirib  beruvchi qurilmalar",
+    "b": "texnologik jarayonning parametrlarini o'lchovchi qurilmalar",
+    "c": "signallarni bir turdan ikkinchi turga aylantirib beruvchi qurilmalar",
+    "d": "axborotlarni qabul qilishga va jo'natishga mo'ljallangan qurilmalar"
+  },
+  {
+    "id": 341,
+    "ques": "O'lchovchi asboblar – bu ...",
+    "a": "o'lchov axborotini uni tarqatishga, o'zgartirishga, qayta ishlashga va saqlashga mos bo'lgan shaklda qayta ishlab beruvchi qurilmalar, lekin o'lchov axborotlari bevosita kuzatuvchi tomonidan his qilinmaydi",
+    "b": "o'lchov axborotini kuzatuvchi tomonidan bevosita his qilininadigan tarzda  qayta ishlab beruvchi qurilmalar",
+    "c": "o'lchov axborotini saqlash va uzatishga qulay shaklda qayta ishlab beruvchi qurilma",
+    "d": "axborotni qayta ishlash, saqlash va uzatishga mo'ljallangan qurilma"
+  },
+  {
+    "id": 342,
+    "ques": "Nazorat-o'lchov vositalari sifatida qanday qurilmalar ishlatiladi",
+    "a": "datchiklar",
+    "b": "PID-regulyator",
+    "c": "taxometrlar",
+    "d": "avtomat rostlagichlar"
+  },
+  {
+    "id": 343,
+    "ques": "Texnologik jarayonlarda suyuqlik sarfini rostlash uchun qanday usullar qo'llaniladi",
+    "a": "drossellash, baypaslash, rostlanuvchi energiya manbai yordamida quvurdagi bosimni o'zgartirish",
+    "b": "drossellash va baypaslas",
+    "c": "rostlanuvchi energiya manbai yordamida quvurdagi bosimni o'zgartirish",
+    "d": "drossellash"
+  },
+  {
+    "id": 344,
+    "ques": "Avtomatikaning texnologik chizmalari nimani anglatadi",
+    "a": "qurilmalar orasidagi bog'liqlikni",
+    "b": "qurilma va elementlar orasidagi bog'liqlikn",
+    "c": "qurilmaning alohida elementlari orasidagi bog'liqlikni",
+    "d": "avtomatlashtirilgan tizimlarnig dinamik xossalarini"
+  },
+  {
+    "id": 345,
+    "ques": "Qaysi elektr energetik kattaliklar avtomatik nazorat qilinadi",
+    "a": "tok, kuchlanish,quvvat, quvvat koeffisiyenti",
+    "b": "harorat, sath, bosim, sarf",
+    "c": "burchak tezlik, deformasiya, kuch, moment",
+    "d": "konsentrasiya, tarki"
+  },
+  {
+    "id": 346,
+    "ques": "Pardozlash sanoatida to'qima materiallarni quritishda qaysi asosiy parametrlar nazorat qilinadi",
+    "a": "issiqlik tashuvchining harorati, materialning namligi",
+    "b": "bosim, suv sarfi",
+    "c": "sath, issiqlik tashuvchi",
+    "d": "sarf, materialning namligi"
+  },
+  {
+    "id": 347,
+    "ques": "Inson-mashina tizimi qanday avtomatlashtirilgan funktsiyalarni ta'minlab beradi",
+    "a": "barcha funktsiyalarni",
+    "b": "ishlab chiqarilgan mahsulotni nazorat qilish",
+    "c": "avariyaviy holatlarda signalizatsiyaning chalishi",
+    "d": "texnologik parametrlarni ro'yxatga olish"
+  },
+  {
+    "id": 348,
+    "ques": "To'qimachilik sanoatida xaroratni, kontsentratsiyani va sathni nazorat qiluvchi obyektni ko'rsating",
+    "a": "moddiy-yuvish mashinalari",
+    "b": "oxorlash mashinalari",
+    "c": "gul bosish mashinalari",
+    "d": "oqlovchi mashinalar"
+  },
+  {
+    "id": 349,
+    "ques": "Avtomatlashtirish maqsadida alohida bo'lgan ishlab chiqarish jarayonini kuzatganda qaysi matematik apparatdan foydalanish maqsadga muvofiq bo'ladi",
+    "a": "eksperimentni rejalashtirish usuli",
+    "b": "Aklassik regression analiz",
+    "c": "differentsial hisoblash",
+    "d": "chiziqli algebra"
+  },
+  {
+    "id": 350,
+    "ques": "Tikuv sanoatida nam-issiqlik pressida avtomatik rostlanuvchi parametrlarini ko'rsating",
+    "a": "press yostiqchasining haroratini rostlash, presslashning vaqt saqlamasini ta'minlash",
+    "b": "presslashning vaqt saqlamasini ta'minlash",
+    "c": "mahsulot namligini avtomatik nazorat qilish",
+    "d": "pressni yopishdagi nazorat"
+  },
+  {
+    "id": 351,
+    "ques": "Material uzunligini o'lchashda qo'llaniladigan datchiklarni ko'rsating",
+    "a": "barcha ko'rsatilgan datchiklar",
+    "b": "selsinlar",
+    "c": "aylanuvchi transfarmatorlar",
+    "d": "induktsion va fotoelektrik"
+  },
+  {
+    "id": 352,
+    "ques": "Tikuv sanoatining tayyorlov sexining bichish lenta mashinasida tasma pichog'ining uzilish xavfi bor. Xodimlarning xavfsizligini ta'minlash uchun nima ishlatiladi",
+    "a": "elektrmagnitli ushlagich",
+    "b": "fotoelektrik qo'riqchi",
+    "c": "induktiv datchik",
+    "d": "elektron asbob"
+  },
+  {
+    "id": 353,
+    "ques": "To'quv mashinalarida  ignalarni tanlash, ignalarni kamaytirish va ko'paytirish mexanizmi va h.k. ishlarda qaysi dvigatelni qo'llash yangi yo'nalish hisoblanadi",
+    "a": "qadamli",
+    "b": "o'zgarmas tok",
+    "c": "asinxron uch fazali",
+    "d": "sinxron uch fazali"
+  },
+  {
+    "id": 354,
+    "ques": "Trikotaj to'quv mashinalarida dastur tashuvchi sifatida nima ishlatiladi",
+    "a": "dasturlashning ko'rsatilgan hamma turlarida",
+    "b": "jakkard kartalari",
+    "c": "mexanik tanlov",
+    "d": "magnit tanlov"
+  },
+  {
+    "id": 355,
+    "ques": "Yukni avtomatik adreslash tizimlarida adres tashuvchi sifatida nima ishlatiladi",
+    "a": "ko'rsatilganlarning hammasi adres tashuvchi",
+    "b": "shtirli tizimlar",
+    "c": "perfokartali",
+    "d": "klavishli qurilmalar"
+  },
+  {
+    "id": 356,
+    "ques": "Berilgan eritmalarni hosil qilishda qanday qurilmalar qo'llaniladi",
+    "a": "avtomatik miqdoriy dozatorlar, автоматические порционные дозаторы, sath o'lchagich dozator",
+    "b": "hajmli dozatorlar",
+    "c": "vazn dozatorlari",
+    "d": "sath o'lchagich dozator"
+  },
+  {
+    "id": 357,
+    "ques": "Tayyor mahsulotga ishlov berish uchun issiq-nam ishlov berishda qanday qurilmadan foydalaniladi",
+    "a": "par-havoli manekenlar",
+    "b": "faltsovkali presslar",
+    "c": "dazmollash sexi",
+    "d": "dazmollar"
+  },
+  {
+    "id": 358,
+    "ques": "Dazmollash uskunasining ishchi organlariga qanday talablar qo'yiladi",
+    "a": "rostlash jarayonida xarorat qiymatining minimal tarqoqligi",
+    "b": "ishchi yuza xaroratining turg'unligi",
+    "c": "mahsulotga shiddatli issiqlik berilishi ta'minlanishi kerak",
+    "d": "bir tekisda bug'lanishi va mahsulotda yaltiroq dog'larning bo'lmasligi"
+  },
+  {
+    "id": 359,
+    "ques": "Zamonaviy ishlab chiqarishda qanday avtomatlashtirilgan konveyer mavjud",
+    "a": "berilgan holatda avtomatik to'xtatish, avtomatik adreslash, автоматическое адресование, avtomatik to'xtatish va revers",
+    "b": "avtomatik adreslash",
+    "c": "avtomatik to'xtatish va revers",
+    "d": "konveyerlani mikroprotsessorli boshqarish"
+  },
+  {
+    "id": 360,
+    "ques": "Jixozdagi generator-dvigatel va rolikli kompensator tizimlarning kamchiliklarini ko'rsating",
+    "a": "barcha ko'rsatilgan javoblar",
+    "b": "katta o'lchamlar",
+    "c": "yetarlicha tez harakatlanuvchan emasligi",
+    "d": "dvigatelninf foydali ish koeffitsiyenti"
+  },
+  {
+    "id": 361,
+    "ques": "Tikuv sanoatidagi nam-issiq qayta ishlov beruvchi pressda avtmatik rostlanuvchi parametrlarini",
+    "a": "press yostiqchasining haroratini rostlash",
+    "b": "preslashning vaqt saqlamasini ta'minlash",
+    "c": "mahsulot namligini avtomatik nazorat qilish",
+    "d": "pressni yopishdagi nazorat"
+  },
+  {
+    "id": 362,
+    "ques": "Uzluksiz harakatdagi bo'yash mashinalarida avtomatlashtirishning qanday turlari ishlatiladi",
+    "a": "texnologik parametrlarni elektryuritmali boshqarish bilan bog'liqlikda rostlash",
+    "b": "faqat lokal avtomatlashtirish",
+    "c": "texnologik parametrlarni avtomatik rostlash",
+    "d": "faqat elektr yuritma orqali"
+  },
+  {
+    "id": 363,
+    "ques": "Trikotaj ishlab chiqarish mashinalarida asosan qaysi parametr nazorat qilinadi",
+    "a": "ipning uzilishi",
+    "b": "xarorat",
+    "c": "sath",
+    "d": "bosim"
+  },
+  {
+    "id": 364,
+    "ques": "Hozirgi kunda konveyerlar uchun qanday avtomatlashtirilgan boshqarish qo'llaniladi",
+    "a": "signalizatsiya, yuklarni adreslash, yoqish va o'chirish ketma-ketligini aniqlash",
+    "b": "yuklarni adreslash",
+    "c": "yoqish va o'chirish ketma-ketligini aniqlash",
+    "d": "yuk holatining nazorati"
+  },
+  {
+    "id": 365,
+    "ques": "Yigirishda avtomatlashtirish qanday asosiy vazifalarni bajaradi",
+    "a": "barcha ko'rsatilgan vazifalarni",
+    "b": "to'qish tezligini rostlash",
+    "c": "xom ashyoni uzatish tezligi bo'yicha to'quv mashinalarni avtomatlashtirish",
+    "d": "внедрение регуляторов линейной плотности чесальные и ленточные машины"
+  },
+  {
+    "id": 366,
+    "ques": "Datchik deb ...",
+    "a": "texnologik jixozga o'rnatiluvchi va boshqarish ob'yektining boshqarish kattaligi haqidagi kiruvchi axborotni birinchi bo'lib qabul qiluvchi element",
+    "b": "boshqarish ob'yektiga kiruvchi signallarni o'zgartirish uchun xizmat qiluvchi element",
+    "c": "noelektrik kiruvchi signallarni elektrik signallarga aylantirib beruvchi element",
+    "d": "boshqarish ob'yekti parametrlarini o'lchash va nazorat qilish uchun xizmat qiluvchi element"
+  },
+  {
+    "id": 367,
+    "ques": "Mikrokontrollerning aniq  ta'rifini toping",
+    "a": "mikrokontroller – bu electron qurilmalarni boshqarishga mo'ljallangan mikrosxema",
+    "b": "mikrokontroller – bu obektning parametrlarini boshqaruvchi tizim",
+    "c": "mikrokontroller – bu bitta korpusga jamlangan mikroprotsessorlar majmui",
+    "d": "yuqorida ko'rsatilgan hamma javoblar"
+  },
+  {
+    "id": 368,
+    "ques": "Avtomatik rostlagich – bu ...",
+    "a": "obektga ta'sir qiluvchi rostlanuvchi ta'sirni o'zgartiradigan qurilma bo'lib, rostlanuvchi ta'sirni yuklama bilan moslaydi",
+    "b": "analog signallarni raqamli signallarga aylantirib berishga mo'ljallangan",
+    "c": "obektga ta'sir qiluvchi g'alayonlarni o'zgartirishga moslangan qurilma",
+    "d": "sistemaning qiyoslovchi elementiga boshqaruvchi signalni beruvchi qurilma"
+  },
+  {
+    "id": 369,
+    "ques": "To'qimachilik sanoatidagi boshqarish obektlarini matematik ifodalashning qanday usullari mavjud:",
+    "a": "analitik, eksperimental, eksperimental- analitik",
+    "b": "aktiv, passiv",
+    "c": "eksperimental, analitik, passiv",
+    "d": "yuqorida ko'rsatilgan hamma javoblar"
+  },
+  {
+    "id": 370,
+    "ques": "Avtomatik signallashtirish tizimi qanday maqsadlarga mo'ljallangan",
+    "a": "texnologik qurilmaning holati yoki unda ro'y berayotgan texnologik jarayon haqida xizmat ko'rsatayotgan xodimlarga bildirish uchun",
+    "b": "boshqarish texnologik obektida avariya holatlarini operatorga bildirish uchun",
+    "c": "boshqarish obektidagi holatlar haqida xodimlarga bildirish uchun",
+    "d": "dispetcherlik punktiga avariyaviy axborotlarni yig'ish va uzatish uchun"
+  },
+  {
+    "id": 371,
+    "ques": "Avtomatik signallashtirish tizimi qanday maqsadlarga mo'ljallangan",
+    "a": "texnologik qurilmaning holati yoki unda ro'y berayotgan texnologik jarayon haqida xizmat ko'rsatayotgan xodimlarga bildirish uchun",
+    "b": "boshqarish texnologik obektida avariya holatlarini operatorga bildirish uchun",
+    "c": "boshqarish obektidagi holatlar haqida xodimlarga bildirish uchun",
+    "d": "dispetcherlik punktiga avariyaviy axborotlarni yig'ish va uzatish uchun"
+  },
+  {
+    "id": 372,
+    "ques": "Avtomatik nazorat tizimi qanday maqsadlarga mo'ljallangan",
+    "a": "inson ishtirokisiz texnologik agregat ishini yoki undagi texnologik jarayonni xarakterlovchi turli kattaliklarni nazorat qilish (yani o'lchash va normative ko'rsatkichlar bilan kiyoslash) uchun",
+    "b": "texnologik agregatda kechadigan texnologik jarayonning asosiy kattaliklarini rostlash uchun",
+    "c": "texnologik jarayonning asosiy kattaliklarini o'lchash va rostlash uchun",
+    "d": "agregatlarda va qurilmalarda avariyaviy holatlarni bartaraf etish uchun"
+  },
+  {
+    "id": 373,
+    "ques": "Avtomatik blokirovka va himoya tizimi qanday maqsadlarga mo'ljallangan",
+    "a": "agregatlarda va qurilmalarda avariyaviy holatlarni bartaraf etish uchun",
+    "b": "xizmat ko'rsatayotgan xodimlarni texnologik qurilmaning holati haqida bildirish uchun",
+    "c": "agregat va qurilmalarda shovqinlarni bartaraf etish uchun",
+    "d": "yuqorida ko'rsatilgan hamma javoblar"
+  },
+  {
+    "id": 374,
+    "ques": "Avtomatik ishga tushirish va to'xtatish tizimi qanday maqsadlarga mo'ljallangan",
+    "a": "oldindan berilgan dastur asosida turli agregat yoki texnologik qurilmalarning yuritma va mexamizmlarini yoqish, qayta ulash va o'chirishni ta'minlash uchun",
+    "b": "avariya holatida agregat yoki texnologik qurilmani ishga tushirish va to'xtatishni ta'minlash uchun",
+    "c": "turli agregatlarning yuritma va mexamizmlarini yoqish va o'chirishni ta'minlash uchun",
+    "d": "agregat yoki texnologik qurilmalarni avariya ro'y berganida to'xtatish uchun"
+  },
+  {
+    "id": 375,
+    "ques": "Avtomatik boshqarish sistemasi qanday maqsadlarga mo'ljallangan",
+    "a": "texnik qurilmalar va agragatlar ishini yoki ularda sodir bo'layotgan jarayonlarni boshqarish uchun",
+    "b": "oldindan berilgan dastur asosida texnologik jarayonning kirish parametrlarini boshqarish uchun",
+    "c": "oldindan berilgan dastur asosida texnologik jarayonning chiqish parametrlarini boshqarish uchun",
+    "d": "texnologik jarayonning asosiy kattaliklarini o'lchash, nazorat qilish va rostlash uchun"
+  },
+  {
+    "id": 376,
+    "ques": "G'alayonlovchi ta'sir deb nimaga aytiladi",
+    "a": "obektni muvozanat holatidan chiqaruvchi,  yani uning moddiy yoki energetik balansini buzuvchi ta'sirlarga",
+    "b": "boshqarish obektidan chiqib uning energetic balansini muvozanatga keltiruvchi ta'sirlarga",
+    "c": "boshqarish obektining kirishiga keluvchi ta'sirlarga",
+    "d": "obektning avvalgi holatini tiklovchi yoki uni yangi muvozanat holatiga o'tkazuvchi ta'sirlarga"
+  },
+  {
+    "id": 377,
+    "ques": "Rostlanuvchi (boshqariluvchi) ta'sir deb nimaga aytiladi",
+    "a": "obektning avvalgi holatini tiklovchi yoki uni yangi muvozanat holatiga o'tkazuvchi  ta'sirlarga",
+    "b": "obektni muvozanat holatidan chiqaruvchi,  yani uning moddiy yoki energetik balansini buzuvchi ta'sirlarga",
+    "c": "oldindan berilgan dastur asosida texnologik jarayonning chiqish parametrlarini boshqaruvchi ta'sirlarga",
+    "d": "texnologik jarayonning asosiy kattaliklarini o'lchovchi, nazorat qiluvchi va rostlovchi ta'sirlarga"
+  },
+  {
+    "id": 378,
+    "ques": "Rostlagich quyidagi funktsional elementlardan tashkil topgan:",
+    "a": "belgilovchi element, taqqoslovchi element, o'zgartiruvchi element, ijro mexanizmi",
+    "b": "belgilovchi element va taqqoslovchi element",
+    "c": "belgilovchi element, taqqoslovchi element va ijro mexanizmi",
+    "d": "o'zgartiruvchi element va ijro mexanizmi"
+  },
+  {
+    "id": 379,
+    "ques": "Quyidagi javoblardan qaysi biri rostlash qonuni yoki  ishlash algoritmi deb aytiladi",
+    "a": "rostlagichning kirish va chiqishini bog'laydigan matematik ifodaga",
+    "b": "boshqarish obektining holatini ifodalaydigan differentsial ifodaga",
+    "c": "g'alayonlovchi ta'sir bilan boshqaruvchi ta'sir orasidagi bog'lanishni ifodalaydigan tenglamaga",
+    "d": "g'alayonlovchi ta'sir bilan kiruvchi ta'sir orasidagi bog'lanishni ifodalaydigan tenglamaga"
+  },
+  {
+    "id": 380,
+    "ques": "To'qimachilik sanoatida titish-savash agregatlari qanday maqsadlarda qo'llaniladi",
+    "a": "paxtani yumshatish, aralashtirish, savash va tozalash uchun",
+    "b": "ip olish uchun",
+    "c": "tarash tasmasini olish uchun",
+    "d": "tolani savash va tozalash uchun"
+  },
+  {
+    "id": 381,
+    "ques": "Yugiruvning titish va savash jarayoni nihoyasida qanday mahsulot olinadi",
+    "a": "tarash tasmasi",
+    "b": "pilik",
+    "c": "qayta tarash tasmasi",
+    "d": "dag'al mato"
+  },
+  {
+    "id": 382,
+    "ques": "To'qimachilikda pilik mashinalari qanday maqsadda ishlatiladi",
+    "a": "pilik olish uchun",
+    "b": "pilik va ip olish uchun",
+    "c": "tarash tasmasini olish uchun",
+    "d": "tolani savash va tozalash uchun"
+  },
+  {
+    "id": 383,
+    "ques": "To'qimachilikda tarash mashinalari qanday maqsadda ishlatiladi",
+    "a": "tarash tasmasini olish uchun",
+    "b": "pilik olish uchun",
+    "c": "pilik va ip olish uchun",
+    "d": "qayta tarash tasmasini olish uchun"
+  },
+  {
+    "id": 384,
+    "ques": "Dasturli boshqarish tizimi – bu",
+    "a": "oldindan tayyorlangan va boshqaruvchi hishoblash mashinasidagi maxsus dastur tashuvchiga tadbiq qilingan dastur asosida texnologik obektlarni boshqarishni ta'minlovchi TJABS",
+    "b": "sistemani dasturli boshqarishni ta'minlovchi TJABS",
+    "c": "mikroprotsessorli qurilmalarni boshqarishni ta'minlovchi TJABS",
+    "d": "avtomatik rostlagichlarni dasturli boshqarishni ta'minlovchi TJABS"
+  },
+  {
+    "id": 385,
+    "ques": "Dasturlanadigan kontrollerlar (PLC)ning aniq ta'rifini toping",
+    "a": "dasturlanadigan kontrollerlar (PLC) – bu ishlab chiqarish uskunasining texnologik tsikl ishini boshqarishga mo'ljallangan boshqaruvchi qurilmalardir",
+    "b": "dasturlanadigan kontrollerlar (PLC) – bu bitta korpusda jamlangan mikroprotsessorlardir",
+    "c": "dasturlanadigan kontrollerlar (PLC) – bu texnologik jarayonning chiqish parametrlarini boshqaruvchi sistema",
+    "d": "dasturlanadigan kontrollerlar (PLC) – bu texnologik obekt paramertlarini boshqaruvchi sistemadir"
+  },
+  {
+    "id": 386,
+    "ques": "Rostlovchi organni tanlashda birinchi navbatda nimani baholash kerak",
+    "a": "Rostlovchi organning  sarf  tavsifi",
+    "b": "Rostlovchi organning o'lchamlari",
+    "c": "Rostlovchi organning o'lchamlari nisbati",
+    "d": "Rostlovchi organning  geometrik shakli"
+  },
+  {
+    "id": 387,
+    "ques": "PI-rostlagichni rostlashda obektning qanday parametrlari ishlatiladi:",
+    "a": "obektning doimiy vaqti, toza kechikish, uzatish koeffitsienti",
+    "b": "rostlanuvchi parametrning o'zgarish oralig'i, rostlanuvchi obektning chiqish kattaligi, toza kechikish",
+    "c": "ga'layonlovchi ta'sir kattaligi, rostlanuvchi organning inertsionlik parametrlari, uzatish koeffitsienti",
+    "d": "toza kechikish, rostlanuvchi ta'sirlar, izodrom vaqti"
+  },
+  {
+    "id": 388,
+    "ques": "O'rash, tandalash mashinalarida va to'qish dastgohida asosan rostlagichlarning qanday turlari qo'llaniladi",
+    "a": "elektr",
+    "b": "mexanik taranglash rostlagichi",
+    "c": "pnevmatik",
+    "d": "pnevmatik va elektr"
+  },
+  {
+    "id": 389,
+    "ques": "Avtomatik nazorat bu:",
+    "a": "avtomatik o'lchash, avtomatik signal berish, avtomatik axborotni to'plash, avtomatik saralash",
+    "b": "Avtomatik o'lchash, avtomatik himoya, avtomatik saralash",
+    "c": "avtomatik signal berish,  avtomatik o'lchash, avtomatik himoya",
+    "d": "avtomatik himoya,  avtomatik o'lchash, avtomatik hisobga"
+  },
+  {
+    "id": 390,
+    "ques": "Kuchaytirgich chiqish signalining fizik mohiyatini o'zgartiradimi:",
+    "a": "ozgartirmaydi",
+    "b": "ozgartiradi",
+    "c": "ozgartiradi va stabillashtiradi",
+    "d": "generatsiya qiladi"
+  },
+  {
+    "id": 391,
+    "ques": "Datchikni quyidagi ikki qismlardan iborat tasavvur qilish mumkin:",
+    "a": "sezgir va stabillashtiruvchi element",
+    "b": "o'lchovchi va kuchaytiruvchi element",
+    "c": "obekt va rostlagich",
+    "d": "o'lchovchi va stabillashtiruvchi element"
+  },
+  {
+    "id": 392,
+    "ques": "Quyida keltirilgan o'zgartirgichlardan qaysi biri generatorli datchiklarga tegishli:",
+    "a": "termopara",
+    "b": "potentsiometrik",
+    "c": "Вtermorezistor",
+    "d": "fotorezistor"
+  },
+  {
+    "id": 393,
+    "ques": "Quyidagilardan qaysilari ijro mexanizmlariga kirmaydi:",
+    "a": "gaz to'ldirilgan",
+    "b": "elektr motorli",
+    "c": "elektr magnitli",
+    "d": "gidravlik"
+  },
+  {
+    "id": 394,
+    "ques": "Yigiruv sanoatida ta'minlagich-qorgich qanday maqsadda ishlatiladi",
+    "a": "paxtani yumshatish uchun",
+    "b": "tolani savash va tozalash uchun",
+    "c": "pilik olish uchun",
+    "d": "pilik va ip olish uchun"
+  },
+  {
+    "id": 395,
+    "ques": "Bоshqаrish sistеmаsi nimа",
+    "a": "Bеrilgаn xususiyatlаr bilаn elеmеntlаrni bоg'lаnish strukturаsi?",
+    "b": "Bоshqаrish signаl xоsil qiluvchi sistеmа",
+    "c": "O'zgаruvchаn strukturаgа egа bo'lgаn sistеmа",
+    "d": "Aniq strukturаgа egа bo'lgаn sistеmа"
+  },
+  {
+    "id": 396,
+    "ques": "Rоstlаnuvchi pаrаmеtrni bеrilgаn qiymаti tiklаnmаgunchа rоstlаsh оrgаni xаrаkаtdаn to'xtаmаydigаn rеgulyatоr qаysi",
+    "a": "stаtik",
+    "b": "prоgrаmmаli",
+    "c": "оgоxlаntirgichli",
+    "d": "ikki xоlаtl"
+  },
+  {
+    "id": 397,
+    "ques": "Bоshqаrish sistеmаsining аniqligini оshirish usullаr",
+    "a": "Sistеmа tаrkibigа intеgrаllоvchi zvеnо kiritish оrqаli",
+    "b": "Sistеmа tаrkibigа kuchаytiruvchi zvеnо kiritish оrqаli",
+    "c": "Sistеmа tаrkibigа kоrrеktlоvchi zvеnо kiritish оrqаli",
+    "d": "Sistеmа tаrkibigа diffеrеnsiаllоvchi zvеnо kiritish оrqаl"
+  },
+  {
+    "id": 398,
+    "ques": "Аvtоmаtik sistеmаlаr vаqt bo'yichа kvаnlаnаdigаn bo'lsа qаndаy nоmlаnаdi",
+    "a": "Impul'sli аvtоmаtik sistеmаlаr dеyilаdi",
+    "b": "Chiziqli аvtоmаtik sistеmа",
+    "c": "Rаqаmli аvtоmаtik sistеmаlаr dеyilаdi",
+    "d": "Rеlеli аvtоmаtik sistеmаlаr dеyilаdi"
+  },
+  {
+    "id": 399,
+    "ques": "Sistеmаning tеzligini оshirish usullаri.",
+    "a": "Sistеmа tаrkibigа diffеrеnsiаllоvchi zvеnо kiritish оrkаli",
+    "b": "Sistеmа tаrkibigа kuchаytiruvchi zvеnо kiritish оrqаli",
+    "c": "Sistеmа tаrkibigа intеgrаllоvchi zvеnо kiritish оrqаli",
+    "d": "Sistеmа tаrkibigа kоrrеktlоvchi zvеnо kiritish оrqаli"
+  },
+  {
+    "id": 400,
+    "ques": "Bоshqаrishning аsоsiy sifаt ko'rsаtkichlаriga nimalar kiradi",
+    "a": "Аniqligi, tеzkоrligi, o'tаrоstlаsh, tеbrаnishlаr sоni",
+    "b": "Аniqligi, tеzkоrligi, o'tаrоstlаsh",
+    "c": "Tеzkоrligi, o'tаrоstlаsh, tеbrаnishlаr sоni",
+    "d": "Аniqligi, tеzkоrligi"
+  },
+  {
+    "id": 401,
+    "ques": "Sistеmаning xаrаktеristik tеnglаmаsi nimа",
+    "a": "Sistеmаning xаrаkаt xаrаktеristikаsini аniqlоvchi ildizlаri",
+    "b": "Sistеmаning stаtikаsini аniqlоvchi ildizlаri",
+    "c": "Lаplаs o'zgаrtirishini diffеrеnsiаl tеnglаmаlаrgа qo'llаnilishi",
+    "d": "Sistеmаning dinаmikаsini аniqklоvchi ildizlаri"
+  },
+  {
+    "id": 402,
+    "ques": "Аrаlаsh bоshqаrish ko'llаngаndа аmаliy chizmаdа qаysi zаnjir yuqоlаdi",
+    "a": "bаrchа zаnjirlаr sаqlаnаdi",
+    "b": "bоshqаrish оb'еktining chiqishini ulchаb,nаtijаni kаrоr kаbul kilish uskunаsigа uzаtаdigаn (kаytа аlоkа zаnjiri",
+    "c": "gаlаyonlаntiruvchi tа'sirni ulchаb,nаtijаni kаrоr kаbul kilish uskunаsigа uzаtаdigаn zаnjir",
+    "d": "kаrоr kаbul kilish uskunа bilаn bоshkаrish оb'еktini bоglаydigаn zаnjir"
+  },
+  {
+    "id": 403,
+    "ques": "Bir ulchаmli tizim",
+    "a": "bittа kirish vа bittа chiqishgа egа bulаdi",
+    "b": "bittа kirish vа bir nеchtа chiqishgа egа bulаdi",
+    "c": "bir nеchtа kirish vа bir nеchtа chiqishgа egа bulаdi",
+    "d": "kаytа аlоkа tаmоili urinli bo'lgаn"
+  },
+  {
+    "id": 404,
+    "ques": "Bоshqаrish nimа",
+    "a": "оldindаn tаnlаb оlingаn mаqsаdgа erishishgа yo'nаltirilgаn munоsаbаtlаrni ishlаb chiqish vа ro'yobgа chiqаrish",
+    "b": "tаnlаngаn оb'еkt uchun mоs kеlаdigаn signаl yoki tа'sirlаrni ishlаb chiqish",
+    "c": "signаl ko'rinishidаgi infоrmаsiyani (аxbоrоtni) bоshqаrish оb'еktigа uzаtish",
+    "d": "vаriаntni o'rgаnib chiqqаn hоldа buyruqlаr tаyorlаsh vа chiqаrish"
+  },
+  {
+    "id": 405,
+    "ques": "Bоshqаrish оb'еkti nimа",
+    "a": "hоlаtlаri vа ulаrgа tа'sir ettiruvchilаri bеlgilаb оlingаn ixtiyoriy tаbiаtgа egа bo'lgаn оb'еkt yoki jаrаyon",
+    "b": "ixtiyoriy tаbiаtgа egа bo'lgаn оb'еkt yoki jаrаyon",
+    "c": "turli sоxаlаrdа tеgishli bo'lgаn ishlаb chiqаrish оb'еktlаri",
+    "d": "turli sоxаlаrgа tеgishli bo'lgаn tеxnаlоgik jаrаyonlаr"
+  },
+  {
+    "id": 406,
+    "ques": "Bоshqаrish tizimi nimа",
+    "a": "bоshqаrish оb'еktti bоshqаrish uskunаsi, ulаr оrаsidаgi munоsаbаtlаr,bоshqаrish mаqsаdi vа tаshqi tа'sirlаrning mаjmuаsi",
+    "b": "bоshqаrish оb'еkti vа ungа ko'rsаtilаyotgаn tа'sirlаr",
+    "c": "bоshqаrish uskunаsi, bоshqаruvchi signаl vа bоshqаrish mаqsаdi bilаn birgаlikdа",
+    "d": "infоrmаsiya (аxbоrоt) bilаn ish оlib bоrаdigаn hаr qаndаy tizim"
+  },
+  {
+    "id": 407,
+    "ques": "Bоshqаruvchi uskunа nimа",
+    "a": "bоshqаrish mаqsаdi hаmdа bоshqаrish оb'еktining jоriy vа o'tmishdаgi hоlаtlаri hаqidаgi infоrmаsiya  (аxbоrоt,mа'lumоt) аsоsidа bоshqаruvchi tа'sirni ishlаb chiquvchi vа ro'yobgа chiqаruvchi bоrliq",
+    "b": "bоshqаrish tа'sirini ishlаb chiquvchi uskunа",
+    "c": "buyruq chiqаruvchi tаshkilоt",
+    "d": "o'lchаb оlingаn mа'lumоtlаrni o'zаrо sоlishtirib bоshqаruvchi tа'sirni ishlаb chiquvchi uskunа"
+  },
+  {
+    "id": 408,
+    "ques": "Ijrо mеxаnizmning vаzifаsi nimаdаn ibоrаt",
+    "a": "bоshqаrish bo'yichа ishlаb chiqilgаn qаrоrgа аsоslаngаn hоldа bоshqаruvchi tа'sirni bоshqаrish оb'еktigа nisbаtаn ro'yobgа chiqаrish",
+    "b": "o'lchаb оlingаn infоrmаsiyani аsоslаngаn hоldа bоshqаruvchi signаlni ishlаb chiqish",
+    "c": "оb'еkt hаqidа mа'lumоt to'plаsh vаzifаsini ijrо etish",
+    "d": "mаqsаdgа muvоfiq bоshqаruvchi tа'sirni ishlаb chiqish"
+  },
+  {
+    "id": 409,
+    "ques": "Qаndаy tizimlаr diskrеt (rаkаmli) dеyilаdi",
+    "a": "infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "b": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "c": "infоrmаsiya vаktning diskrеt dаqiqаlаridа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "d": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа"
+  },
+  {
+    "id": 410,
+    "ques": "Qаndаy tizimlаr impul'sli dеyilаdi",
+    "a": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "b": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "c": "infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "d": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtаg tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа"
+  },
+  {
+    "id": 411,
+    "ques": "Qаndаy tizimlаr rеlеli dеyilаdi",
+    "a": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "b": "infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "c": "infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа",
+    "d": "infоrmаsiya vаktning diskrеt dаqiqаlаridа ixtiyoriy qiymаtigа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа"
+  }
+]

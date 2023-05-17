@@ -1,0 +1,1866 @@
+Ma'lumotlar bazasi  nima?
+Bir-biri bilan bog'langan ma'lumotlarning strukturalangan to'plami.
+Bir-biri bilan bog'lanmagan ma'lumotlarning strukturalangan to'plami.
+Ixtiyoriy ma'lumotlarning strukturalangan to'plami.
+Bir-biri bilan bog'langan ma'lumotlarning ixtiyoriy to'plami.
+
+Strukturalash-bu...?
+ob'ektlar va ma'lumotlarning o'zaro bog'lanishini tasvirlash usullari haqidagi kelishuvni kiritish.
+ob'ektlar va ma'lumotlarning o'zaro bog'lab bo'lmasligi haqidagi kelishuvni kiritish.
+ob'ektlar va ma'lumotlarning o'zaro bog'lanishini tasvirlash usuli.
+ob'ektlar va ma'lumotlarning bog'likmasligini tasvirlash usullari haqidagi kelishuvni kiritish.
+
+Ma'lumotlar bazasini yaratish nimadan boshlanadi?
+Uning loyihasini tuzishdan.
+Imkoniyatlarni chamalab ko'rishdan.
+Haridor qidirishdan.
+Yaratish ketma-ketligini o'rganishdan.
+
+SQLda AVG agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin?
+Faqat sonli.
+Ixtiyoriy.
+Faqat simvolli.
+Sonli yoki simvolli.
+
+Ma'lumotlar bazasini boshqarish tizimi nima?
+Ma'lumotlar bazalari bilan ishlashga mo'ljallangan dasturiy vosita.
+Ma'lumotlar bazalari bilan ishlashga mo'ljallangan apparat vosita.
+Ma'lumotlar bazalari bilan ishlashga o'rgatilgan mutaxassis.
+Ma'lumotlar bazalariga kiritilayotgan ma'lumotlarni boshqarib boruvchi administrativ dastur.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan?
+Oracle
+Excel
+MoodBus
+DataBase
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan?
+Access
+Word
+MoodBus
+DataBase
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan?
+Paradox
+Excel
+MoodBus
+DataBase
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan?
+SQL Server
+Power Point
+MoodBus
+DataBase
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasini boshqarish tizimi keltirilgan?
+MySQL
+Point
+MoodBus
+DataBase
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Bazaning butunligi.
+Bazaning kompaktligi.
+Bazaning yagonaligi.
+Bazaning qonuniyligi.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Ma'lumotlarning ko'p marta ishlatila olinishi.
+Baza ma'lumotlarining kompaktligi.
+Baza ma'lumotlarining yagonaligi.
+Baza ma'lumotlarining qonuniyligi.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Tez qidiruv va javob olinishi.
+Baza ma'lumotlarining kompaktligi.
+Baza ma'lumotlarining yagonaligi.
+Baza ma'lumotlarining qonuniyligi.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Ma'lumotlarning oson yangilanishi.
+Baza ma'lumotlarining kompaktligi.
+Baza ma'lumotlarining yagonaligi.
+Baza ma'lumotlarining qonuniyligi.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Ma'lumotlar ortiqchaligi darajasining pastligi.
+Baza ma'lumotlarining kompaktligi.
+Baza ma'lumotlarining yagonaligi.
+Baza ma'lumotlarining qonuniyligi.
+
+Quyidagi javoblarning qaysi birida ma'lumotlar bazasiga qo'yiladigan talab keltirilgan?
+Baza ma'lumotlarining himoyalanganligi.
+Baza ma'lumotlarining kompaktligi.
+Baza ma'lumotlarining yagonaligi.
+Baza ma'lumotlarining qonuniyligi.
+
+Ma'lumotlar bazasi tizimi arxitekturasining 3 bosqichi:?
+Tashqi bosqich, konseptual bosqich, fizik bosqich.
+Ichki bosqich, konseptual bosqich, fizik bosqich.
+Tashqi bosqich, konseptual bosqich, axborot bosqichi.
+Tashqi bosqich, konseptual bosqich, informatika bosqichi.
+
+Ma'lumotlar bazasi tizimi arxitekturasining tashqi bosqichi nima?
+Ma'lumotlarni foydalanuvchi nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni administrator nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash.
+
+Ma'lumotlar bazasi tizimi arxitekturasining konseptual bosqichi nima?
+Ma'lumotlarni administrator nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni foydalanuvchi nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash.
+
+Ma'lumotlar bazasi tizimi arxitekturasining fizik (ichki) bosqichi nima?
+Ma'lumotlarni kompyuter xotirasida tasvirlash.
+Ma'lumotlarni dasturchi nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni adminstrator nuqtai-nazaridan tasvirlash.
+Ma'lumotlarni komissiya nuqtai-nazaridan tasvirlash.
+
+Ma'lumotlar bazalari modellari:?
+Ierarxik, relyatsion, tarmoqli.
+Jadvalli, so'rovli, formali.
+Tabiiy, sun?iy.
+Ierarxik,  relyatsion, tarmoqli, kompyuterli.
+
+MBning ierarxik modelida yozuvlar...?
+daraxtsimon ko'rinishga ega bo'ladi.
+panjara ko'rinishga ega bo'ladi.
+bog'langan jadvallar ko'rinishiga ega bo'ladi.
+bog'lanmagan jadvallar ko'rinishiga ega bo'ladi.
+
+MBning relyatsion modelida yozuvlar...?
+Bog'langan jadvallar ko'rinishiga ega bo'ladi.
+daraxtsimon ko'rinishga ega bo'ladi.
+panjara ko'rinishga ega bo'ladi.
+bog'lanmagan jadvallar ko'rinishiga ega bo'ladi.
+
+MBning tarmoqli modelida qaysi modelga o'xshaydi?
+Relyatsion modelga.
+Ierarxik modelga.
+ob'ektli modelga.
+Xech qaysisiga o'xshamaydi.
+
+SQLda MAX agregat funksiyasi qanday vazifa bajaradi?
+Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari ichidan eng kattasini topadi.
+Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari ichidan eng kattasini topadi.
+Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari ichidan eng kattasini topadi.
+Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari ichidan eng kattasini topadi.
+
+MBning mohiyat-aloqa modelida yozuvlar...?
+mantiqiy ko'rinishda bo'ladi.
+matematik ko'rinishda bo'ladi.
+matn ko'rinishda bo'ladi.
+Mohiyatiga ko'ra doim aloqada  bo'ladi.
+
+MBning mohiyat-aloqa modelida ob'ektlar...?
+bir-biridan farqlanadi.
+bir-biridan farqlanmaydi.
+bir-biriga qaram bo'ladi.
+umuman bo'lmaydi.
+
+MBning mohiyat-aloqa modelida mohiyat  bu...?
+ob'ekt.
+jadval.
+daraxt.
+so'rov.
+
+SQLda MAX agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin?
+Sonli yoki simvolli.
+Ixtiyoriy.
+Faqat sonli.
+Faqat simvolli.
+
+Relyatsion ma'lumotlar bazasi...?
+bir-biri bilan bog'langan jadvallardan iborat.
+bir-biri bilan bog'lanmagan jadvallardan iborat.
+bir-biri bilan bog'langan daraxtlardan iborat.
+bir-biri bilan bog'langan bazalardan iborat.
+
+SQLda MIN agregat funksiyasi qanday vazifa bajaradi?
+Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari ichidan eng kichigini topadi.
+Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari ichidan eng kichigini topadi.
+Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari ichidan eng kichigini topadi.
+Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari ichidan eng kichigini topadi.
+
+Relyatsion ma'lumotlar bazasida jadval ustunlari nima deb ataladi?
+Maydon.
+Yozuv.
+Ma'lumot.
+Ustun.
+
+Relyatsion ma'lumotlar bazasida jadval satrlari nima deb ataladi?
+Yozuv.
+Maydon.
+Ma'lumot.
+Satr.
+
+Relyatsion ma'lumotlar bazasida har bir yozuvni boshqasidan ajratib turadigan maydon nima deb ataladi?
+Kalit.
+Sanovchi (schyotchik).
+YOzuv.
+Maydon.
+
+SQLda MIN agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin?
+Sonli yoki simvolli.
+Ixtiyoriy.
+Faqat sonli.
+Faqat simvolli.
+
+Relyatsion algeba nima bilan shug'ullanadi?
+Baza ma'lumotlari ustida amallar bajarish bilan.
+Ierarxik MB elementlari bilan.
+Ob'ektlar ustida algebraik amallar bajarish bilan.
+Ma'lumotlarni himoyalashni
+
+Relyatsion algebada munosabatlar ustida qanday asosiy operatsiyalar bajarish mumkin?
+Tanlash, proeksiyalash, birlashtirish, farqini topish.
+Qo'shish, ayirish, ko'paytirish, bo'lish.
+Proeksiya, birlashtirish, ayirish, ko'paytirish, bo'lish, Dekart ko'paytirishi, chamalash.
+Birlashtirish, ayirish, ko'paytirish, bo'lish, Dekart ko'paytirishi.
+
+Relyatsion algebra nimaga asoslangan?
+To'plamlar nazariyasiga.
+Matematik mantiqqa.
+Matritsalar nazariyasiga.
+Sonlar nazariyasiga.
+
+Relyatsion hisob nimaga asoslangan?
+Matematik mantiqqa.
+To'plamlar nazariyasiga.
+Matritsalar nazariyasiga.
+Sonlar nazariyasiga.
+
+ODBC nima'?
+MBlar bilan muloqotning ochiq interfeysi.
+Foydalanish uchun ochiq bo'lgan M
+Barcha ma'lumotlar bazalari to'plami.
+Operatsion tizim.
+
+Tranzaksiyalarni amalga oshirishda ROLLBACK operatori qayday vazifa bajaradi?
+Amalga oshirilgan o'zgarishlarni bekor qiladi.
+Amalga oshirilgan o'zgarishlarni saqlaydi.
+Amalga oshirilgan o'zgarishlarni saqlamaydi.
+Amalga oshiriladigan o'zgarishlarni belgilaydi.
+
+SQLda AVG agregat funksiyasi qanday vazifa bajaradi?
+Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari o'rta arifmetigini hisoblaydi.
+Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari o'rta arifmetigini hisoblaydi.
+Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari o'rta arifmetigini hisoblaydi.
+Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari o'rta arifmetigini hisoblaydi.
+
+SQLda SUM agregat funksiyasi uchun operand maydon turi qanday bo'lishi mumkin?
+Faqat sonli.
+Ixtiyoriy.
+Faqat simvolli.
+Sonli yoki simvolli.
+
+SQLda SUM agregat funksiyasi qanday vazifa bajaradi?
+Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari yig'indisini hisoblaydi.
+Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari yig'indisini hisoblaydi.
+Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari yig'indisini hisoblaydi.
+Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari yig'indisini hisoblaydi.
+
+SQLda COUNT agregat funksiyasi qanday vazifa bajaradi?
+Ko'rsatilgan ustunning bo'sh bo'lmagan ma'lumotlari sonini hisoblaydi.
+Ko'rsatilgan ustunning ko'rsatilgan ma'lumotlari sonini hisoblaydi.
+Ko'rsatilgan satrning bo'sh bo'lmagan ma'lumotlari sonini hisoblaydi.
+Ko'rsatilgan satrning ko'rsatilgan ma'lumotlari sonini hisoblaydi.
+
+Tranzaksiya qachon amalga oshirilgan hisoblanadi?
+Barcha operatsiyalar to'liq amalga oshirilib, o'zgarishlar saqlab bo'lingandan keyin.
+Har bir operatsiya to'liq amalga oshirilib, o'zgarishlar saqlab bo'lingandan keyin.
+Barcha operatsiyalar to'liq amalga oshirilib, o'zgarishlar saqlanishidan oldin.
+Barcha operatsiyalar to'liq amalga oshirilgandan keyin.
+
+Tranzaksiyalarni amalga oshirishda COMMIT operatori qayday vazifa bajaradi?
+Amalga oshirilgan o'zgarishlarni saqlaydi.
+Amalga oshirilgan o'zgarishlarni saqlamaydi.
+Amalga oshiriladigan o'zgarishlarni belgilaydi.
+Amalga oshirilgan o'zgarishlarni bekor qiladi.
+
+SQLda so'rovlar ichma-ich joylashishi mumkinmi?
+Mumkin.
+Mumkin emas.
+Bu ma'lumotlar soniga bog'liq.
+Har doim ishlatish shart.
+
+SQL tilida INSERT INTO?
+Jadvalga yangi satr qo'shadi.
+Jadvalga yangi ustun qo'shadi.
+Bazaga yangi jadval qo'shadi.
+YAngi baza yaratadi.
+
+SQL tilida ALTER TABLE buyrug'i nima vazifa bajaradi?
+Jadvalga o'zgartirish kiritadi.
+Bazaga yangi jadval qo'shadi.
+Jadvalga yangi satr qo'shadi.
+Jadvalga yangi ustun qo'shadi.
+
+SQL tilida DROP TABLE buyrug'i nima vazifa bajaradi?
+Jadvalni batamom yo'qotadi.
+Jadvalning barcha ma'lumotlarini o'chiradi.
+Jadvalni qirqib tashlaydi.
+Jadvalning bir qismini qirqib oladi.
+
+SQL tilida DELETE buyrug'i nima vazifa bajaradi?
+Jadvalning bir satrini o'chiradi.
+Jadvalni batamom yo'qotadi.
+Jadvalning barcha ma'lumotlarini o'chiradi.
+Jadvalni qirqib tashlaydi.
+
+SQL tilida ANALIZE TABLE buyrug'i nima vazifa bajaradi?
+Jadvalni tahlil qiladi.
+Jadvalni batamom yo'qotadi.
+Jadvalning barcha ma'lumotlarini o'chiradi.
+Jadvalni qirqib tashlaydi.
+
+SQL tilida CHECK TABLE buyrug'i nima vazifa bajaradi?
+Jadvalning tekshiradi.
+Jadvalni batamom yo'qotadi.
+Jadvalning barcha ma'lumotlarini o'chiradi.
+Jadvalni qirqib tashlaydi.
+
+SQL tilida CHECKSUM TABLE buyrug'i nima vazifa bajaradi?
+Jadvalning nazorat yig'indisini hisoblaydi.
+Jadvalning nazoratini tekshiradi.
+Jadvalning barcha ma'lumotlarini o'chiradi.
+Jadvalni qirqib tashlaydi.
+
+SQL tilida OPTIMIZE TABLE buyrug'i nima vazifa bajaradi?
+Jadvalni optimallashtiradi.
+Jadvalni ulgurjilashtiradi.
+Jadvalni chakanalashtiradi.
+Jadvalni qirqib tashlaydi.
+
+SQL tilida REPAIR TABLE buyrug'i nima vazifa bajaradi?
+Buzilgan jadvalni qayta tiklaydi (tuzatadi).
+Buzilgan bazani qayta tiklaydi (tuzatadi).
+O'chirilgan jadvalni qayta tiklaydi.
+O'chirilgan bazani qayta tiklaydi.
+
+ADO nima'?
+ActiveX ma'lumotlar ob'ektlari.
+ActiveX ma'lumotlar bazalari.
+Faol ma'lumotlar ob'ektlari.
+Faol ma'lumotlar bazalari.
+
+Ma'lumotlar bazasini administratsiyalash deganda nimani tushunasiz?
+Ma'lumotlar bazasidan foydalanish xuquqini tartibga solish va ta'minlashni.
+Ma'lumotlar bazasiga egalik qilishni.
+Ma'lumotlar bazasini boshqarish tizimini.
+Ma'lumotlar bazasiga ma'lumot kiritish va undan ma'lumot olish jarayonini.
+
+Ma'lumotlar bazasini normallashtirish deganda nimani tushunasiz?
+Jadvallardagi ortiqchalikni minimallashtirish jarayonini.
+So'rovlardagi ortiqchalikni minimallashtirish jarayonini.
+Formalardagi ortiqchalikni minimallashtirish jarayonini.
+Hisobotlardagi ortiqchalikni minimallashtirish jarayonini.
+
+1NF normal forma nima'?
+Takrorlanuvchi atributlarni yo'qotish.
+Jadvaldagi o'xshash atributlarni yo'qotish.
+Takrorlanuvchi munosabatlarnii yo'qotish.
+Jadvaldagi o'xshash munosabatlarni yo'qotish.
+
+2NF normal forma nima'?
+Faqat unikal identifikator qismiga bog'liq bo'lgan atributlarni yo'qotish.
+Faqat unikal identifikator qismiga bog'liq bo'lmagan atributlarni yo'qotish.
+Faqat unikal identifikator qismiga bog'liq bo'lgan munosabatlarni yo'qotish.
+Faqat unikal identifikator qismiga bog'liq bo'lgmaan munosabatlarni yo'qotish.
+
+3NF normal forma nima?
+Unikal identifikator bo'lmagan atributlarga bog'liq bo'lgan atributlarni yo'qotish.
+Unikal identifikator bo'lgan atributlarga bog'liq bo'lgan atributlarni yo'qotish.
+Unikal identifikator bo'lmagan atributlarga bog'liq bo'lgan munosabatlarni yo'qotish.
+Unikal identifikator bo'lgan atributlarga bog'liq bo'lgan munosabatlarni yo'qotish.
+
+ADO texnologiyasi nima?
+Ma'lumotlar bazalariga ulanish texnologiyasi.
+Ma'lumotlar bazalarini faollashtirish texnologiyasi.
+Ma'lumotlar bazalarida ishlash texnologiyasi.
+Ma'lumotlar bazalarini boshqarish texnologiyasi.
+
+Normal formalar qanday ma'lumotlar bazasida ishlatiladi?
+Relyatsion ma'lumotlar bazasida.
+Ierarxik ma'lumotlar bazasida.
+Tarmoqli ma'lumotlar bazasida.
+Ob'ektga yo'naltirilgan ma'lumotlar bazasida.
+
+SQL nima?
+MB bilan ishlashga mo'ljallangan til.
+MB bilan ishlashga mo'ljallangan tizim.
+MBBT bilan ishlashga mo'ljallangan til.
+MBBT bilan ishlashga mo'ljallangan tizim.
+
+HTML nima?
+Giper matnlarni belgilash tili.
+Kengaytiriluvchi belgilash tili.
+Kengaytmasi .html bo'lgan fayl.
+Formati ?html? bo'lgan fayl.
+
+XML nima?
+Kengaytiriluvchi belgilash tili.
+Giper matnlarni belgilash tili.
+Kengaytmasi .xml bo'lgan fayl.
+Formati ?xml? bo'lgan fayl.
+
+SQL qanday ma'lumotlar bazasida ishlatiladi?
+Relyatsion ma'lumotlar bazasida.
+Ierarxik ma'lumotlar bazasida.
+Tarmoqli ma'lumotlar bazasida.
+Ob'ektga yo'naltirilgan ma'lumotlar bazasida.
+
+Insert operatorining konstruksiyasi?
+Insert into  values
+Insert to table  values
+Insert to  values
+Insert inside  values
+
+SQL ning DML guruhi operatorlari nimaga mo'ljallangan?
+MBning ma'lumotlarini qayta ishlashga.
+MBning ob'ektlari bilan ishlashga.
+MBning so'rovlari bilan ishlashga.
+MBning hisobotlari bilan ishlashga.
+
+Insert operatorida into so'zidan keyin nima keltiriladi?
+Jadval va maydonlar nomlari
+Jadval va satrlar nomlari
+Jadval va ma'lumotlar nomlari
+Jadval va yozuvlar nomlari
+
+SQL ning TCL guruhi operatorlari nimaga mo'ljallangan?
+MBning tranzaksiyalari bilan ishlashga.
+MBning ob'ektlari bilan ishlashga.
+Mbning so'rovlari bilan ishlashga.
+Mbning hisobotlari bilan ishlashga.
+
+Insert operatorida values so'zidan keyin nima keltiriladi?
+Tegishli ma'lumotlar
+Tegishli maydonlar
+Tegishli jadvalar
+Jadval va yozuvlar nomlari
+
+SQL ning DSL guruhi operatorlari nimaga mo'ljallangan?
+MBni himoya qilishga.
+MBning ob'ektlari bilan ishlashga.
+Mbning so'rovlari bilan ishlashga.
+Mbning hisobotlari bilan ishlashga.
+
+SQL da DDL- ma'lum®tlarni aniqlash tili tarkibiga kiruvchi buyruqlarni aniqlang?
+CREATE, ALTER, DROP
+SELECT, INSERT
+UPDATE, DELETE
+HAVING, IN
+
+SQL da DML - ma'lum®tlarni qayta ishlash  tili tarkibiga kiruvchi buyruqlarni aniqlang?
+SELECT, INSERT, DELETE
+CREATE, ALTER, DROP
+HAVING, IN
+DROP, ALTER
+
+Quyidagilarning qaysi biri MB yaratish bosqichiga kiradi?
+Maqsad va vazifalarni aniqlab olish.
+Anketa yordamida so'rov o'tkazish.
+Konstruktor yordamida strukturani kiritish.
+Ma'lumotlarni kuzatish
+
+SQLning kalit so'zlarini MB nomi sifatida ishlatish mumkinmi?
+Mumkin emas.
+Mumkin.
+Ehtiyot bo'lib ishlatish mumkin.
+Ikki marta ishlatish mumkin emas.
+
+SQLning SELECT operatori nimaga mo'ljallangan?
+MB jadvalidan ma'lumotlarni tanlab olishga.
+MB jadvalidan yozuvlarni tanlab olishga.
+MB jadvallarini tanlab olishga.
+MB bazalarini tanlab olishga.
+
+SQLning SELECT operatoridan keyin nima ko'rsatiladi?
+Tanlanadigan maydonlar nomlari.
+Tanlanadigan maydonlar turlari.
+Tanlanadigan maydonlar formatlari.
+Tanlanadigan maydonlar mazmuni.
+
+SQLning SELECT operatoridan keyingi * belgisi nimani bildiradi?
+Barcha maydonlarni tanlashni.
+Tanlanadigan maydonlar ixtiyoriyligini.
+Tanlanadigan maydonlar majburiyligini
+Barcha yozuvlarni tanlashni.
+
+SQLning SELECT operatorida FROM so'zidan keyin nima ko'rsatiladi?
+Aniq jadval nomi.
+Birinchi jadval nomi.
+Tanlanadigan maydonlar nomi.
+Tanlanadigan yozuv nomi.
+
+SQLning SELECT operatorida WHERE so'zidan keyin * qo'yilsa nima bo'ladi?
+* dan iborat ma'lumot tanlanadi.
+Barcha yozuvlar tanlanmaydi.
+Bitta yozuv tanlanadi.
+Barcha yozuvlar tanlanadi.
+
+SQLning SELECT operatorining WHERE qismi bo'lmasa nima bo'ladi?
+Barcha yozuvlar tanlanadi.
+Bunday bo'lishi mumkin emas.
+Hech qanday yozuv tanlanmaydi.
+Bitta yozuv tanlanadi.
+
+SQLning SELECT operatorida WHERE so'zidan keyin nima yoziladi?
+Mantiqiy ifoda.
+Arifmetik ifoda.
+Ixtiyoriy operator.
+Ixtiyoriy ifoda.
+
+SQLning SELECT operatorida ORDER BY so'zidan keyin nima ko'rsatiladi?
+So'rov javobida ma'lumotlarni yozish tartibi.
+So'rov javobida ustunlarni yozish tartibi.
+So'rov javobida jadvallarni yozish tartibi.
+So'rov javobida bazalarni yozish tartibi.
+
+SQLning SELECT operatorida ALL so'zi nimani anglatadi?
+SHartni qanoatlantiruvchi barcha yozuvlarni keltirishni.
+SHartni qanoatlantiruvchi barcha jadvallarni keltirishni.
+SHartni qanoatlantirmaydigan barcha yozuvlarni keltirishni.
+SHartni qanoatlantiruvchi barcha MBlarni keltirishni.
+
+SQLning SELECT operatorida DISTINCT so'zi nimani anglatadi?
+SHartni qanoatlantiruvchi bir xil ma'lumotlardan faqat bittasini keltirishni.
+SHartni qanoatlantiruvchi bitta yozuvlarni keltirishni.
+SHartni qanoatlantiruvchi bitta jadvalni keltirishni.
+SHartni qanoatlantirmaydigan barcha yozuvlarni keltirishni.
+
+SQLning SELECT operatorida TOP so'zi nima uchun ishlatiladi?
+SHartni qanoatlantiruvchi yozuvlarning dastlabki qismini keltirishni.
+SHartni qanoatlantiruvchi yozuvlarning eng yaxshilarini keltirishni.
+SHartni qanoatlantiruvchi yozuvlarning eng ishonchlilarini keltirishni.
+SHartni qanoatlantiruvchi yozuvlarning eng kattasini keltirishni.
+
+SQLning UPDATE operatori nima uchun ishlatiladi?
+MB ma'lumotlarini o'zgartirish uchun.
+MB ma'lumotlarini qaytadan kiritish uchun.
+MB ma'lumotlarini batamom yangilash uchun.
+MB ma'lumotlarini bugungisi bilan almashtirish uchun.
+
+SQLning UPDATE operatorida SET so'zi nima uchun ishlatiladi?
+O'zgartirish parametrlarini berish uchun.
+O'zgarishlarni saqlash uchun.
+Tarmoqdagi MBni o'zgartirish uchun.
+O'zgarishlarni tarmoqda saqlash uchun.
+
+SQLning DELETE operatori nima uchun ishlatiladi?
+MB yozuvlarini o'chirish uchun.
+MB maydonlarini o'chirish uchun.
+MB jadvallarini o'chirish uchun.
+MB ni o'chirish uchun.
+
+SQLning DELETE operatorida WHERE so'zi nima uchun ishlatiladi?
+Satrlarni tanlab o'chirish uchun.
+Operatorda bunday so'z ishlatib bo'lmaydi.
+O'chirilgan ma'lumotlarni qaergadir qo'yish uchun.
+Maydonlarni tanlab o'chirish uchun.
+
+SQLning INSERT operatori nima uchun ishlatiladi?
+MB jadvaliga yozuv qo'shish uchun.
+MB maydonlarini ko'paytirish uchun.
+MB jadvalida yangi joy ochish uchun.
+Orasiga qo'shish rejimini o'rnatish uchun uchun.
+
+SQLning CREATE TABLE operatori nima uchun ishlatiladi?
+MB ga yangi jadval yaratish uchun.
+MB yangi ma'lumot qo'shish uchun.
+MB jadvallariga ijodiy yondashish uchun.
+Jadvalni kengaytirish yoki toraytirish uchun.
+
+SQLda mavjud jadval strukturasini o'zgartirish uchun qaysi operatordan foydalaniladi?
+ALTER TABLE
+ALTER STRUCTURE
+CHANGE TABLE
+CHANGE STRUCTURE
+
+MB jadvalining satrlari bilan ustunlari kesishmalari nima deb ataladi?
+Ma'lumot birliklari.
+Yozuvlar.
+Maydonlar.
+Yacheykalar
+
+Kalit maydon?
+Har bir yozuvning unikal ma'lumotlaridan iborat.
+Har bir yozuv uchun unikal satrlar va ustunlardan iborat.
+Boshqa unikal maydonlarga bo'ysinmaydi.
+Boshqa unikal maydonlarga o'xshamaydi
+
+Quyidagilarning qaysi biri MB maydonlari turiga kirmaydi?
+Eksponentsial.
+Matnli.
+Sonli.
+Sana/vaqt
+
+Hamma kompyuterlar bir aloqa liniyasiga parallel ulanadi va har bir kompyuterdan axborot bir vaqtda hamma qolgan kompyuterlarga uzatiladi?
+shina (bus)
+yulduz (zvezda, star)
+xalqa (koltso, zing)
+oy (luna, moon)
+
+Bitta markaziy kompyuterga chetda qolgan kompyuterlar ulanadi, shu bilan birga har biri o‘zining alohida aloqa liniyalaridan foydalanadi?
+yulduz (zvezda, star)
+shina (bus)
+xalqa (koltso, zing)
+oy (luna, moon)
+
+Har bir kompyuter axborotni har doim faqat bitta zanjirda kelayotgan kompyuterga uzatadi, axborotni esa faqat zanjirdagi oldinda kelayotgan kompyuterdan oladi?
+xalqa (koltso, zing)
+yulduz (zvezda, star)
+shina (bus)
+oy (luna, moon)
+
+IP (Internet Protocol) – deb nimaga aytiladi?
+axborot uzatish uchun TCP/IP - protokoli
+paketlarni uzatish va yo‘naltirish uchun mo‘ljallangan Net Ware firma protokoli
+Internet global tarmoq protokoli, u uzoqdagi xostlarni qayd qilish va ularda axborotga ishlov berish vazifasini bajaradi
+bir necha sistemada fayl va katalog xizmati CCITT protokoli
+
+“Yulduz” turidagi barcha topologiyalarning umumiy kamchiligi boshqa topologiyalarga qaraganda ...?
+juda katta kabel sariflanishidir
+juda katta vaqt sariflanishidir
+juda katta suyuqlik sariflanishidir
+juda katta kuch sariflanishidir
+
+Kompyutеrlarning o'zaro axborot almashinish imkoniyatlarini bеruvchi qurilmalar majmuiga nima dеyiladi?
+kompyutеr tarmoqlari
+kompyutеr tizimlari
+kompyutеr qurilmalari
+kompyutеr drayverlari
+
+... - bir korxona yoki muassasalardagi bir nеcha yaqin binolardagi abonеntlarni (kompyutеrlarni) maxsus kabеllar bilan bog‘laydi?
+Mahalliy (Lokal) tarmoqlar
+Mintaqaviy tarmoqlar
+Global tarmoqlar
+To'g'ri javob yo'q
+
+... - uncha katta bo‘lmagan mamlakat shaharlari va viloyatlari foydalanuvchi kompyutеrlarini va lokal tarmoqlarni maxsus aloqa yoki tеlеfon aloqa kanallari orqali birlashtiradi?
+Mintaqaviy tarmoqlar
+Mahalliy (Lokal) tarmoqlar
+Global tarmoqlar
+To'g'ri javob yo'q
+
+... - o‘ziga butun dunyo bo‘yicha hamma abonеntlarni, lokal va mintaqaviy tarmoqlarni o‘ziga tеlеfon yoki sputnik aloqa tarmog‘i orqali birlashtiradi?
+Global tarmoqlar
+Mintaqaviy tarmoqlar
+Mahalliy (Lokal) tarmoqlar
+To'g'ri javob yo'q
+
+LAN (Local Area Network)?
+Mahalliy (lokal) tarmoq
+Mintaqaviy tarmoq
+Global tarmoq
+To'g'ri javob yo'q
+
+MAN (Metropolitan Area Network)?
+Mintaqaviy tarmoq
+Mahalliy (lokal) tarmoq
+Global tarmoq
+To'g'ri javob yo'q
+
+WAN (Wide Area Network)?
+Global tarmoq
+Mintaqaviy tarmoq
+Mahalliy (lokal) tarmoq
+To'g'ri javob yo'q
+
+... - tarmoq ishini ta'minlovchi maxsus kompyutеr.?
+Sеrvеr
+Kontsеntrator (HUB)
+Axborotni uzatish kabеllari
+Modеm
+
+... - tarmoqda kompyutеrlarni o‘zaro axborot almashuvini ta'minlovchi maxsus qurilma. U o‘ziga 12, 16, 24 ta kompyutеrlarni o‘zaro bog‘lash mumkin.?
+Kontsеntrator (HUB)
+Monitor
+Printer
+Skaner
+
+... - tarmoqda axborotni bir kompyutеrdan boshqasiga uzatish uchun xizmat qiladi.?
+Axborotni uzatish kabеllari
+Monitor
+Printer
+Skaner
+
+... - axborotni kompyutеrdan uzatish kabеliga va kabeldan kompyuterga tushunarli ko'rinishga (yoki tеlеfon aloqa tarmog‘iga) o‘tkazuvchi maxsus elеktron qurilma?
+Modem
+Monitor
+Printer
+Skaner
+
+... - “modulyator” va “dеmodulyator” so‘zlari birikmasidan kеlib chiqqan bo‘lib, uning yordamida axborot uzatuvchi kompyu-tеrda raqamli ko‘rinishdan anolog ko‘rinishiga aylantiriladi, shuningdеk qabul qiluvchi kompyutеrda anolog ko‘rinishdan raqamli ko‘rinishga aylantiriladi?
+Modem
+Monitor
+Printer
+Skaner
+
+Kompyutеrlarni bir-biri bilan bog'lashda necha xil usuldan foydalaniladi?
+Ikki
+Uch
+To'rt
+Besh
+
+Bunda kompyutеrlar bir-biri bilan koaksial, o'ralgan juftlik kabеli (UTP) yoki shisha tolali kabеllar orqali maxsus tarmoq plata yordamida bog'lanadi?
+Kabеl yordamida bog'lash
+Simsiz bog'lanish
+Printer
+To'g'ri javob yo'q
+
+Bunda kompyutеrlar bir-biri bilan simsiz aloqa vositalar yordamida, ya'ni radio to'lqinlar, infraqizil nurlar, WiFi va Bluetooth tеxnologiyalari yordamida bog'lanadi?
+Simsiz bog'lanish
+Kabеl yordamida bog'lash
+Printer
+To'g'ri javob yo'q
+
+Lokal tarmoq tashkil qilish uchun eng zaruriy qurilmalar:...?
+tarmoq kartasi, kabеllar HUB (yoki Switch) va dasturiiy ta'minotdir
+Skaner va printer
+Printer va web kamera
+To'g'ri javob yo'q
+
+... ning mavjudligi bilan biz tarmoqni tashkil etishimiz mumkin bo'ladi. Chunki ... ning vazifasi asosiy plata bilan tashqi qurilma (kabеl, HUB yoki Switch) o'rtasidagi vositachi. Ya'ni kelayotgan signalni qabul qilib asosiy plataga o'tkazish yoki aksincha asosiy platadan chiqayotgan  signalni tashqariga uzatish uchun xizmat qiladi?
+Tarmoq platasi
+Skaner platasi
+Printer platasi
+To'g'ri javob yo'q
+
+Tarmoqlarning o'zaro aloqasida kommutatsiya vositalari. Mahalliy tarmoqni kabеllarning istalgan tipi bilan yaratish mumkin. Kabеllar asosan nechtaga bo'linadi?
+Uchta
+To'rtta
+Ikkita
+To'g'ri javob yo'q
+
+Eng arzon kabеl tеlеfoniyada foydalaniladigan eshilgan sim juftidan iborat bo'lgan ... kabеlidir?
+O'rama juft
+Koaksial kabеl
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+... (tvisted pair – vitaya para) tеlеfon simini eslatadi. O'tkazish tеzligi: 100 Mbit/sеk?
+O'rama juft kabеllari
+Koaksial kabеlllari
+Optik tolali kabеllari
+To'g'ri javob yo'q
+
+Qanday kabellar asosan bino ichidagi tarmoqni hosil qilishda foydalaniladi?
+O'rama juft kabеllar
+Koaksial kabеlllar
+Optik tolali kabеllar
+To'g'ri javob yo'q
+
+Qanday kabellar ekranlangan va ekranlanmagan bo'lishi mumkin?
+O'rama juft kabеllar
+Koaksial kabеlllar
+Optik tolali kabеllar
+To'g'ri javob yo'q
+
+Qaysi kabelning kamchiliklari signallarning so'nish koeffitsienti yuqoriligi va elektr magnit halaqitlariga yuqori darajada sezgirligi, shuning uchun mahalliy tarmoqda ... dan foydalanishda faol qurilmalar o'rtasidagi eng yuqori masofa 100 metrgacha bo'ladi?
+O'rama juft kabеllar
+Koaksial kabеlllar
+Optik tolali kabеllar
+To'g'ri javob yo'q
+
+Bu kabеldan ma'lumotlar uzatishning ikita turli tizimida foydalanish mumkin: signalni modulyatsiyalab modulyatsiyalamasdan uzatish?
+Koaksial kabеl
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Qaysi kabelning uzunligi 50 km gacha еtishi mumkin?
+Koaksial kabеl
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Qaysi kabelda yirik korxonalar o'rtasida ma'lumotlarni uzatishda undan foydalanish ancha samarali bo'ladi?
+Koaksial kabеl
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Qaysi kabellar tеlеvizion antеnnaga juda o'xshash?
+Koaksial kabеl(coaxial cable)
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Qanday sim to'rt qatlamdan tashkil topgan bo'ladi: uning eng ichki qatlami mеtall simdan iborat?
+Koaksial kabеl
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Qanday kabel ekran egiluvchan o'qi, ichki sim egiluvchanlik o'qi bilan kеtma-kеt tushadi?
+Koaksial kabеl
+O'rama juft
+Optik tolali kabеl
+To'g'ri javob yo'q
+
+Kеyingi paytda kеng rivojlangan kabеl tеlеvidеniеsida ishlatiladigan sim qanaqa simdir?
+Koaksial
+O'rama juft
+Optik tolali
+To'g'ri javob yo'q
+
+Qanday simning asosiy afzalligi, uning katta kеnglikda ishchi chastotalariga ega bo'lganligi tufayli katta xajmdagi ma'lumotlar oqimini yuqori tеzlikda uzatishi mumkinligidadir?
+Koaksial
+O'rama juft
+Optik tolali
+To'g'ri javob yo'q
+
+Qanday simlarning ikkinchi afzalligi ularning turli tashqi qarshiliklarga chidamliligi va nisbatan uzoq masofalarga ma'lumotlarni (signal shaklidagi) uzatishi mumkinligidadir?
+Koaksial
+O'rama juft
+Optik tolali
+To'g'ri javob yo'q
+
+Qanday mahalliy tarmoqda foydalaniladigan eng yangi tеxnologiya hisoblanadi?
+Optik tolali kabеl
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+... - eng ishonchli va tеz, shu bilan birga juda qimmat kabеl turi. Oralig'i 100 km masofadagi tarmoq uchun qo'llaniladi. O'tkazish tеzligi: 2 Gbit/sеk?
+Optik tolali kabеl(fiber-optic cable)
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+... dеyilishiga sabab, bunda axborot eltuvchi yorug'lik nuri bo'ladi, u tarmoq tomonidan o'zgartiriladi va signal shaklini oladi ya'ni yorug'lik quvvatidan tolalar orqali boshqa enеrgiya turiga aylantirilishidir?
+Optik tolali kabеl(fiber-optic cable)
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+Bunday tizim tashqi elеktr halaqitlariga bardoshli va shuning uchun ma'lumotlarni tеz (2 Gbit/sek) va xatosiz uzatish mumkin bo'ladi hamda uzatilayotgan axborotning maxfiyligini ta'minlaydi?
+Optik tolali kabеl(fiber-optic cable)
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+Ular qattiq qatlam bilan, tashqaridan esa himoyaviy qoplam bilan qoplangan ko'rinishda bo'ladi?
+Optik tolali kabеl(fiber-optic cable)
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+Qaysi simlarning afzalliklari: har qanday tashqi qarshiliklarga chidamliligi, ma'lumotlarni uzoq masofalarga o'zgartirishsiz va tеz uzatilishi (avvalgilariga nisbatan hatto 10 barobar tеz)?
+Optik tolali
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+Uning kamchiligi mahalliy hisoblash tarmog'i (MHT)ni hosil qilishda simlarni ulashning nisbatan qiyinligi, ularga xizmat ko'rsatishning qimmatligi va qiyinligidadir?
+Optik tolali
+Koaksial kabеl
+O'rama juft
+To'g'ri javob yo'q
+
+IP-adres nima?
+Nuqtalar bilan ajratilgan to'rtta sondan (oktet)iborat noyob son. Har bir son 0-255 oralig'ida bo'lishi lozim.
+real vaqt rejimida ma'lumot almashish. Misol uchun tarmoq orqali so'zlashish. Bularga chat serverlari xizmatlari kiradi
+bunga axborotlardan foydalanishga ruxsat beruvchi xizmatlar kiradi
+Tarmoq
+
+A sinf IP-adreslari qanday oraliqda bo'ladi?
+0 dan 127 gacha
+128 dan 191 gacha
+192 dan 223 gacha
+224dan 239 gacha
+
+B sinf IP-adreslari qanday oraliqda bo'ladi?
+128 dan 191 gacha
+0 dan 127 gacha
+192 dan 223 gacha
+224dan 239 gacha
+
+C sinf IP-adreslari qanday oraliqda bo'ladi?
+192 dan 223 gacha
+128 dan 191 gacha
+0 dan 127 gacha
+224dan 239 gacha
+
+D sinf IP-adreslari qanday oraliqda bo'ladi?
+224dan 239 gacha
+192 dan 223 gacha
+128 dan 191 gacha
+0 dan 127 gacha
+
+WEB-texnologiyasining hozirgi kunda axborotni ko'rish uchun turli vositalar mavjud, ular qanday nomlanadi?
+Brauzer
+Tarmoq
+Ma'lumot
+Axborot
+
+Lokal hisoblash tarmog'idagi kompyuterlarning joylashishini ifodalovchi termin qanday nomlanadi?
+Topologiya
+Ma'lumot
+Qurilma
+Tarmoq
+
+Ma'lumotlarni kompyuter tarmog'ida bitta kompyuterdan boshqasiga uzatish paytida kompyuter va aloqa kanali ishini muvofiqlashtiruvchi plata shaklida yaratilgan moslashtirgich qanday nomlanadi?
+Tarmoq adapteri (kartasi)
+HUB qurilmasi
+SWITCH qurilmalai
+Telefon
+
+Simsiz aloqa kanali qanda turlarga bo'linadi?
+Infraqizil to'lqinlar, lazer to'lqinlar, radioaloqa
+Ikkita simni bir-bir atrofida o'rash natijasida xosil qilingan kabel
+(Vitaya para) C) Koaksial va optik tolali kabellar
+Uyali aloqa
+
+Lokal xisoblash tarmoqlarining ma'lumotlar almashinish muxiti qanday turlarga bo'linadi?
+Ikkita simni bir-bir atrofida o'rash natijasida xosil qilingan kabel
+Infraqizil to'lqinlar, lazer to'lqinlar, radioaloqa
+(Vitaya para) C) Koaksial va optik tolali kabellar
+Uyali aloqa
+
+Dunyoning ixtiyoriy davlatidagi kompyuterlarni o'zida birlashtirish imkoniga ega bo'lgan tarmoq nima deb ataladi?
+Global tarmoq
+Lokal tarmoq
+Mintaqaviy tarmoq
+To'g'ri javob yo'q
+
+Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o'zida mujassamlashtirgan tarmoq qanday nomlanadi?
+Lokal tarmoq
+Global tarmoq
+Mintaqaviy tarmoq
+To'g'ri javob yo'q
+
+IP – adres – bu ...?
+32 bitli son bo'lib 4 ta qismga bo'linadi
+24 bitli son bo'lib 3 ta qismga bo'linadi
+16 bitli son bo'lib 2 ta qismga bo'linadi
+1 baytli son bo'lib 2 ta qismga bo'linadi
+
+IP – adreslarning soni ...?
+Chegaralangan
+Chegaralanmagan
+Chegaralanmagan, ammo aniqlash mumkin
+Chegaralangan, ammo ixtiyoriy foydalanuvchi kengaytirishi mumkin
+
+Modemning ma'lumotlarni uzatish tezligi ...?
+Bit/sek bilan o'lchanadi
+Megabayt va gigabayt bilan o'lchanadi
+Operatsiya/sekund bilan o'lchanadi
+Sekund/bit bilan o'lchanadi
+
+Kabelning qaysi turi yorug'lik oqimini uzatishga mo'ljallangandir?
+Optiktolali kabellar
+Koaksial kabellar
+Koaksial va optiktolali kabellar
+Kabelli kanallar va optiktolali kabellar
+
+Bod (bit/sek) nima uchun ishltiladi?
+Tarmoqda ma'lumotlarni uzatish tezligini aniqlash uchun
+Kompyuter tezkorligini aniqlash uchun
+Xotira hajmini aniqlash uchun
+Takt chastotasini o'lchash uchun
+
+Asosiy tarmoq topologiyalari:?
+Yulduz, halqa va shina
+Shina, yulduz va ketma-ket
+Halqa, aylana va shina
+Yulduz, halqa va aylana
+
+Tarmoq topologiyasi nima?
+Tarmoqdagi kompyuterlarning joylashishi va bog'lanishi sxemasi
+Tarmoqdagi kompyuterlarning joylashishi
+Tarmoqdagi kompyuterlarning to'plami
+Shaxsiy kompyuterlarning o'zaro bog'lanishi
+
+LAN va WAN nima?
+LAN­– bu lokal va WAN – global tarmoqlardir
+LAN – bu global va WAN – lokal tarmoqlardir
+LAN – apparatura va WAN – programma ta'minotidir
+LAN – tarmoqning programma va WAN – tarmoqning apparatura ta'minotidir
+
+Internet nima?
+Xalqaro (butun dunyo) tarmog'i
+Yevropa va Osiyo orasidagi tarmoq
+AQSH va Yevropa orasida tashkil qilingan tarmoq
+Kompyuterlarning lokal tarmog'i
+
+Kompyuter tarmog'i nima?
+Kompyuter tarmog'i deb ikkita va undan ko'p kompyuterlarning fizik bog'lanishiga aytiladi.
+Kompyuter tarmog'i deb faqat uchta kompyutrlarning bog'lanishiga aytiladi.
+Kompyuter tarmog'i deb faqat ikkita kompyuterning bog'lanishiga aytiladi.
+Kompyuter tarmog'i deb ikkita va undan ko'p kompyuterlarning majmuiga aytiladi.
+
+Domen?
+Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir
+Bu boshqa xujjatlarga o'tish uchun aloqa bog'lovchi murojaatni o'zida saqlaydigan xujjat
+Web – xujjatlarni ko'rib chiqish dasturi
+Bu serverning bo'lagi, ya'ni biror bir mavzuga oid bo'lim hisoblanadi
+
+Tarmoq uzeli?
+Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
+Brouzerga xujjat html tilida yozilganligi to'g'risida xabar beradi
+Web – xujjatlarni ko'rib chiqish dasturi
+Bu boshqa xujjatlarga o'tish uchun aloqa bog'lovchi murojaatni o'zida saqlaydigan xujjat
+
+IP (Internet Protocol) tarmoqlararo bayonnomasi?
+Har xil operatsion tizimlarda ishlovchi turli xildagi hisoblash mashinalarini bir tarmoqda birlashtiruvchi universal standart
+Istalgan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi
+Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahi-fasi tomonidan bosh-qariladigan tarmoq re-surslarining guru-hidir
+Brouzerga xujjat html tilida yozilganligi to'g'risida xabar beradi
+
+Tarmoq bayonnomasi?
+Kompyuterlar o'rta-sida ma'lumotlarni qabul qilish va uza-tish, hamda tarmoq-dagi bir qancha hisob-lash mashinalarining ishini sinxronlash-tirish uchun mo'l-jallangan qoidalar bayonining kelishil-gan va tasdiqlangan standartiga
+Bu internetning biror logik bosqichi bo'lib, o'z nomiga ega bo'lgan va o'zining tarmoq sahifasi tomonidan boshqariladigan tarmoq resurslarining guruhidir
+Amaliy dasturlar o'rtasida ma'lumotlarni qabul qilish va uzatish
+Istalgan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi
+
+Download –?
+Masofaviy tarmoq kompyuteri (udalen-nыy setevoy komp-yuter – server)dan mu-rojaat qilayotgan kompyuter (kliyent)ga fayllar nusxasini ko'cherish jarayonidir
+Masofaviy tarmoq kompyuteri(server)ga fayllarni yuklash jarayoni.
+Istagan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi
+Bir necha lokal tarmoqlarni birlashtiruvchi internetga ulangan kompyuter
+
+Fayllar uzatish bayonnomasi – FTP (File Transfer Protocol)?
+Abonentga tarmoqdagi istagan kompyuterda o'zaro muloqot qilishga sha-roit yaratib beruvchi fayllar uzatish pro-tokoli
+Uzoqda turib tarmoqdagi istagan kompyuterni boshqarish rejimi
+Tarmoq yangiliklari va tarmoqdagi elektron elonlar doskasini olish
+Istagan tarmoq abonentini pochta xabarlari bilan o'zaro muloqotda bo'lib turishini taminlaydi
+
+Qaysi javobda veb resurslarning URL manzili to'g'ri ko'rsatilgan?
+http://www.mk.uz
+1http://www.mk.uz
+ht://tp//www.mk.uz
+google.http://www.mk.uz
+
+WEB-texnologiyasining hozirgi kunda axborotni ko'rish uchun turli vositalar mavjud, ular qanday nomlanadi?
+Brauzer
+Tarmoq
+Ma'lumot
+Axborot
+
+Internet tarmog'iga oddiy modem yordamida, telefon liniyasi orqali telefon raqamini terish yo'li bilan ulanish usulini ko'rsating:?
+Dial-up
+ADSL
+Wi-Fi
+Wi-MAX
+
+Internet tarmog'ida real vaqtda axborotlar (xabarlar) almashish xizmati qanday ataladi?
+Chat
+Elektronpochta
+Elektron murojaat
+Proksi
+
+Ko'pgina kompyuter tarmoqlaridan iborat global kompyuter tarmog'i qanday ataladi?
+Internet
+Intranet
+Mintaqaviy tarmoq
+Korporativtarmoq
+
+Tarmoq orqali fayllarni uzatish uchun protokol ... ishlatiladi?
+FTP
+POP3
+HTTP
+CMPT
+
+Tarmoqdagi kompyuterning to'g'ri IP manzilini tanlang?
+108.214.198.112
+18.274.198.0
+1278.214.198
+10,0,0,1225
+
+Tarmoqdagi barcha kompyuterlar markaziy tugunga ulangan kompyuter tarmog'ining topologiyasi deyiladi?
+Yulduz
+Avtobus
+Ring
+To'g'ri javob yo'q.
+
+IP 215.128.255.106 bo'yicha tarmoqdagi kompyuter raqamini aniqlang?
+106
+215.128.255.106
+128.255.106
+255.106
+
+Protokol ...?
+Kompyuter tarmog'i orqali ma'lumotlarni uzatish standarti
+Kompyuterning axborot kanallari orqali fayllarni yuborish qobiliyati
+mahalliy tarmoq bilan ishlash uchun qurilma
+Elektron pochta orqali xabarlarni yuborish standarti
+
+"Ta'lim sayti" qaysi yuqori darajadagi domenni anglatadi?
+mil
+gov
+com
+edu
+
+Internetga ulangan kompyuterda nima bo'lishi kerak?
+IP manzil
+URL;
+WEB-sahifa;
+domen nomi;
+
+Аxborotning eng kichik oʼlchov birligi nima?
+Bit
+Bayt
+Kilobayt
+Megabayt
+
+Tarmoq platasi (adapteri) nima uchun ishlatiladi?
+Kompyuterni lokal tarmoqqa ulash
+Kompyuterni printerga ulash
+Kompyuterni monitorga ulash
+Kompyuterni skayner ulash
+
+Quyida keltirilgan yozuvlarning qaysi biri pochta manzili hisoblanadi?
+halikov@aci.uz
+halikov.aci@uz
+halikov.aci.uz
+@halikov.aci.uz
+
+Bir bayt necha bitga teng?
+8
+16
+32
+64
+
+Idoralar resurslari va/yoki axborot tizimlari orqali yuridik va jismoniy shaxslarga xizmat koʼrsatish turi qanday nomlanadi?
+Interaktiv davlat xizmatlari
+davlat xizmatlari
+Internet davlat xizmatlari
+Interanet davlat xizmatlari
+
+«Elektron hukumat» nima?
+Аxborotlarga elektron ishlov berish, uzatish va tarqatish vositalari asosida davlatni boshqarish tizimi
+Elektron xujjat aylanish sohasidagi munosabatlarni tartibga solish
+Elektron tijorat sohasidagi munosabatlarni tartibga solish
+Elektron pochta sohasidagi munosabatlarni tartibga solish
+
+Quyidagi qurilmalarning qaysi biri yordamida Internetga ulanish mumkin?
+Modem
+Printer
+Skaner
+Kalonka
+
+Quyida keltirilan saxifalarning qaysi biri Oʼzbekiston Respublikasi xukumat portali hisoblanadi?
+www.gov.uz
+www.edu.uz
+www.prezident.uz
+www.hukumat.uz
+
+Bir kilobayt necha baytga teng?
+1024
+512
+256
+128
+
+Qaysi kabel 10 Mbit / s gacha ma'lumotlarni uzatish tezligini ta'minlaydi?
+koaksiyal
+buralgan juftlik
+Optik tolali
+to'g'ri javob yo'q
+
+HTTP protokoli quyidagilarga xizmat qiladi:?
+Gipermatnni uzatish
+fayl uzatish
+xabarlarni boshqarish
+Dasturni masofaviy kompyuterdan ishga tushiring
+
+Lokal tarmoq uchun zarur qurilmalar:?
+Barchasi
+Server, ishchi stansiyalar
+Tarmoq platasi
+Maxsus kabel
+
+... – bu Intеrnеtga ulanganda axborot almashish qurilmasi?
+Monitor
+Skaner
+Modem
+Printer
+
+Tarmoqlar necha xil bo' ladi?
+3 xil: local, global, mintaqaviy;
+2 xil: local va mintaqaviy;
+2 xil: local va global;
+2 xil global va mintaqaviy
+
+WiMax tizimi nechta ta asosiy qismdan tashkil topgan?
+2
+3
+4
+5
+
+... — ingliz tili so'zlaridan tashkil topgan bo'lib, «simsiz vafolik» ma'nosini anglatadi?
+Wi-Fi (Wireless Fidelity)
+LAN
+WAN
+MAN
+
+Inson ishtirokisiz ma'lum maqsadli operasiyalar ketma-ketligi nima deb...aytiladi?
+avtomatik
+yarim avtomatli
+mexanizasiyalashgan
+avtomatlashtirilgan
+
+Hamma texnologik operasiyalarni o'zaro bog'liqlikda boshqarishni ko'zlovchi avtomatlashtirishning turi qanday nomlanadi?
+kompleksli avtomatlashtirish
+qisman avtomatlashtirish
+kompleksli mexanizasiyalash
+lokal avtomatlashtirish
+
+Avtomatlashtirishning qanday turlari bitta bosqichda jam bo'lgan?
+lokal avtomatlashtirish, avtomatik stabillash, dasturli boshqarish, kuzatuvchi tizim
+nazorat va boshqarishning markazlashuvi
+kuzatuvchi tizim
+lokal avtomatlashtirish
+
+TJABS qanday fnuksiyalarni amalga oshiradi?
+hamma ko'rsatilgan funksiyalar
+axborotni avtomatik to'plash
+axborotni avtomatik qayta ishlash
+parametrlarni lokal bshqarish
+
+To'qimachilik sanoatida avtomatlashtirishning qanday turlaridan keng foydalaniladi?
+hamma ko'rsatilgan turlar
+alohida olingan texnologik parametrlarni rostlash
+eski mashinalarga avtomatlashtirishni kiritish
+alohida olingan mashinalarni boshqarish
+
+To'qimachilik sanoatini avtomatlashtirishning qanday yo'li porloq hisoblanadi?
+hamma ko'rsatilgan tadbirlar
+yangi texnologik jarayonlarni ishlab chiqish
+yordamchi operasiyalarni kompleksli mexaizasiyalash
+avtomatlashtirishning rasional hajmini aniqlash
+
+Yigirishni avtomatlashtirishning asosiy vazifalari qanday?
+hamma ko'rsatilgan vazifalar
+xom-ashyoni tezlik bo'yicha yetkazib beruvchi mashinalarni avtomatlashtirish
+yigiruv tezlgini rostlash
+chiziqli zichlik rostlagichlarini tarash va piltalash mashinalarida qo'llash
+
+To'qimachilik sanoatining qaysi obyekti avtomatlashtirish nuqtai nazaridan muhim va qiziqarli hisoblanadi?
+oxorlash mashinasi
+o'rash mashinasi
+to'quv stanogi
+tandalash mashinasi
+
+Zamonaviy oxorlash mashinalaridagi qanday texnologik parametrlar avtomatik rostlanadi?
+namlikni, sathni rostlash, ohorning temperaturasini rostlash
+sathni rostlash
+ohorning temperaturasini rostlash
+rostlash yopishqoqligini rostlash
+
+Uzluksiz ishlaydigan bo'yoq mashinalarida avtomatlashtirishning qanday turlari ishlatiladi?
+texnologik parametrlarni rostlashni elektr yuritmani boshqarish bilan bog'liqlikda olib borish
+texnologik parametrlarni rostlashni avtomatlashtirish
+faqat lokal avtomatlashtirish
+faqat lokal avtomatlashtirish
+
+Avtomatlashtirishning qanday turini trikotaj to'quv mashinalarida qo'llashga loyiq?
+dastlabki dasturlash orqali kompyuterlashtirilgan
+dastlabki dasturlash orqali
+dastlabki dasturlashsiz
+programmali boshqarishsiz
+
+To'quv mashinalaridagi elektr yuritma asinxron motorlarining aylanish tezligi qanday rostlanadi?
+rotor cho'lg'ami zanjiriga qarshilik kiritish, stator cho'lg'ami qutblar sonini almashlab ulash, tarmoq chastotasini o'zgartirish orqali
+stator cho'lg'ami qutblar sonini almashlab ulash
+tarmoq chastotasini o'zgartirish orqali
+tiristorli yuritma orqali
+
+Zamonaviy to'qimachilik sanoatida yassi to'quv mashinasini mikroprosessorli boshqarishni qanday tizimi dolzarb?
+ma'lumotlarni simsiz aloqa vositasidan uzatish orqali
+sirpanuvchi kontaktlarni ishlatish orqali
+signallarni kabel liniyasi orqali uzatish bilan
+perfokartalar orqali
+
+To'qimachilik va yengil sanoatning qaysi jarayonlarida avtomatlashtirilgan me'yorlash qo'llaniladi?
+pardozlash mashinasi, to'quv stanogi, teri ishlab chiqarishdagi oshlash vannasi
+bo'yash mashinasi
+to'quv stanogi
+teri ishlab chiqarishdagi oshlash vannasi
+
+Tikuv mashinasida to'g'ri burchali chokni bajarish uchun qanday avtomat qurilmalar ishlatiladi?
+fotodiodlar
+induktiv datchiklar
+gerkonlar
+selsinlar
+
+To'qimachilik va yengil sanoatida eritmaning quyuqlanishini rostlash obyektlarini ko'rsating?
+hamma yuqorida ko'rsatilgan javoblar
+terini ho'llash vannasi
+oqlash vannasi
+bo'yash vannasi
+
+Tarash mashinalarida momiqning qalinligini avtomatik tarzda rostlash ajraladigan barabanning tezligini o'zgartirish orqali amalga oshiriladi. Bunday holda qanday datchikni qo'llash mumkin?
+fotoelektrik, rolikli, optoelektron
+mexanik
+rolikli
+induktiv
+
+Tasmali mashinada tasmaning tekisligini o'lchash va rostlash uchun qanday datchikni ishlatsa bo'ladi?
+paz silindrli datchiklar
+sig'im shaklidagi datchiklar
+fotoelementlar
+radioaktiv datchiklar
+
+To'qimachilik sanoatidagi qaysi mashinada namlik rostlagichi ishlatiladi?
+oxorlash mashinasi
+yigiruv
+o'rash
+to'quv
+
+Zamonaviy ishlab chiqarishda konveyerlarni avtomatlashtirishning qanday usullari mavjud?
+belgilangan holatda to'xtatish, avtomatik adreslash, avtomatik to'xtatish va revers qilish
+avtomatik  adreslash
+avtomatik to'xtatish va revers qilish
+konveyerni mikroprosessorli boshqarish
+
+Tikuv sanoatida avtomatlashtirilgan uzliksiz liniyalarni hosil qilishni ishlab chiqishga ipsiz tikuv mashinalarini joriy qilish bilan  tezlashtirish mumkin. Bichish detallarini ulashning qanday usullari ushbu mashinalarda ishlatiladi?
+ultratovushli payvandlash, yuqori chastotali toklarni qo'llash
+yamash usuli
+yuqori chastotali toklarni qo'llash
+termoplastik kleylardan foydalanish
+
+O'rash mashinalari va avtomatlarini avtomatlashtirishdan maqsad nima?
+ko'rsatilgan hamma punktlar
+ip uzilishini avtomatik bartaraf etish
+nogotokning avtomatik almashuvi
+o'ta yuklamalardan himoya qilishni ta'minlash
+
+Pardozlash  mashinalarida qo'llaniladigan elektr motorlarining tezligini sinxronizasiyalash uchun  qanday qurilmalar ishlatiladi?
+ko'rsatilgan hamma kompensatorlar
+novli kompensatorlar
+sirtmoqli kompensatorla
+rolikli kompensatorlar
+
+Pardozlash mashinasidagi generator-motor tizimi va rolikli kompensatorlarning kamchiliklarini ko'rsatin?
+ko'rsatilgan hamma kamchiliklar
+katta o'lchamlar
+tezkorligining kamligi
+motor FIKining pastligi
+
+Qanday  elektr yuritma bo'yash-pardozlash ishlab chiqarishdagi uskunalar uchun istiqbolli hisoblanadi?
+chastotaviy boshqariluvchi elektr yuritma
+asinxron motorli
+tiristorli o'zgarmas tok elektr yuritmasi
+qadamli dvigatel
+
+Yigirish tezligini rostlashning qanday tizimlari istiqbolii sanaladi?
+tiristorli rostlanadiga
+dasturli tizimlar
+dasturli boshqaraladigan pnevmatik tizimlar
+ipning uzilishini va uskunaning samarodorligini nazorat qiladigan
+
+Inson mehnatidan foydalangan holda xom-ashyoni qayta ishlashda ma'lum bir kema-ketlikka ega ijro mexanizmlari yoki sistema komponentlarining o'zaro bog'lanishi nima deb aytiladi?
+avtomatlashtirilgan
+mexanizasiyalashgan
+yarim avtomatik
+avtomatik
+
+Inson-mashina tizimi qanday avtomatlashtirilgan funksiyalarni ta'minlaydi?
+hamma funksiyalar
+xom-ashyozahiralarini qayd etish
+avariya holatlari haqida signal berish
+ishlab chiqarilgan mahsulotni qayd etish
+
+Harakatlanayotgan mahsulot tarangligni rostlash obyektlarini ko'rsating?
+keltirilgan hamma obyektlar
+to'quv stanogidagi ip asosi
+tasmali mashinadagi tasma
+pardozlash mashinasidagi gazlama
+
+Bichish mashinasida gazlamani to'shash jarayonida gazlama chetlarini tekislash zarur. Buning uchun quyidagi datchiklar ishlatiladi?
+fotoelektrik datchiklar
+elektromagnit datchiklari
+elektromagnit datchiklari
+selsinlar
+
+To'quv sanoatidagi qaysi mashinalarda elektr yuritmani avtomatlashtirish uchun oddiy sensor kontaktli datchiklardan foydalanish mumkin?
+hamma ko'rsatilgan mashinalarda
+kesuvchi presslarda
+konveyerlarda
+hamma to'quv
+
+Dastur tashuvchi sifatida trikotaj to'quv mashinalarida nima ishlatiladi?
+ko'rsatilgan hamma dastur tashuvchilar
+mexanik tanlash
+magnit lenta
+perfokartalar
+
+Texnologik jarayonlarni avtomatlashtirilgan boshqarish sistemasi (TJABS)  nima uchun mo'ljallangan?
+texnologik boshqarish obyektiga boshqaruvchi ta'sirlarni ishlab chiqish va amalga oshirish.
+tashqi ta'sirlarni boshqarish
+axborotlar  oqimini boshqarish
+axborotni to'plash va uzatish
+
+Texnologik boshqarish obyekti (TBO) nima?
+texnologik uskunalar majmuasi bo'lib, ularda tegishli yo'riqnomalar yoki reglamentlar bo'yicha ishlab chiqarishning texnologik jarayonini amalga oshirilishidir
+texnologik jarayonlar sodir bo'ladigan obyekt
+ishlab chiqarish jarayonlari majmui
+texnologik qurilmalar majmui
+
+Texnologik boshqarish obyekti va uni boshqaradigan TJABS nimani tashkil qilishadi?
+avtomatlashtirilgan texnologik kompleksni
+avtomatlashtirilgan texnologik jarayonni
+avtomatlashtirilgan dispetcher punktini
+A va S punkt javoblari
+
+TJABS tarkibiga nimalar kiradi:?
+texnik, matematik, axborotli va tashkiliy ta'minot
+texnik va matematik ta'minot
+texnik va axborotli ta'minot
+moddiy, matematik va axborotli ta'minot
+
+Oxorlash mashinasida nima rostlanuvchi obyektni ko'rsating?
+oxorlash tog'orasi to'ldiruvchi oxor
+elektr motori
+qayta ishlanuvchi asos
+oxorlash tog'orasi
+
+Sanoat roboti nima?
+insonni ishlab chiqarishda almashtiradigan manipulyator va dasturlanadigan boshqarish qurilmasi majmuasi
+aniq opersiyalarni bajarishga mo'ljallangan elektrmexanik qurilma
+avtomatik regulyator
+avtomatlashtirilgan texnologik mashina
+
+Avtomatlashtirilgan boshqarish sistemasining asosiy ishonchlilik ko'rsatkichlari?
+buzilishlar jadalligi, buzilishlarsiz ishlash ehtimoli, buzilishlar ehtimoli, tayyorgarlik koeffisiyenti
+buzilmasdan ishlash ehtimoli
+buzilishlar jadalligi
+ikkita qo'shni buzilishlar orasidagi o'rta vaqt
+
+O'lchash asboblariga nimalar kiradi?
+operator bevosita qabul qilishiga qulay bo'lgan formaga o'lchovchi axborotni aylantirib  beruvchi qurilmalar
+texnologik jarayonning parametrlarini o'lchovchi qurilmalar
+signallarni bir turdan ikkinchi turga aylantirib beruvchi qurilmalar
+axborotlarni qabul qilishga va jo'natishga mo'ljallangan qurilmalar
+
+O'lchovchi asboblar – bu ...?
+o'lchov axborotini uni tarqatishga, o'zgartirishga, qayta ishlashga va saqlashga mos bo'lgan shaklda qayta ishlab beruvchi qurilmalar, lekin o'lchov axborotlari bevosita kuzatuvchi tomonidan his qilinmaydi
+o'lchov axborotini kuzatuvchi tomonidan bevosita his qilininadigan tarzda  qayta ishlab beruvchi qurilmalar
+o'lchov axborotini saqlash va uzatishga qulay shaklda qayta ishlab beruvchi qurilma
+axborotni qayta ishlash, saqlash va uzatishga mo'ljallangan qurilma
+
+Nazorat-o'lchov vositalari sifatida qanday qurilmalar ishlatiladi?
+datchiklar
+PID-regulyator
+taxometrlar
+avtomat rostlagichlar
+
+Texnologik jarayonlarda suyuqlik sarfini rostlash uchun qanday usullar qo'llaniladi?
+drossellash, baypaslash, rostlanuvchi energiya manbai yordamida quvurdagi bosimni o'zgartirish
+drossellash va baypaslas
+rostlanuvchi energiya manbai yordamida quvurdagi bosimni o'zgartirish
+drossellash
+
+Avtomatikaning texnologik chizmalari nimani anglatadi?
+qurilmalar orasidagi bog'liqlikni
+qurilma va elementlar orasidagi bog'liqlikn
+qurilmaning alohida elementlari orasidagi bog'liqlikni
+avtomatlashtirilgan tizimlarnig dinamik xossalarini
+
+Qaysi elektr energetik kattaliklar avtomatik nazorat qilinadi?
+tok, kuchlanish,quvvat, quvvat koeffisiyenti
+harorat, sath, bosim, sarf
+burchak tezlik, deformasiya, kuch, moment
+konsentrasiya, tarki
+
+Pardozlash sanoatida to'qima materiallarni quritishda qaysi asosiy parametrlar nazorat qilinadi?
+issiqlik tashuvchining harorati, materialning namligi
+bosim, suv sarfi
+sath, issiqlik tashuvchi
+sarf, materialning namligi
+
+Inson-mashina tizimi qanday avtomatlashtirilgan funktsiyalarni ta'minlab beradi?
+barcha funktsiyalarni
+ishlab chiqarilgan mahsulotni nazorat qilish
+avariyaviy holatlarda signalizatsiyaning chalishi
+texnologik parametrlarni ro'yxatga olish
+
+To'qimachilik sanoatida xaroratni, kontsentratsiyani va sathni nazorat qiluvchi obyektni ko'rsating?
+moddiy-yuvish mashinalari
+oxorlash mashinalari
+gul bosish mashinalari
+oqlovchi mashinalar
+
+Avtomatlashtirish maqsadida alohida bo'lgan ishlab chiqarish jarayonini kuzatganda qaysi matematik apparatdan foydalanish maqsadga muvofiq bo'ladi?
+eksperimentni rejalashtirish usuli
+Aklassik regression analiz
+differentsial hisoblash
+chiziqli algebra
+
+Tikuv sanoatida nam-issiqlik pressida avtomatik rostlanuvchi parametrlarini ko'rsating?
+press yostiqchasining haroratini rostlash, presslashning vaqt saqlamasini ta'minlash
+presslashning vaqt saqlamasini ta'minlash
+mahsulot namligini avtomatik nazorat qilish
+pressni yopishdagi nazorat
+
+Material uzunligini o'lchashda qo'llaniladigan datchiklarni ko'rsating?
+barcha ko'rsatilgan datchiklar
+selsinlar
+aylanuvchi transfarmatorlar
+induktsion va fotoelektrik
+
+Tikuv sanoatining tayyorlov sexining bichish lenta mashinasida tasma pichog'ining uzilish xavfi bor. Xodimlarning xavfsizligini ta'minlash uchun nima ishlatiladi?
+elektrmagnitli ushlagich
+fotoelektrik qo'riqchi
+induktiv datchik
+elektron asbob
+
+To'quv mashinalarida  ignalarni tanlash, ignalarni kamaytirish va ko'paytirish mexanizmi va h.k. ishlarda qaysi dvigatelni qo'llash yangi yo'nalish hisoblanadi?
+qadamli
+o'zgarmas tok
+asinxron uch fazali
+sinxron uch fazali
+
+Trikotaj to'quv mashinalarida dastur tashuvchi sifatida nima ishlatiladi?
+dasturlashning ko'rsatilgan hamma turlarida
+jakkard kartalari
+mexanik tanlov
+magnit tanlov
+
+Yukni avtomatik adreslash tizimlarida adres tashuvchi sifatida nima ishlatiladi?
+ko'rsatilganlarning hammasi adres tashuvchi
+shtirli tizimlar
+perfokartali
+klavishli qurilmalar
+
+Berilgan eritmalarni hosil qilishda qanday qurilmalar qo'llaniladi?
+avtomatik miqdoriy dozatorlar, автоматические порционные дозаторы, sath o'lchagich dozator
+hajmli dozatorlar
+vazn dozatorlari
+sath o'lchagich dozator
+
+Tayyor mahsulotga ishlov berish uchun issiq-nam ishlov berishda qanday qurilmadan foydalaniladi?
+par-havoli manekenlar
+faltsovkali presslar
+dazmollash sexi
+dazmollar
+
+Dazmollash uskunasining ishchi organlariga qanday talablar qo'yiladi?
+rostlash jarayonida xarorat qiymatining minimal tarqoqligi
+ishchi yuza xaroratining turg'unligi
+mahsulotga shiddatli issiqlik berilishi ta'minlanishi kerak
+bir tekisda bug'lanishi va mahsulotda yaltiroq dog'larning bo'lmasligi
+
+Zamonaviy ishlab chiqarishda qanday avtomatlashtirilgan konveyer mavjud?
+berilgan holatda avtomatik to'xtatish, avtomatik adreslash, автоматическое адресование, avtomatik to'xtatish va revers
+avtomatik adreslash
+avtomatik to'xtatish va revers
+konveyerlani mikroprotsessorli boshqarish
+
+Jixozdagi generator-dvigatel va rolikli kompensator tizimlarning kamchiliklarini ko'rsating?
+barcha ko'rsatilgan javoblar
+katta o'lchamlar
+yetarlicha tez harakatlanuvchan emasligi
+dvigatelninf foydali ish koeffitsiyenti
+
+Tikuv sanoatidagi nam-issiq qayta ishlov beruvchi pressda avtmatik rostlanuvchi parametrlarini?
+press yostiqchasining haroratini rostlash
+preslashning vaqt saqlamasini ta'minlash
+mahsulot namligini avtomatik nazorat qilish
+pressni yopishdagi nazorat
+
+Uzluksiz harakatdagi bo'yash mashinalarida avtomatlashtirishning qanday turlari ishlatiladi?
+texnologik parametrlarni elektryuritmali boshqarish bilan bog'liqlikda rostlash
+faqat lokal avtomatlashtirish
+texnologik parametrlarni avtomatik rostlash
+faqat elektr yuritma orqali
+
+Trikotaj ishlab chiqarish mashinalarida asosan qaysi parametr nazorat qilinadi?
+ipning uzilishi
+xarorat
+sath
+bosim
+
+Hozirgi kunda konveyerlar uchun qanday avtomatlashtirilgan boshqarish qo'llaniladi?
+signalizatsiya, yuklarni adreslash, yoqish va o'chirish ketma-ketligini aniqlash
+yuklarni adreslash
+yoqish va o'chirish ketma-ketligini aniqlash
+yuk holatining nazorati
+
+Yigirishda avtomatlashtirish qanday asosiy vazifalarni bajaradi?
+barcha ko'rsatilgan vazifalarni
+to'qish tezligini rostlash
+xom ashyoni uzatish tezligi bo'yicha to'quv mashinalarni avtomatlashtirish
+внедрение регуляторов линейной плотности чесальные и ленточные машины
+
+Datchik deb ...?
+texnologik jixozga o'rnatiluvchi va boshqarish ob'yektining boshqarish kattaligi haqidagi kiruvchi axborotni birinchi bo'lib qabul qiluvchi element
+boshqarish ob'yektiga kiruvchi signallarni o'zgartirish uchun xizmat qiluvchi element
+noelektrik kiruvchi signallarni elektrik signallarga aylantirib beruvchi element
+boshqarish ob'yekti parametrlarini o'lchash va nazorat qilish uchun xizmat qiluvchi element
+
+Mikrokontrollerning aniq  ta'rifini toping?
+mikrokontroller – bu electron qurilmalarni boshqarishga mo'ljallangan mikrosxema
+mikrokontroller – bu obektning parametrlarini boshqaruvchi tizim
+mikrokontroller – bu bitta korpusga jamlangan mikroprotsessorlar majmui
+yuqorida ko'rsatilgan hamma javoblar
+
+Avtomatik rostlagich – bu ...?
+obektga ta'sir qiluvchi rostlanuvchi ta'sirni o'zgartiradigan qurilma bo'lib, rostlanuvchi ta'sirni yuklama bilan moslaydi
+analog signallarni raqamli signallarga aylantirib berishga mo'ljallangan
+obektga ta'sir qiluvchi g'alayonlarni o'zgartirishga moslangan qurilma
+sistemaning qiyoslovchi elementiga boshqaruvchi signalni beruvchi qurilma
+
+To'qimachilik sanoatidagi boshqarish obektlarini matematik ifodalashning qanday usullari mavjud:?
+analitik, eksperimental, eksperimental- analitik
+aktiv, passiv
+eksperimental, analitik, passiv
+yuqorida ko'rsatilgan hamma javoblar
+
+Avtomatik signallashtirish tizimi qanday maqsadlarga mo'ljallangan?
+texnologik qurilmaning holati yoki unda ro'y berayotgan texnologik jarayon haqida xizmat ko'rsatayotgan xodimlarga bildirish uchun
+boshqarish texnologik obektida avariya holatlarini operatorga bildirish uchun
+boshqarish obektidagi holatlar haqida xodimlarga bildirish uchun
+dispetcherlik punktiga avariyaviy axborotlarni yig'ish va uzatish uchun
+
+Avtomatik signallashtirish tizimi qanday maqsadlarga mo'ljallangan?
+texnologik qurilmaning holati yoki unda ro'y berayotgan texnologik jarayon haqida xizmat ko'rsatayotgan xodimlarga bildirish uchun
+boshqarish texnologik obektida avariya holatlarini operatorga bildirish uchun
+boshqarish obektidagi holatlar haqida xodimlarga bildirish uchun
+dispetcherlik punktiga avariyaviy axborotlarni yig'ish va uzatish uchun
+
+Avtomatik nazorat tizimi qanday maqsadlarga mo'ljallangan?
+inson ishtirokisiz texnologik agregat ishini yoki undagi texnologik jarayonni xarakterlovchi turli kattaliklarni nazorat qilish (yani o'lchash va normative ko'rsatkichlar bilan kiyoslash) uchun
+texnologik agregatda kechadigan texnologik jarayonning asosiy kattaliklarini rostlash uchun
+texnologik jarayonning asosiy kattaliklarini o'lchash va rostlash uchun
+agregatlarda va qurilmalarda avariyaviy holatlarni bartaraf etish uchun
+
+Avtomatik blokirovka va himoya tizimi qanday maqsadlarga mo'ljallangan?
+agregatlarda va qurilmalarda avariyaviy holatlarni bartaraf etish uchun
+xizmat ko'rsatayotgan xodimlarni texnologik qurilmaning holati haqida bildirish uchun
+agregat va qurilmalarda shovqinlarni bartaraf etish uchun
+yuqorida ko'rsatilgan hamma javoblar
+
+Avtomatik ishga tushirish va to'xtatish tizimi qanday maqsadlarga mo'ljallangan?
+oldindan berilgan dastur asosida turli agregat yoki texnologik qurilmalarning yuritma va mexamizmlarini yoqish, qayta ulash va o'chirishni ta'minlash uchun
+avariya holatida agregat yoki texnologik qurilmani ishga tushirish va to'xtatishni ta'minlash uchun
+turli agregatlarning yuritma va mexamizmlarini yoqish va o'chirishni ta'minlash uchun
+agregat yoki texnologik qurilmalarni avariya ro'y berganida to'xtatish uchun
+
+Avtomatik boshqarish sistemasi qanday maqsadlarga mo'ljallangan?
+texnik qurilmalar va agragatlar ishini yoki ularda sodir bo'layotgan jarayonlarni boshqarish uchun
+oldindan berilgan dastur asosida texnologik jarayonning kirish parametrlarini boshqarish uchun
+oldindan berilgan dastur asosida texnologik jarayonning chiqish parametrlarini boshqarish uchun
+texnologik jarayonning asosiy kattaliklarini o'lchash, nazorat qilish va rostlash uchun
+
+G'alayonlovchi ta'sir deb nimaga aytiladi?
+obektni muvozanat holatidan chiqaruvchi,  yani uning moddiy yoki energetik balansini buzuvchi ta'sirlarga
+boshqarish obektidan chiqib uning energetic balansini muvozanatga keltiruvchi ta'sirlarga
+boshqarish obektining kirishiga keluvchi ta'sirlarga
+obektning avvalgi holatini tiklovchi yoki uni yangi muvozanat holatiga o'tkazuvchi ta'sirlarga
+
+Rostlanuvchi (boshqariluvchi) ta'sir deb nimaga aytiladi?
+obektning avvalgi holatini tiklovchi yoki uni yangi muvozanat holatiga o'tkazuvchi  ta'sirlarga
+obektni muvozanat holatidan chiqaruvchi,  yani uning moddiy yoki energetik balansini buzuvchi ta'sirlarga
+oldindan berilgan dastur asosida texnologik jarayonning chiqish parametrlarini boshqaruvchi ta'sirlarga
+texnologik jarayonning asosiy kattaliklarini o'lchovchi, nazorat qiluvchi va rostlovchi ta'sirlarga
+
+Rostlagich quyidagi funktsional elementlardan tashkil topgan:?
+belgilovchi element, taqqoslovchi element, o'zgartiruvchi element, ijro mexanizmi
+belgilovchi element va taqqoslovchi element
+belgilovchi element, taqqoslovchi element va ijro mexanizmi
+o'zgartiruvchi element va ijro mexanizmi
+
+Quyidagi javoblardan qaysi biri rostlash qonuni yoki  ishlash algoritmi deb aytiladi?
+rostlagichning kirish va chiqishini bog'laydigan matematik ifodaga
+boshqarish obektining holatini ifodalaydigan differentsial ifodaga
+g'alayonlovchi ta'sir bilan boshqaruvchi ta'sir orasidagi bog'lanishni ifodalaydigan tenglamaga
+g'alayonlovchi ta'sir bilan kiruvchi ta'sir orasidagi bog'lanishni ifodalaydigan tenglamaga
+
+To'qimachilik sanoatida titish-savash agregatlari qanday maqsadlarda qo'llaniladi?
+paxtani yumshatish, aralashtirish, savash va tozalash uchun
+ip olish uchun
+tarash tasmasini olish uchun
+tolani savash va tozalash uchun
+
+Yugiruvning titish va savash jarayoni nihoyasida qanday mahsulot olinadi?
+tarash tasmasi
+pilik
+qayta tarash tasmasi
+dag'al mato
+
+To'qimachilikda pilik mashinalari qanday maqsadda ishlatiladi?
+pilik olish uchun
+pilik va ip olish uchun
+tarash tasmasini olish uchun
+tolani savash va tozalash uchun
+
+To'qimachilikda tarash mashinalari qanday maqsadda ishlatiladi?
+tarash tasmasini olish uchun
+pilik olish uchun
+pilik va ip olish uchun
+qayta tarash tasmasini olish uchun
+
+Dasturli boshqarish tizimi – bu?
+oldindan tayyorlangan va boshqaruvchi hishoblash mashinasidagi maxsus dastur tashuvchiga tadbiq qilingan dastur asosida texnologik obektlarni boshqarishni ta'minlovchi TJABS
+sistemani dasturli boshqarishni ta'minlovchi TJABS
+mikroprotsessorli qurilmalarni boshqarishni ta'minlovchi TJABS
+avtomatik rostlagichlarni dasturli boshqarishni ta'minlovchi TJABS
+
+Dasturlanadigan kontrollerlar (PLC)ning aniq ta'rifini toping?
+dasturlanadigan kontrollerlar (PLC) – bu ishlab chiqarish uskunasining texnologik tsikl ishini boshqarishga mo'ljallangan boshqaruvchi qurilmalardir
+dasturlanadigan kontrollerlar (PLC) – bu bitta korpusda jamlangan mikroprotsessorlardir
+dasturlanadigan kontrollerlar (PLC) – bu texnologik jarayonning chiqish parametrlarini boshqaruvchi sistema
+dasturlanadigan kontrollerlar (PLC) – bu texnologik obekt paramertlarini boshqaruvchi sistemadir
+
+Rostlovchi organni tanlashda birinchi navbatda nimani baholash kerak?
+Rostlovchi organning  sarf  tavsifi
+Rostlovchi organning o'lchamlari
+Rostlovchi organning o'lchamlari nisbati
+Rostlovchi organning  geometrik shakli
+
+PI-rostlagichni rostlashda obektning qanday parametrlari ishlatiladi:?
+obektning doimiy vaqti, toza kechikish, uzatish koeffitsienti
+rostlanuvchi parametrning o'zgarish oralig'i, rostlanuvchi obektning chiqish kattaligi, toza kechikish
+ga'layonlovchi ta'sir kattaligi, rostlanuvchi organning inertsionlik parametrlari, uzatish koeffitsienti
+toza kechikish, rostlanuvchi ta'sirlar, izodrom vaqti
+
+O'rash, tandalash mashinalarida va to'qish dastgohida asosan rostlagichlarning qanday turlari qo'llaniladi?
+elektr
+mexanik taranglash rostlagichi
+pnevmatik
+pnevmatik va elektr
+
+Avtomatik nazorat bu:?
+avtomatik o'lchash, avtomatik signal berish, avtomatik axborotni to'plash, avtomatik saralash
+Avtomatik o'lchash, avtomatik himoya, avtomatik saralash
+avtomatik signal berish,  avtomatik o'lchash, avtomatik himoya
+avtomatik himoya,  avtomatik o'lchash, avtomatik hisobga
+
+Kuchaytirgich chiqish signalining fizik mohiyatini o'zgartiradimi:?
+ozgartirmaydi
+ozgartiradi
+ozgartiradi va stabillashtiradi
+generatsiya qiladi
+
+Datchikni quyidagi ikki qismlardan iborat tasavvur qilish mumkin:?
+sezgir va stabillashtiruvchi element
+o'lchovchi va kuchaytiruvchi element
+obekt va rostlagich
+o'lchovchi va stabillashtiruvchi element
+
+Quyida keltirilgan o'zgartirgichlardan qaysi biri generatorli datchiklarga tegishli:?
+termopara
+potentsiometrik
+Вtermorezistor
+fotorezistor
+
+Quyidagilardan qaysilari ijro mexanizmlariga kirmaydi:?
+gaz to'ldirilgan
+elektr motorli
+elektr magnitli
+gidravlik
+
+Yigiruv sanoatida ta'minlagich-qorgich qanday maqsadda ishlatiladi?
+paxtani yumshatish uchun
+tolani savash va tozalash uchun
+pilik olish uchun
+pilik va ip olish uchun
+
+Bоshqаrish sistеmаsi nimа?
+Bеrilgаn xususiyatlаr bilаn elеmеntlаrni bоg'lаnish strukturаsi?
+Bоshqаrish signаl xоsil qiluvchi sistеmа
+O'zgаruvchаn strukturаgа egа bo'lgаn sistеmа
+Aniq strukturаgа egа bo'lgаn sistеmа
+
+Rоstlаnuvchi pаrаmеtrni bеrilgаn qiymаti tiklаnmаgunchа rоstlаsh оrgаni xаrаkаtdаn to'xtаmаydigаn rеgulyatоr qаysi?
+stаtik
+prоgrаmmаli
+оgоxlаntirgichli
+ikki xоlаtl
+
+Bоshqаrish sistеmаsining аniqligini оshirish usullаr?
+Sistеmа tаrkibigа intеgrаllоvchi zvеnо kiritish оrqаli
+Sistеmа tаrkibigа kuchаytiruvchi zvеnо kiritish оrqаli
+Sistеmа tаrkibigа kоrrеktlоvchi zvеnо kiritish оrqаli
+Sistеmа tаrkibigа diffеrеnsiаllоvchi zvеnо kiritish оrqаl
+
+Аvtоmаtik sistеmаlаr vаqt bo'yichа kvаnlаnаdigаn bo'lsа qаndаy nоmlаnаdi?
+Impul'sli аvtоmаtik sistеmаlаr dеyilаdi
+Chiziqli аvtоmаtik sistеmа
+Rаqаmli аvtоmаtik sistеmаlаr dеyilаdi
+Rеlеli аvtоmаtik sistеmаlаr dеyilаdi
+
+Sistеmаning tеzligini оshirish usullаri.?
+Sistеmа tаrkibigа diffеrеnsiаllоvchi zvеnо kiritish оrkаli
+Sistеmа tаrkibigа kuchаytiruvchi zvеnо kiritish оrqаli
+Sistеmа tаrkibigа intеgrаllоvchi zvеnо kiritish оrqаli
+Sistеmа tаrkibigа kоrrеktlоvchi zvеnо kiritish оrqаli
+
+Bоshqаrishning аsоsiy sifаt ko'rsаtkichlаriga nimalar kiradi?
+Аniqligi, tеzkоrligi, o'tаrоstlаsh, tеbrаnishlаr sоni
+Аniqligi, tеzkоrligi, o'tаrоstlаsh
+Tеzkоrligi, o'tаrоstlаsh, tеbrаnishlаr sоni
+Аniqligi, tеzkоrligi
+
+Sistеmаning xаrаktеristik tеnglаmаsi nimа?
+Sistеmаning xаrаkаt xаrаktеristikаsini аniqlоvchi ildizlаri
+Sistеmаning stаtikаsini аniqlоvchi ildizlаri
+Lаplаs o'zgаrtirishini diffеrеnsiаl tеnglаmаlаrgа qo'llаnilishi
+Sistеmаning dinаmikаsini аniqklоvchi ildizlаri
+
+Аrаlаsh bоshqаrish ko'llаngаndа аmаliy chizmаdа qаysi zаnjir yuqоlаdi?
+bаrchа zаnjirlаr sаqlаnаdi
+bоshqаrish оb'еktining chiqishini ulchаb,nаtijаni kаrоr kаbul kilish uskunаsigа uzаtаdigаn (kаytа аlоkа zаnjiri
+gаlаyonlаntiruvchi tа'sirni ulchаb,nаtijаni kаrоr kаbul kilish uskunаsigа uzаtаdigаn zаnjir
+kаrоr kаbul kilish uskunа bilаn bоshkаrish оb'еktini bоglаydigаn zаnjir
+
+Bir ulchаmli tizim?
+bittа kirish vа bittа chiqishgа egа bulаdi
+bittа kirish vа bir nеchtа chiqishgа egа bulаdi
+bir nеchtа kirish vа bir nеchtа chiqishgа egа bulаdi
+kаytа аlоkа tаmоili urinli bo'lgаn
+
+Bоshqаrish nimа?
+оldindаn tаnlаb оlingаn mаqsаdgа erishishgа yo'nаltirilgаn munоsаbаtlаrni ishlаb chiqish vа ro'yobgа chiqаrish
+tаnlаngаn оb'еkt uchun mоs kеlаdigаn signаl yoki tа'sirlаrni ishlаb chiqish
+signаl ko'rinishidаgi infоrmаsiyani (аxbоrоtni) bоshqаrish оb'еktigа uzаtish
+vаriаntni o'rgаnib chiqqаn hоldа buyruqlаr tаyorlаsh vа chiqаrish
+
+Bоshqаrish оb'еkti nimа?
+hоlаtlаri vа ulаrgа tа'sir ettiruvchilаri bеlgilаb оlingаn ixtiyoriy tаbiаtgа egа bo'lgаn оb'еkt yoki jаrаyon
+ixtiyoriy tаbiаtgа egа bo'lgаn оb'еkt yoki jаrаyon
+turli sоxаlаrdа tеgishli bo'lgаn ishlаb chiqаrish оb'еktlаri
+turli sоxаlаrgа tеgishli bo'lgаn tеxnаlоgik jаrаyonlаr
+
+Bоshqаrish tizimi nimа?
+bоshqаrish оb'еktti bоshqаrish uskunаsi, ulаr оrаsidаgi munоsаbаtlаr,bоshqаrish mаqsаdi vа tаshqi tа'sirlаrning mаjmuаsi
+bоshqаrish оb'еkti vа ungа ko'rsаtilаyotgаn tа'sirlаr
+bоshqаrish uskunаsi, bоshqаruvchi signаl vа bоshqаrish mаqsаdi bilаn birgаlikdа
+infоrmаsiya (аxbоrоt) bilаn ish оlib bоrаdigаn hаr qаndаy tizim
+
+Bоshqаruvchi uskunа nimа?
+bоshqаrish mаqsаdi hаmdа bоshqаrish оb'еktining jоriy vа o'tmishdаgi hоlаtlаri hаqidаgi infоrmаsiya  (аxbоrоt,mа'lumоt) аsоsidа bоshqаruvchi tа'sirni ishlаb chiquvchi vа ro'yobgа chiqаruvchi bоrliq
+bоshqаrish tа'sirini ishlаb chiquvchi uskunа
+buyruq chiqаruvchi tаshkilоt
+o'lchаb оlingаn mа'lumоtlаrni o'zаrо sоlishtirib bоshqаruvchi tа'sirni ishlаb chiquvchi uskunа
+
+Ijrо mеxаnizmning vаzifаsi nimаdаn ibоrаt?
+bоshqаrish bo'yichа ishlаb chiqilgаn qаrоrgа аsоslаngаn hоldа bоshqаruvchi tа'sirni bоshqаrish оb'еktigа nisbаtаn ro'yobgа chiqаrish
+o'lchаb оlingаn infоrmаsiyani аsоslаngаn hоldа bоshqаruvchi signаlni ishlаb chiqish
+оb'еkt hаqidа mа'lumоt to'plаsh vаzifаsini ijrо etish
+mаqsаdgа muvоfiq bоshqаruvchi tа'sirni ishlаb chiqish
+
+Qаndаy tizimlаr diskrеt (rаkаmli) dеyilаdi?
+infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning diskrеt dаqiqаlаridа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+
+Qаndаy tizimlаr impul'sli dеyilаdi?
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtаg tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+
+Qаndаy tizimlаr rеlеli dеyilаdi?
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning diskrеt dаqiqаlаridа diskrеt qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning ixtiyoriy dаqiqаsidа ixtiyoriy qiymаtgа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+infоrmаsiya vаktning diskrеt dаqiqаlаridа ixtiyoriy qiymаtigа tеng bo'lgаn funksiyalаr yordаmidа uzаtilsа
+
